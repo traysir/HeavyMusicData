@@ -1,0 +1,923 @@
+Track,Artist,Album,Year,Duration,Time_Signature,Danceability,Energy,Key,Loudness,Mode,Speechiness,Acousticness,Instrumentalness,Liveness,Valence,Tempo,Popularity
+3 Libras,A Perfect Circle,Mer De Noms,2000,219640,3,0.518,0.744,9,-8.248,1,0.0374,0.00383,0.007,0.078,0.211,144.019,58
+By And Down The River,A Perfect Circle,Eat The Elephant,2003,304906,3,0.231,0.64,9,-5.454,0,0.0356,0.0012,0.104,0.119,0.0497,97.503,45
+Counting Bodies Like Sheep To The Rhythm Of The War Drums,A Perfect Circle,eMOTIVe,2004,336440,4,0.632,0.938,8,-6.999,1,0.339,0.0467,0.0057,0.098,0.227,135.787,49
+Imagine,A Perfect Circle,eMOTIVe,2004,288000,4,0.537,0.495,8,-6.188,1,0.0255,0.127,0.00453,0.109,0.155,73.019,46
+Judith,A Perfect Circle,Mer De Noms,2000,247266,3,0.366,0.894,11,-4.682,0,0.0568,0.0000345,0.17,0.267,0.304,82.305,65
+Pet,A Perfect Circle,Thirteenth Step,2004,274333,4,0.542,0.806,8,-4.973,1,0.0482,0.0021,0.436,0.291,0.333,140.155,58
+Rose,A Perfect Circle,Mer De Noms,2003,205973,3,0.499,0.664,11,-8.656,1,0.0446,0.00613,0.304,0.116,0.179,119.831,47
+The Noose,A Perfect Circle,Thirteenth Step,2004,293173,4,0.679,0.409,1,-10.41,1,0.0313,0.0695,0.265,0.079,0.31,131.983,55
+The Outsider,A Perfect Circle,Thirteenth Step,2004,246000,4,0.328,0.843,6,-6.644,1,0.0887,0.000111,0.801,0.0496,0.422,113.329,62
+Weak And Powerless,A Perfect Circle,Thirteenth Step,2003,195133,3,0.483,0.841,1,-7.494,0,0.0523,0.000172,0.861,0.108,0.13,159.747,60
+Balls to the Wall,Accept,Balls To The Wall,1983,342600,4,0.544,0.739,9,-7.383,1,0.0517,0.00392,0.000143,0.168,0.328,118.287,57
+Dark Side of My Heart,Accept,Blind Rage,1993,276986,4,0.507,0.941,6,-4.349,0,0.0445,0.000412,0.0138,0.287,0.735,151.08,33
+Fast as a Shark,Accept,Restless And Wild,1982,228666,4,0.431,0.95,2,-11.399,1,0.117,0.000109,0.248,0.232,0.162,140.044,44
+I'm A Rebel,Accept,I'm A Rebel,1980,238259,4,0.554,0.865,4,-8.188,1,0.0543,0.0341,0.00135,0.304,0.535,146.987,28
+Metal Heart,Accept,Metal Heart,1985,323666,4,0.32,0.553,7,-14.959,1,0.0524,0.00491,0.404,0.119,0.173,116.156,40
+Midnight Mover,Accept,Metal Heart,1985,186493,4,0.394,0.763,1,-12.27,0,0.0485,0.00173,0.000328,0.0996,0.69,146.532,35
+Princess of the Dawn,Accept,Restless And Wild,1981,375466,4,0.649,0.584,2,-10.308,1,0.0421,0.038,0.117,0.446,0.478,128.851,44
+Restless and Wild,Accept,Restless And Wild,1982,252093,4,0.429,0.855,4,-9.909,0,0.0557,0.00105,0.011,0.0941,0.601,145.272,35
+Starlight,Accept,Breaker,1984,230893,4,0.241,0.877,11,-9.384,0,0.078,0.000147,0.213,0.372,0.399,165.491,26
+Teutonic Terror,Accept,Blood of the Nations,2010,313586,4,0.324,0.976,9,-3.84,1,0.0679,0.000157,0.000379,0.11,0.593,124.236,53
+Ballad of Dwight Fry,Alice Cooper,Love It to Death,1971,393000,4,0.437,0.353,4,-15.153,0,0.0295,0.326,0.00453,0.166,0.354,88.304,41
+Billion Dollar Babies - Live in Columbus,Alice Cooper,Paranormal,2017,218000,4,0.402,0.988,1,-4.004,0,0.115,0.000337,0.0328,0.837,0.353,91.654,4
+Feed My Frankenstein,Alice Cooper,Hey Stoopid,1991,284000,4,0.531,0.917,0,-8.033,1,0.0554,0.00362,0.000347,0.239,0.393,101.829,50
+Halo of Flies,Alice Cooper,Killer,1971,502000,4,0.387,0.572,9,-12.565,1,0.0483,0.394,0.747,0.0851,0.399,121.796,34
+I'm Eighteen,Alice Cooper,Love It to Death,1971,180000,4,0.618,0.413,4,-14.164,0,0.0302,0.249,0.0517,0.131,0.531,97.84,55
+No More Mr. Nice Guy - Live in Columbus,Alice Cooper,Paranormal,2017,190000,4,0.391,0.979,8,-4.054,1,0.12,0.00239,0,0.776,0.396,130.902,5
+Poison,Alice Cooper,Trash,1989,270000,4,0.28,0.908,2,-5.509,0,0.109,0.0327,0.00000885,0.18,0.26,118.698,70
+School's Out,Alice Cooper,School's Out,1972,210000,4,0.294,0.745,5,-9.138,1,0.0461,0.05,0.125,0.676,0.347,134.364,68
+Under My Wheels - Live in Columbus,Alice Cooper,Paranormal,2017,176000,4,0.353,0.991,1,-4.203,0,0.124,0.000447,0.00233,0.804,0.358,143.512,5
+Welcome to My Nightmare,Alice Cooper,Welcome to My Nightmare,1975,320000,4,0.438,0.717,11,-13.226,0,0.05,0.305,0.00122,0.07,0.593,112.408,41
+Again,Alice In Chains,Alice In Chains,1995,245000,4,0.55,0.868,7,-6.243,1,0.046,0.000707,0.0245,0.121,0.405,123.15,56
+Angry Chair (2022 Remaster),Alice In Chains,Dirt (2022 Remaster),1992,287800,4,0.329,0.943,8,-5.742,1,0.0913,0.0406,0,0.0548,0.157,107.422,53
+Down In A Hole (2022 Remaster),Alice In Chains,Dirt (2022 Remaster),1992,338226,4,0.356,0.818,6,-5.343,1,0.0335,0.0122,0.000118,0.123,0.389,97.528,66
+Heaven Beside You,Alice In Chains,Alice In Chains,1995,327893,4,0.551,0.724,10,-7.09,0,0.032,0.00451,0.000167,0.116,0.559,111.243,61
+Man in the Box,Alice In Chains,Facelift,1990,285200,4,0.355,0.791,8,-7.565,1,0.0453,0.00045,0,0.0969,0.758,106.392,76
+No Excuses,Alice In Chains,Jar Of Flies,1994,255573,4,0.527,0.838,3,-6.013,1,0.0323,0.0206,0.00062,0.07,0.721,117.454,64
+Nutshell,Alice In Chains,Jar Of Flies,1994,259200,3,0.384,0.561,3,-10.059,0,0.0296,0.373,0.253,0.0775,0.159,136.136,72
+Rooster (2022 Remaster),Alice In Chains,Dirt (2022 Remaster),1992,374333,3,0.263,0.562,3,-7.858,1,0.0273,0.0289,0.00118,0.12,0.213,146.08,72
+Them Bones (2022 Remaster),Alice In Chains,Dirt (2022 Remaster),1992,149466,1,0.16,0.954,9,-5.179,1,0.0685,0.023,0.00000401,0.372,0.336,165.223,70
+Would? (2022 Remaster),Alice In Chains,Dirt (2022 Remaster),1992,206773,4,0.297,0.842,6,-7.457,1,0.0488,0.000286,0.0000091,0.0848,0.586,100.127,75
+Death in Fire,Amon Amarth,Versus the World (Bonus Edition),2004,294893,4,0.479,0.986,4,-3.92,0,0.18,0.00000125,0.634,0.117,0.164,130.015,41
+Deceiver of the Gods,Amon Amarth,Deceiver of the Gods,2013,259173,4,0.262,0.991,1,-5.373,0,0.167,0.0000409,0.204,0.15,0.0827,192.858,47
+Guardians Of Asgaard,Amon Amarth,Twilight Of The Thunder God,2008,263160,4,0.529,0.953,9,-4.562,1,0.0594,0.000129,0.000487,0.146,0.279,134.968,56
+Oden Owns You All,Amon Amarth,The Great Heathen Army,2013,257693,4,0.412,0.969,6,-6.78,0,0.0589,0.000281,0.0362,0.266,0.465,199.983,41
+Runes To My Memory,Amon Amarth,With Oden On Our Side,2008,272693,4,0.485,0.991,4,-3.563,0,0.0855,0.0000322,0.107,0.414,0.0366,125.991,40
+The Berserker at Stamford Bridge,Amon Amarth,Berserker,2011,315350,4,0.417,0.953,0,-5.463,0,0.0588,0.00608,0.0128,0.192,0.193,75.995,33
+The Pursuit Of Vikings,Amon Amarth,Fate of Norns,2004,270253,4,0.506,0.967,6,-2.973,1,0.0451,0.0000659,0.41,0.167,0.488,129.704,56
+The Way of Vikings,Amon Amarth,Jomsviking,2016,311320,4,0.495,0.948,7,-4.763,1,0.0653,0.0000268,0.299,0.123,0.169,140.004,42
+Twilight Of The Thunder God,Amon Amarth,Twilight Of The Thunder God,2008,248746,4,0.374,0.92,6,-4.653,1,0.0501,0.0000162,0.026,0.0802,0.278,191.014,60
+War of the Gods,Amon Amarth,Surtur Rising,2011,273253,4,0.434,0.994,11,-5.108,0,0.0836,0.0000344,0.0293,0.254,0.15,95.171,51
+Among The Living,Anthrax,Among The Living,1987,316866,4,0.307,0.987,4,-10.409,1,0.113,0.00024,0.000192,0.139,0.0395,155.737,42
+Antisocial,Anthrax,State Of Euphoria,1988,264666,4,0.44,0.842,7,-13.408,1,0.037,0.000126,0.0000168,0.0929,0.332,104.115,46
+Belly Of The Beast,Anthrax,Persistence Of Time (30th Anniversary Remaster),1987,287666,1,0.345,0.976,2,-5.437,1,0.181,0.00048,0.0658,0.074,0.0627,110.37,36
+Bring The Noise,Anthrax,Attack Of The Killer B's,1991,211786,4,0.601,0.831,2,-8.582,1,0.17,0.00086,0,0.102,0.296,120.962,53
+Caught In A Mosh,Anthrax,Among The Living (Deluxe Edition),1987,300093,4,0.339,0.991,2,-5.028,1,0.145,0.000249,0.00327,0.261,0.185,106.767,49
+Got The Time,Anthrax,Persistence Of Time (30th Anniversary Remaster),1990,164333,4,0.371,0.973,10,-5.303,0,0.135,0.000641,0.00163,0.0423,0.444,127.721,58
+I Am The Law,Anthrax,Among The Living (Deluxe Edition),1987,353973,4,0.329,0.989,11,-4.603,0,0.0941,0.00141,0.00471,0.0353,0.253,152.456,42
+Indians,Anthrax,Among The Living,1987,341333,4,0.379,0.941,11,-10.443,0,0.038,0.000869,0.000637,0.0393,0.527,105.155,50
+Madhouse,Anthrax,Spreading The Disease,1985,259760,4,0.329,0.885,9,-10.661,1,0.0904,0.0242,0.00433,0.735,0.481,163.538,57
+Only,Anthrax,Sound of White Noise - Expanded Edition,1993,296306,4,0.474,0.978,11,-5.454,1,0.164,0.00309,0,0.421,0.0722,111.217,47
+Bittersweet,Apocalyptica,Apocalyptica,2005,266680,4,0.273,0.429,7,-8.693,0,0.03,0.0209,0.000726,0.142,0.0856,111.126,47
+Hall of the Mountain King,Apocalyptica,Cult,1987,209280,4,0.176,0.54,7,-8.37,1,0.0495,0.000911,0.861,0.058,0.294,190.066,37
+I Don't Care - US Version,Apocalyptica,I Don't Care,2005,221493,4,0.33,0.734,2,-4.972,0,0.0416,0.000953,0,0.0874,0.256,178.986,59
+Nothing Else Matters,Apocalyptica,Inquisition Symphony,1991,285533,3,0.346,0.198,2,-12.208,0,0.0334,0.566,0.893,0.0958,0.163,138.103,56
+Path,Apocalyptica,Cult,2007,186000,4,0.408,0.564,8,-8.101,1,0.0323,0.000294,0.873,0.0744,0.328,105.083,45
+Prologue (Apprehension),Apocalyptica,Reflections Revised,2007,191720,4,0.291,0.902,7,-6.417,1,0.0478,0.0000297,0.743,0.359,0.5,99.152,22
+As the Pages Burn,Arch Enemy,War Eternal,2014,241160,4,0.36,0.978,7,-4.342,1,0.121,0.00000981,0.177,0.142,0.304,103.884,41
+Dead Eyes See No Future,Arch Enemy,Anthems of Rebellion,2005,254946,4,0.253,0.97,10,-4.886,0,0.119,0.00025,0.0146,0.232,0.297,146.324,37
+My Apocalypse,Arch Enemy,Doomsday Machine,2007,325586,4,0.329,0.899,10,-4.921,0,0.0524,0.0000363,0.281,0.105,0.26,117.332,44
+Nemesis,Arch Enemy,Doomsday Machine,2014,252280,4,0.246,0.954,8,-3.811,1,0.0975,0.0000579,0.291,0.126,0.164,97.553,55
+Ravenous,Arch Enemy,Wages of Sin,2003,245333,4,0.209,0.994,1,-3.868,1,0.109,0.000045,0.276,0.38,0.181,178.199,39
+Revolution Begins,Arch Enemy,Rise of the Tyrant,2008,251586,4,0.306,0.83,1,-3.1,1,0.0616,0.0000211,0.0108,0.092,0.237,123.772,34
+The Day You Died,Arch Enemy,Rise of the Tyrant,2014,292866,4,0.135,0.926,5,-3.184,0,0.0776,0.0000289,0.264,0.09,0.247,156.473,31
+The World Is Yours,Arch Enemy,Will To Power,2011,293466,4,0.267,0.988,0,-4.146,1,0.152,0.0000604,0.485,0.186,0.0992,184.849,50
+War Eternal,Arch Enemy,War Eternal,2014,256053,4,0.445,0.98,5,-4.369,0,0.0731,0.0000245,0.163,0.129,0.285,155.045,57
+We Will Rise,Arch Enemy,Anthems of Rebellion,2004,246706,4,0.466,0.98,6,-5.068,1,0.145,0.0000115,0.0145,0.335,0.21,113.974,44
+A Little Piece of Heaven,Avenged Sevenfold,Avenged Sevenfold,2007,480706,4,0.486,0.881,2,-5.623,0,0.0474,0.0244,0,0.429,0.667,144.997,75
+Afterlife,Avenged Sevenfold,Avenged Sevenfold,2007,352426,4,0.487,0.949,2,-4.217,0,0.0798,0.000429,0.0000291,0.231,0.406,110.02,73
+Almost Easy,Avenged Sevenfold,Avenged Sevenfold,2007,234093,4,0.378,0.959,6,-4.615,1,0.062,0.0000356,0.000138,0.102,0.338,174.932,66
+Bat Country,Avenged Sevenfold,City of Evil,2005,311813,4,0.541,0.968,0,-4.129,1,0.0396,0.000248,0.00000828,0.423,0.505,125.04,70
+Dear God,Avenged Sevenfold,Avenged Sevenfold,2009,393480,4,0.472,0.772,5,-5.928,1,0.0316,0.00658,0.0000565,0.132,0.6,139.993,72
+Hail to the King,Avenged Sevenfold,Hail to the King,2013,305906,4,0.58,0.916,3,-4.358,0,0.0387,0.000297,0.0259,0.126,0.683,118.004,77
+Nightmare,Avenged Sevenfold,Nightmare,2010,374453,4,0.554,0.949,2,-4.928,1,0.0787,0.000318,0.0000998,0.2,0.233,129.984,70
+Scream,Avenged Sevenfold,Avenged Sevenfold,2007,288520,4,0.549,0.941,6,-4.802,0,0.0521,0.0000374,0.00000145,0.214,0.581,130.009,61
+Seize the Day,Avenged Sevenfold,City of Evil,2005,334066,4,0.393,0.802,5,-4.499,1,0.0367,0.0168,0,0.193,0.338,140.101,69
+Unholy Confessions,Avenged Sevenfold,Waking The Fallen,2003,283826,4,0.447,0.876,2,-5.446,0,0.066,0.000359,0.00103,0.255,0.532,92.535,67
+Bartzabel,Behemoth,I Loved You at Your Darkest,2014,301320,4,0.467,0.914,6,-5.707,1,0.0782,0.0238,0.104,0.0776,0.18,109.003,37
+Blow Your Trumpets Gabriel,Behemoth,The Satanist,2014,265440,4,0.173,0.938,6,-4.642,1,0.0807,0.000216,0.00244,0.271,0.176,118.064,40
+Chant for Ezkaton 2000 E. V.,Behemoth,The Apostasy,2000,310226,4,0.505,0.989,3,-6.861,1,0.0859,0.0000745,0.345,0.698,0.0536,90.038,39
+Conquer All,Behemoth,Demigod,2005,211266,4,0.235,0.927,6,-5.824,1,0.084,0.000173,0.893,0.0748,0.253,90.497,47
+Demigod,Behemoth,Demigod,2004,213293,4,0.271,0.981,1,-6.071,1,0.455,0.000087,0.768,0.0613,0.0697,128.077,38
+Ov Fire And The Void,Behemoth,Evangelion,2009,267320,4,0.465,0.978,1,-4.34,1,0.084,0.0000298,0.646,0.0268,0.13,129.994,43
+Satan's Sword (I Have Become) (Live),Behemoth,In Absentia Dei (Live),2014,368506,4,0.213,0.981,1,-6.733,1,0.167,0.0000716,0.0531,0.107,0.0373,97.514,5
+Slaves Shall Serve,Behemoth,Demigod,2005,187013,4,0.252,0.986,6,-5.488,1,0.287,0.000149,0.326,0.192,0.143,139.916,41
+The Satanist,Behemoth,The Satanist,2014,333826,4,0.391,0.934,6,-4.105,0,0.0569,0.000124,0.000086,0.105,0.365,112.073,32
+Bored to Tears,Black Label Society,Sonic Brew (20th Anniversary Blend 5.99 - 5.19),2003,268973,4,0.362,0.937,1,-7.443,0,0.161,0.00117,0.0005,0.332,0.333,165.189,31
+Concrete Jungle,Black Label Society,Shot To Hell,2003,204266,4,0.451,0.987,9,-4.105,1,0.106,0.00000954,0.102,0.0568,0.368,137.731,42
+Crazy Horse,Black Label Society,Order Of The Black (Amazon bonus track edition),2003,243664,4,0.498,0.989,2,-3.62,1,0.138,0.0116,0.0024,0.276,0.0583,94.542,35
+Fire It Up,Black Label Society,Mafia,2003,299986,4,0.443,0.785,10,-6.031,1,0.0313,0.0000869,0.0102,0.428,0.344,92.415,54
+In This River,Black Label Society,Mafia,2005,235426,4,0.45,0.357,7,-8.857,1,0.0276,0.0929,0.0000162,0.108,0.292,83.268,51
+Lost Heaven,Black Label Society,1919 Eternal,2008,263746,4,0.67,0.836,1,-5.45,0,0.027,0.00591,0.000501,0.0826,0.554,127.784,30
+No More Tears,Black Label Society,Sonic Brew,1992,416386,4,0.306,0.843,1,-4.543,0,0.074,0.00194,0.0393,0.102,0.17,99.598,36
+Stillborn,Black Label Society,The Blessed Hellride,2003,196040,4,0.585,0.881,5,-4.719,0,0.0366,0.0000227,0.000939,0.376,0.425,107.03,65
+Suicide Messiah,Black Label Society,Mafia,2006,347866,4,0.359,0.83,5,-5.723,1,0.0725,0.000217,0.0000378,0.0601,0.206,76.727,55
+Black Sabbath,Black Sabbath,Black Sabbath,1970,378000,4,0.317,0.431,2,-14.338,1,0.0415,0.0467,0.0457,0.239,0.133,132.652,48
+Children of the Grave,Black Sabbath,Master of Reality,1971,317000,4,0.318,0.65,6,-13.928,1,0.0375,0.0802,0.132,0.0962,0.368,149.994,55
+Heaven and Hell,Black Sabbath,Heaven and Hell,1980,419000,4,0.329,0.673,3,-8.465,0,0.0296,0.0239,0.109,0.138,0.323,91.122,55
+Heaven and Hell - 2008 Remaster,Black Sabbath,Heaven and Hell (2008 Remaster),1980,419933,4,0.329,0.673,3,-8.465,0,0.0296,0.0239,0.109,0.138,0.323,91.122,57
+Iron Man,Black Sabbath,Paranoid,1970,355000,4,0.336,0.792,9,-10.875,1,0.084,0.00351,0.00175,0.0437,0.427,155.587,65
+Iron Man - 2012 - Remaster,Black Sabbath,Paranoid (Remaster),1980,355303,4,0.336,0.792,9,-10.875,1,0.084,0.00351,0.00175,0.0437,0.427,155.587,66
+Jack the Stripper / Fairies Wear Boots,Black Sabbath,Paranoid,1970,372000,4,0.424,0.662,3,-10.827,1,0.0434,0.00152,0.0241,0.176,0.627,137.347,49
+Paranoid,Black Sabbath,Paranoid,1970,168000,4,0.412,0.658,4,-12.051,0,0.0708,0.0000452,0.000774,0.176,0.454,163.071,72
+Paranoid - 2012 - Remaster,Black Sabbath,Paranoid (Remaster),1970,168405,4,0.412,0.658,4,-12.051,0,0.0708,0.0000452,0.000774,0.176,0.454,163.071,75
+Sabbath Bloody Sabbath,Black Sabbath,Sabbath Bloody Sabbath,1973,346000,4,0.359,0.625,1,-9.643,0,0.0351,0.369,0.000077,0.0674,0.524,137.764,53
+Sweet Leaf,Black Sabbath,Master of Reality,1971,304000,4,0.362,0.6,2,-12.285,1,0.0463,0.00183,0.0426,0.0814,0.658,148.462,54
+War Pigs / Luke's Wall,Black Sabbath,Paranoid,1970,474000,4,0.332,0.623,9,-12.363,1,0.08,0.222,0.000895,0.278,0.413,183.097,64
+Wasp / Behind the Wall of Sleep / Bassically / N.I.B.,Black Sabbath,Black Sabbath,1970,583000,4,0.378,0.467,11,-11.781,0,0.0515,0.025,0.0000361,0.316,0.503,101.73,41
+Imaginations from the Other Side - Remastered 2007,Blind Guardian,Imaginations from the Other Side (Remastered 2007),1995,437506,4,0.483,0.979,5,-4.278,0,0.115,0.00249,0.651,0.259,0.174,134.032,36
+Lost in the Twilight Hall - Remastered 2007,Blind Guardian,Tales from the Twilight World (Remastered 2007),1990,359186,4,0.368,0.962,11,-6.102,1,0.112,0.0000114,0.518,0.262,0.206,90.149,33
+Majesty - Remastered 2017,Blind Guardian,Battalions of Fear (Remastered 2017),1986,450946,4,0.326,0.918,11,-6.3,0,0.0902,0.00000357,0.056,0.0583,0.354,79.287,31
+Mirror Mirror - Remastered 2007,Blind Guardian,Nightfall in Middle Earth (Remastered 2007),1986,306013,4,0.314,0.964,0,-4.276,1,0.0939,0.00135,0.000247,0.289,0.238,177.931,49
+Nightfall - Remastered 2007,Blind Guardian,Nightfall in Middle Earth (Remastered 2007),1998,334693,3,0.464,0.763,10,-5.67,0,0.0289,0.00316,0.00196,0.113,0.268,95.928,47
+The Bard's Song - In the Forest - Remastered 2007,Blind Guardian,Somewhere Far Beyond (Remastered 2007),1990,189893,3,0.396,0.415,8,-7.56,0,0.0283,0.846,0.0000438,0.141,0.38,81.778,56
+Twilight of the Gods,Blind Guardian,Beyond the Red Mirror,1998,289399,4,0.422,0.945,8,-6.412,1,0.0563,0.000259,0.0298,0.047,0.399,188.034,43
+Valhalla,Blind Guardian,Memories of a Time to Come,1988,313213,4,0.378,0.968,1,-7.811,1,0.176,0.00016,0.0666,0.16,0.201,169.835,49
+(Don't Fear) The Reaper,Blue Oyster Cult,Agents Of Fortune,1976,308000,4,0.333,0.927,9,-8.55,0,0.0733,0.0029,0.000208,0.297,0.385,141.466,74
+Burnin' for You,Blue Oyster Cult,Fire of Unknown Origin,1981,271000,4,0.532,0.728,9,-9.079,0,0.0352,0.106,0.0108,0.0849,0.69,134.303,66
+Cities On Flame with Rock and Roll,Blue Oyster Cult,Blue Oyster Cult,1972,242000,4,0.337,0.886,4,-8.607,1,0.098,0.0716,0.00156,0.204,0.648,177.713,51
+E.T.I. (Extraterrestrial Intelligence) - Remastered,Blue Oyster Cult,Cult Classic (Remastered),1994,314000,4,0.468,0.704,9,-10.188,1,0.0323,0.00291,0.0208,0.213,0.83,96.498,11
+Godzilla - Remastered,Blue Oyster Cult,Cult Classic (Remastered),1994,221000,4,0.292,0.695,11,-8.627,1,0.0357,0.0365,0.0000511,0.145,0.868,183.073,19
+I Love the Night,Blue Oyster Cult,Spectres,1977,263000,4,0.487,0.488,0,-11.418,1,0.0262,0.00109,0.000671,0.541,0.183,134.62,40
+Sinful Love,Blue Oyster Cult,Agents Of Fortune,1976,208000,4,0.596,0.866,9,-6.7,0,0.0587,0.162,0.00000185,0.17,0.89,124.443,35
+Tattoo Vampire,Blue Oyster Cult,Agents Of Fortune,1976,160000,4,0.302,0.936,7,-6.823,0,0.0878,0.027,0.267,0.529,0.677,166.525,32
+The Red & the Black,Blue Oyster Cult,Tyranny And Mutation,1973,263000,4,0.402,0.912,7,-7.094,1,0.0651,0.00367,0.274,0.802,0.687,143.231,28
+Veteran of the Psychic Wars,Blue Oyster Cult,Fire of Unknown Origin,1981,289000,4,0.453,0.776,0,-9.937,1,0.0432,0.162,0.0000381,0.349,0.568,85.992,44
+Accident of Birth - 2001 Remaster,Bruce Dickinson,Accident of Birth (Expanded Edition),1997,263466,4,0.382,0.968,9,-4.782,0,0.0801,0.005,0.0000335,0.455,0.595,177.349,37
+Chemical Wedding - 2001 Remaster,Bruce Dickinson,The Chemical Wedding,1998,246106,4,0.26,0.815,4,-4.551,0,0.0367,0.00252,0.00000981,0.149,0.294,72.562,40
+Darkside of Aquarius - 2001 Remaster,Bruce Dickinson,Accident of Birth (Expanded Edition),1990,402466,4,0.563,0.916,2,-6.154,0,0.0491,0.00424,0.00027,0.205,0.301,124.883,38
+Dive! Dive! Dive!,Bruce Dickinson,Tattooed Millionaire,1990,279000,4,0.633,0.839,4,-6.149,1,0.0759,0.00636,0.0000115,0.385,0.749,112.62,9
+Tattooed Millionaire,Bruce Dickinson,Tattooed Millionaire,1990,266306,4,0.501,0.944,4,-6.368,1,0.0601,0.00562,0,0.366,0.652,130.31,26
+Tears of the Dragon - 2001 Remaster,Bruce Dickinson,Balls to Picasso (2001 Remaster),1994,384013,4,0.496,0.62,4,-7.458,0,0.0265,0.00386,0.00000147,0.114,0.279,140.06,56
+The Tower - 2001 Remaster,Bruce Dickinson,The Chemical Wedding,1990,285013,4,0.551,0.884,2,-6.239,1,0.0379,0.000247,0.000524,0.113,0.706,102.18,38
+4 Words (To Choke Upon),Bullet For My Valentine,The Poison,2006,223760,4,0.387,0.95,8,-2.875,1,0.0807,0.0000905,0.000078,0.126,0.333,92.479,47
+Alone,Bullet For My Valentine,Fever,2008,356280,4,0.321,0.97,7,-3.509,1,0.0644,0.000022,0.0047,0.118,0.08,119.005,48
+Hand Of Blood,Bullet For My Valentine,Hand Of Blood,2005,217453,4,0.375,0.985,8,-2.754,1,0.0936,0.000246,0,0.07,0.455,94.468,52
+Hearts Burst into Fire,Bullet For My Valentine,Scream Aim Fire,2008,297946,4,0.24,0.968,0,-3.669,0,0.109,0.000996,0.000106,0.119,0.119,89.686,51
+Scream Aim Fire,Bullet For My Valentine,Scream Aim Fire,2008,266440,4,0.359,0.994,2,-4.232,1,0.084,0.000116,0.00000589,0.0816,0.16,100.146,47
+Tears Don't Fall,Bullet For My Valentine,The Poison,2005,348386,4,0.213,0.927,7,-3.378,0,0.14,0.000729,0.00000485,0.081,0.28,162.109,62
+The Last Fight,Bullet For My Valentine,Fever,2018,259306,4,0.299,0.971,7,-3.118,1,0.142,0.000456,0,0.283,0.336,184.549,52
+Waking the Demon,Bullet For My Valentine,Scream Aim Fire,2008,247693,4,0.306,0.995,2,-3.203,1,0.1,0.0000298,0.00859,0.254,0.135,127.908,52
+Your Betrayal,Bullet For My Valentine,Fever,2010,291426,4,0.569,0.883,2,-4.41,0,0.0748,0.0000807,0.0000774,0.0883,0.373,134.001,66
+A Skull Full of Maggots,Cannibal Corpse,Eaten Back To Life,1990,126333,4,0.25,0.982,1,-7.911,0,0.145,0.0000581,0.000151,0.171,0.166,136.707,36
+Butchered at Birth,Cannibal Corpse,Butchered At Birth,1989,163400,4,0.339,0.98,10,-7.994,0,0.0934,0.000251,0.936,0.0803,0.439,146.651,30
+Devoured by Vermin,Cannibal Corpse,Vile,2006,193160,3,0.164,0.984,7,-8.975,1,0.22,0.000179,0.826,0.131,0.056,177.747,32
+Evisceration Plague,Cannibal Corpse,Evisceration Plague,2009,270920,4,0.291,0.98,1,-5.138,1,0.153,0.00127,0.091,0.102,0.257,79.792,49
+Hammer Smashed Face,Cannibal Corpse,Tomb Of The Mutilated,1992,242760,4,0.357,0.98,6,-6.835,1,0.079,0.0000522,0.843,0.0768,0.368,96.969,55
+I Cum Blood,Cannibal Corpse,Tomb Of The Mutilated,1992,221960,4,0.338,0.988,8,-7.29,0,0.0865,0.0000835,0.833,0.0377,0.449,99.046,51
+Make Them Suffer,Cannibal Corpse,Kill,2004,170520,4,0.297,0.973,1,-4.505,1,0.151,0.00146,0.918,0.139,0.234,102.757,43
+Scourge of Iron,Cannibal Corpse,Torture,2012,284400,4,0.446,0.977,10,-5.036,0,0.0781,0.000535,0.472,0.105,0.339,172.059,53
+"Stripped, Raped, And Strangled",Cannibal Corpse,The Bleeding,1990,206120,4,0.256,0.952,7,-8.631,0,0.103,0.0000219,0.587,0.135,0.0724,144.481,45
+The Bleeding,Cannibal Corpse,The Bleeding,1994,259680,4,0.216,0.987,1,-7.37,0,0.0971,0.00000394,0.908,0.052,0.199,93.803,33
+A Dying God Coming into Human Flesh,Celtic Frost,Monotheist,1987,339186,3,0.153,0.329,3,-5.575,0,0.0362,0.0125,0.918,0.0604,0.0793,102.001,39
+Cherry Orchards,Celtic Frost,Parched With Thirst Am I and Dying,1985,242066,4,0.506,0.901,11,-10.33,0,0.0504,0.0015,0.000353,0.634,0.427,143.034,17
+Circle of the Tyrants,Celtic Frost,To Mega Therion,1987,276933,4,0.247,0.97,4,-7.921,1,0.0937,0.0000138,0.842,0.21,0.0877,131.315,31
+Dethroned Emperor,Celtic Frost,Morbid Tales,1985,277760,4,0.257,0.913,4,-7.393,1,0.0554,0.00000449,0.865,0.0845,0.188,136.501,32
+Into the Crypts of Rays,Celtic Frost,Morbid Tales,1984,219306,4,0.154,0.968,11,-6.938,0,0.0861,0.00000173,0.772,0.626,0.252,168.839,37
+Morbid Tales,Celtic Frost,Morbid Tales,1984,209133,4,0.209,0.952,11,-6.893,0,0.0483,0.00000108,0.862,0.153,0.433,141.913,31
+Procreation (Of the Wicked),Celtic Frost,Morbid Tales,1985,244733,4,0.266,0.734,11,-7.098,0,0.0291,0.00000233,0.726,0.108,0.319,185.332,32
+The Usurper,Celtic Frost,To Mega Therion,1985,204933,4,0.15,0.931,6,-7.657,0,0.0751,0.00000236,0.31,0.431,0.302,164.255,34
+Visual Aggression,Celtic Frost,Emperor’s Return EP,1999,250986,4,0.213,0.978,4,-5.99,0,0.115,0.0000717,0.91,0.25,0.118,110.664,17
+Angels Don't Kill - Live in London,Children Of Bodom,Hellhounds on My Trail,2007,351400,4,0.258,0.903,5,-4.125,1,0.044,0.000597,0.0373,0.655,0.259,92.581,3
+Are You Dead Yet?,Children Of Bodom,Are You Dead Yet?,2005,234880,4,0.466,0.967,8,-3.001,1,0.0515,0.00000621,0.198,0.305,0.294,95.998,57
+Bodom After Midnight,Children Of Bodom,Follow The Reaper,2021,224173,4,0.455,0.986,10,-4.042,1,0.142,0.0000533,0.735,0.199,0.276,134.063,41
+Downfall,Children Of Bodom,Hatebreeder,2008,280546,4,0.44,0.952,3,-3.691,1,0.0572,0.00115,0.896,0.0925,0.246,99.538,47
+Everytime I Die,Children Of Bodom,Follow The Reaper,2006,243000,4,0.422,0.912,7,-3.111,0,0.0409,0.0000272,0.337,0.101,0.336,104.066,47
+Follow The Reaper,Children Of Bodom,Follow The Reaper,2000,227493,4,0.392,0.948,2,-3.466,1,0.07,0.0000418,0.717,0.665,0.296,95.896,43
+Hate Me,Children Of Bodom,Follow The Reaper,2008,284733,4,0.447,0.977,2,-3.491,1,0.0582,0.0000766,0.411,0.103,0.415,93.997,44
+In Your Face,Children Of Bodom,Are You Dead Yet?,2008,255973,4,0.496,0.988,7,-3.444,1,0.0719,0.0000163,0.556,0.0339,0.293,115.056,47
+Lake Bodom,Children Of Bodom,Something Wild,2008,241800,4,0.236,0.994,6,-3.99,0,0.2,0.0000275,0.36,0.311,0.185,147.276,38
+Sixpounder,Children Of Bodom,Hate Crew Deathroll (US Editiion),2005,204333,4,0.429,0.881,2,-4.92,0,0.0429,0.00000386,0.525,0.321,0.413,152.029,30
+Am I Demon,Danzig,Danzig,1990,297293,4,0.373,0.924,1,-9.1,0,0.0553,0.00011,0.00776,0.0836,0.347,135.02,51
+Dirty Black Summer,Danzig,Danzig III: How The Gods Kill,1992,312640,4,0.399,0.928,7,-7.829,0,0.126,0.00693,0.000248,0.335,0.128,109.112,40
+Her Black Wings,Danzig,Danzig II: Lucifuge,1990,287240,4,0.585,0.671,4,-10.897,1,0.0466,0.0118,0.0000812,0.104,0.49,146.287,45
+How The Gods Kill,Danzig,Danzig III: How The Gods Kill,1992,356400,4,0.303,0.27,3,-12.003,0,0.031,0.0147,0.00401,0.0661,0.0461,89.386,48
+Mother,Danzig,Danzig,1993,204866,4,0.365,0.763,11,-9.45,0,0.0591,0.00726,0.000457,0.0865,0.342,148.366,71
+She Rides,Danzig,Danzig,1988,310986,4,0.582,0.609,9,-10.689,1,0.0463,0.000115,0.000795,0.378,0.29,110.961,45
+The Hunter,Danzig,Danzig,1995,211533,4,0.47,0.808,4,-9.941,0,0.0405,0.000316,0.00503,0.149,0.474,146.748,34
+Twist Of Cain,Danzig,Danzig,1988,258360,4,0.527,0.664,1,-9.201,0,0.0615,0.00746,0.000611,0.0973,0.357,119.282,50
+Black Night,Deep Purple,The Very Best of Deep Purple,1970,207466,4,0.498,0.787,9,-11.039,1,0.0731,0.165,0.523,0.17,0.811,134.595,41
+Burn - 2004 Remix,Deep Purple,Burn (Expanded 2005 Remaster),1974,363000,4,0.342,0.933,0,-4.241,1,0.053,0.0227,0.0668,0.38,0.496,97.947,15
+Child in Time,Deep Purple,Deep Purple in Rock,1970,620000,4,0.338,0.461,9,-10.74,0,0.0396,0.17,0.564,0.0927,0.351,126.698,44
+Highway Star,Deep Purple,Machine Head,1972,368000,4,0.298,0.895,9,-7.647,0,0.0547,0.0283,0.00574,0.305,0.544,173.737,55
+Hush,Deep Purple,"When We Rock, We Rock and When We Roll, We Roll",1968,266240,4,0.587,0.616,5,-14.234,1,0.0486,0.246,0.162,0.079,0.473,108.838,40
+Lazy,Deep Purple,Machine Head,1972,442000,4,0.356,0.66,7,-11.451,0,0.0632,0.196,0.587,0.0934,0.409,187.837,40
+Perfect Strangers,Deep Purple,Perfect Strangers,1984,328000,4,0.521,0.721,2,-7.699,1,0.0254,0.00348,0.0113,0.391,0.611,97.578,62
+Smoke on the Water,Deep Purple,Machine Head,1972,342000,4,0.632,0.586,0,-11.333,1,0.0284,0.0983,0.581,0.0535,0.89,114.243,62
+Space Truckin',Deep Purple,Machine Head,1972,274000,4,0.624,0.815,9,-10.542,1,0.0425,0.00343,0.622,0.175,0.758,129.191,47
+Stormbringer,Deep Purple,Stormbringer,1974,246000,4,0.338,0.831,11,-11.448,0,0.0649,0.0131,0.00000808,0.229,0.653,177.728,36
+Animal,Def Leppard,Hysteria,1987,244000,4,0.583,0.921,11,-5.215,1,0.0468,0.00153,0.0178,0.188,0.613,119.526,67
+Armageddon It,Def Leppard,Hysteria,1987,322000,4,0.65,0.921,9,-6.014,1,0.0359,0.000798,0.0298,0.134,0.648,119.8,51
+Foolin',Def Leppard,Pyromania,1983,274000,4,0.607,0.787,9,-6.704,0,0.0277,0.000335,0.00773,0.111,0.479,113.795,60
+Hysteria,Def Leppard,Hysteria,1987,354000,4,0.659,0.846,7,-5.508,1,0.0274,0.0318,0.0144,0.203,0.659,107.01,70
+Let's Get Rocked,Def Leppard,Adrenalize,1992,295000,4,0.564,0.888,5,-6.763,1,0.0325,0.0109,0.0000668,0.177,0.526,91.989,46
+Love Bites,Def Leppard,Hysteria,1987,346000,4,0.59,0.743,0,-7.078,0,0.0347,0.067,0.00093,0.0847,0.412,129.79,57
+Photograph,Def Leppard,Pyromania,1983,247000,4,0.602,0.877,4,-6.606,1,0.0514,0.000327,0.634,0.0551,0.617,123.679,67
+Pour Some Sugar On Me,Def Leppard,Hysteria,1987,267000,4,0.267,0.953,1,-4.899,0,0.096,0.00211,0,0.283,0.568,84.989,65
+Rock Of Ages,Def Leppard,Pyromania,1983,247000,4,0.706,0.785,11,-7.666,0,0.041,0.00802,0.0319,0.195,0.636,105.898,48
+Too Late For Love,Def Leppard,Pyromania,1983,266000,4,0.536,0.812,4,-7.38,0,0.0443,0.00306,0.000487,0.116,0.337,94.672,57
+Flying High Again,Ozzy Osbourne,Diary Of A Madman,1981,284000,4,0.315,0.938,1,-6.264,1,0.086,0.00499,0.000056,0.19,0.527,125.277,53
+I Don't Wanna Stop - Live,Ozzy Osbourne,Black Rain,2007,223000,4,0.404,0.987,5,-5.121,1,0.163,0.0183,0.0000338,0.983,0.239,137.097,26
+Over the Mountain,Ozzy Osbourne,,1981,271000,4,0.493,0.866,0,-5.665,1,0.0976,0.00178,0.0000223,0.0775,0.489,131.06,53
+Shot in the Dark,Ozzy Osbourne,The Ultimate Sin,1986,256000,3,0.581,0.791,6,-7.262,1,0.0324,0.00835,0.0000602,0.142,0.619,123.887,61
+Don't Talk to Strangers,Dio,Holy Diver,1983,294600,4,0.348,0.798,2,-12.443,0,0.0654,0.0922,0.0224,0.113,0.238,132.281,44
+Egypt (The Chains Are On),Dio,The Last in Line,1985,417800,4,0.287,0.667,2,-13.378,0,0.0527,0.381,0.0119,0.134,0.385,160.79,29
+Holy Diver,Dio,Holy Diver,1983,353786,4,0.476,0.901,8,-6.751,1,0.0975,0.0642,0.158,0.0557,0.109,91.955,60
+Rainbow in the Dark,Dio,Holy Diver,1983,256933,4,0.512,0.947,9,-5.659,0,0.0401,0.000692,0.114,0.0283,0.612,117.461,59
+Rock 'n' Roll Children - 2016 Remaster,Dio,Sacred Heart (2016 Remaster),1985,273746,4,0.471,0.965,0,-5.056,0,0.0645,0.0012,0.00787,0.102,0.254,118.233,32
+Stand Up and Shout,Dio,Holy Diver,1983,198173,4,0.485,0.936,4,-11.738,0,0.0669,0.00313,0.633,0.166,0.337,109.374,45
+Straight Through the Heart,Dio,Holy Diver,1983,276373,4,0.484,0.947,11,-5.475,1,0.0467,0.016,0.00142,0.0691,0.571,94.517,41
+The Last in Line,Dio,The Last in Line,1984,344933,4,0.286,0.895,9,-6.041,0,0.104,0.00209,0.141,0.0562,0.58,172.764,48
+We Rock,Dio,The Last in Line,1984,275666,4,0.306,0.968,9,-5.597,0,0.0863,0.0000472,0.00172,0.373,0.368,154.138,43
+Down with the Sickness,Disturbed,The Sickness,2000,279213,4,0.695,0.876,3,-4.262,0,0.0553,0.000996,0.00000689,0.106,0.941,89.954,75
+Indestructible,Disturbed,Indestructible (Deluxe Edition),2008,278026,4,0.429,0.966,8,-4.605,1,0.0733,0.000209,0.124,0.371,0.525,179.956,68
+Inside the Fire,Disturbed,Indestructible (Deluxe Edition),2008,231573,4,0.463,0.962,7,-6.43,1,0.0704,0.000233,0.109,0.0906,0.66,94.003,66
+Land of Confusion,Disturbed,Rock Covers,2002,287066,4,0.553,0.991,8,-3.703,1,0.0925,0.0000444,0.0729,0.179,0.324,114.919,9
+Stricken,Disturbed,Ten Thousand Fists,2005,245226,4,0.402,0.969,8,-2.825,1,0.181,0.0000914,0.0325,0.225,0.262,173.847,71
+Stupify,Disturbed,The Sickness (10th Anniversary Edition),2000,274000,4,0.597,0.939,1,-3.001,1,0.0446,0.00108,0.0000977,0.201,0.422,98,52
+Ten Thousand Fists,Disturbed,Ten Thousand Fists,2005,212040,4,0.54,0.977,1,-3.409,1,0.0876,0.0000255,0.0588,0.0533,0.211,106.907,63
+The Sound of Silence,Disturbed,Covers the Rock Album,2015,248466,4,0.215,0.278,9,-9.359,1,0.031,0.464,0.0000011,0.102,0.178,166.388,1
+Voices,Disturbed,The Sickness,2005,191866,4,0.612,0.972,10,-4.328,0,0.0919,0.000303,0.00277,0.0817,0.576,109.989,52
+Warrior,Disturbed,Asylum (Deluxe Edition),2002,204826,4,0.549,0.969,1,-2.763,1,0.049,0.0000116,0.106,0.104,0.348,101.055,58
+Alone Again,Dokken,Tooth and Nail,1985,260680,4,0.295,0.68,1,-6.126,0,0.0445,0.0197,0.000025,0.125,0.338,156.517,59
+Breaking The Chains,Dokken,Breaking the Chains,1983,231706,4,0.523,0.832,4,-7.364,0,0.0508,0.00783,0,0.201,0.507,125.32,54
+Burning Like A Flame,Dokken,Back for the Attack,1985,284533,4,0.488,0.927,7,-5.724,1,0.065,0.00169,0,0.361,0.409,138.241,35
+Dream Warriors,Dokken,Back for the Attack,1987,288466,4,0.551,0.867,9,-7.853,0,0.0458,0.0246,0.00000293,0.201,0.359,117.52,46
+Heaven Sent,Dokken,Back for the Attack,1986,292760,4,0.371,0.792,11,-7.895,1,0.0485,0.0267,0.00000303,0.316,0.51,186.062,36
+In My Dreams,Dokken,Under Lock and Key,1986,260092,4,0.552,0.816,4,-9.819,1,0.0592,0.0217,0,0.105,0.57,121.845,54
+It’s Not Love (Re-Recorded / Remastered),Dokken,Greatest Hits (Re-Recorded / Remastered Versions),1985,303386,4,0.691,0.717,6,-5.856,0,0.0457,0.0000626,0,0.071,0.695,115.034,13
+Kiss Of Death,Dokken,Back for the Attack,1984,351466,4,0.417,0.924,9,-10.58,1,0.0803,0.00363,0.0019,0.619,0.213,145.752,41
+The Hunter,Dokken,Under Lock and Key,1985,248173,4,0.542,0.896,7,-8.978,1,0.0488,0.0173,0.0000224,0.317,0.457,105.787,42
+Black Fire - 2010 Remastered Edition,DragonForce,Valley of the Damned (2010 Remastered Edition),2003,347133,4,0.16,0.947,0,-3.578,0,0.0611,0.000347,0.0000155,0.333,0.262,97.448,25
+Cry Thunder,DragonForce,The Power Within (Special Edition),2012,316146,4,0.268,0.966,11,-3.146,0,0.0719,0.000345,0.00000658,0.291,0.567,130.034,41
+Dawn Over A New World,DragonForce,Sonic Firestorm,2012,312600,4,0.398,0.661,5,-7.172,1,0.0287,0.0206,0,0.149,0.244,79.931,35
+Fury Of The Storm,DragonForce,Sonic Firestorm (2010 US Edition),2006,406826,4,0.216,0.903,4,-5.066,0,0.0839,0.0000399,0.245,0.356,0.21,199.864,45
+Heroes of Our Time,DragonForce,Ultra Beatdown,2008,433920,4,0.138,0.987,2,-3.368,1,0.153,0.000101,0.00038,0.372,0.298,199.983,40
+Operation Ground and Pound,DragonForce,Inhuman Rampage (Special Edition),2006,464720,4,0.401,0.943,2,-4.486,1,0.0757,0.00607,0.00427,0.169,0.165,100.028,36
+The Last Journey Home,DragonForce,Ultra Beatdown,2008,492480,4,0.197,0.965,1,-4.01,0,0.117,0.000294,0.000149,0.209,0.344,151.364,24
+Through the Fire and Flames,DragonForce,Inhuman Rampage,2006,441560,4,0.113,0.951,0,-4.743,0,0.129,0.00176,0.00718,0.334,0.139,200.024,61
+Valley of the Damned - 2010 Remastered Edition,DragonForce,Valley of the Damned (2010 Remastered Edition),2003,432293,4,0.0918,0.97,7,-3.037,1,0.105,0.000912,0.000696,0.533,0.202,200.3,35
+A Change of Seasons - The Crimson Sunrise,Dream Theater,A Change of Seasons,1995,1388720,3,0.306,0.806,4,-6.63,0,0.0562,0.000575,0.031,0.103,0.225,115.709,39
+Another Day,Dream Theater,Images and Words,1992,263120,4,0.454,0.614,11,-10.41,1,0.0302,0.00223,0.0000116,0.0936,0.343,140.56,54
+As I Am,Dream Theater,Train of Thought,2003,467826,4,0.514,0.95,7,-4.657,1,0.0725,0.0000109,0.0135,0.19,0.149,130.027,52
+In the Name of God,Dream Theater,Train of Thought,2005,854733,4,0.316,0.857,5,-5.577,0,0.0599,0.000041,0.00175,0.0834,0.362,105.032,44
+"Metropolis - Part I: ""The Miracle and the Sleeper""",Dream Theater,Images and Words,1988,572133,4,0.28,0.907,2,-9.29,1,0.0586,0.000104,0.00536,0.337,0.45,104.896,49
+Panic Attack,Dream Theater,Octavarium,2005,493026,4,0.494,0.96,1,-5.478,1,0.126,0.0000393,0.00519,0.113,0.127,125.969,51
+Pull Me Under,Dream Theater,Images and Words,1992,493933,4,0.532,0.941,9,-9.025,1,0.0465,0.000579,0.0527,0.15,0.278,102.198,60
+Scene Eight: The Spirit Carries On,Dream Theater,"Metropolis, Pt. 2: Scenes from a Memory",1999,398266,3,0.321,0.544,2,-7.179,1,0.0364,0.293,0.0000111,0.11,0.283,127.284,52
+Scene Four: Beyond This Life,Dream Theater,"Metropolis, Pt. 2: Scenes from a Memory",1999,682693,4,0.283,0.898,9,-6.029,1,0.0933,0.00789,0.00221,0.43,0.26,101.169,41
+Scene Seven: I. The Dance of Eternity,Dream Theater,"Metropolis, Pt. 2: Scenes from a Memory",1999,373693,4,0.338,0.922,2,-6.783,1,0.0709,0.0107,0.877,0.515,0.526,122.311,49
+37 Stitches,Drowning Pool,Full Circle,2007,229973,4,0.366,0.897,4,-6.359,1,0.0917,0.00141,0.000559,0.105,0.355,157.904,51
+Bodies,Drowning Pool,Sinner,2001,201960,4,0.656,0.932,4,-3.405,0,0.0708,0.00347,0.00147,0.144,0.544,130.936,75
+Feel Like I Do,Drowning Pool,Drowning Pool,2001,213133,4,0.383,0.989,9,-3.256,1,0.118,0.000347,0,0.32,0.46,180.048,43
+Pity,Drowning Pool,Sinner,2001,172573,4,0.615,0.966,7,-3.729,1,0.0716,0.000137,0.0184,0.149,0.428,111.94,41
+Sinner,Drowning Pool,Sinner,2001,147333,4,0.576,0.96,4,-2.605,1,0.0759,0.000436,0.0000323,0.0659,0.532,120.95,59
+Soldiers,Drowning Pool,Full Circle,2004,211506,4,0.569,0.849,11,-6.849,0,0.049,0.00145,0.000262,0.315,0.269,108.434,32
+Step Up,Drowning Pool,Desensitized,2004,197293,4,0.431,0.962,6,-3.269,1,0.0789,0.00000834,0.00000504,0.321,0.585,156.103,52
+Tear Away,Drowning Pool,Sinner,2001,254200,4,0.611,0.648,0,-4.579,1,0.0441,0.00055,0.0028,0.0846,0.457,132.983,64
+A Lesson in Violence,Exodus,Bonded by Blood,1985,228880,4,0.239,0.971,4,-5.06,1,0.129,0.0000604,0.0115,0.366,0.271,93.509,38
+Blacklist,Exodus,Tempo of the Damned,2014,376920,4,0.534,0.969,3,-3.378,1,0.0535,0.000359,0.564,0.269,0.598,75.005,54
+Blood in Blood Out,Exodus,Blood in Blood Out,2014,222133,4,0.601,0.991,2,-4.08,1,0.131,0.00016,0.00193,0.218,0.327,102.495,32
+Bonded by Blood,Exodus,Bonded by Blood,1985,224066,4,0.182,0.96,4,-6.098,0,0.398,0.00015,0.00000752,0.18,0.246,157.106,44
+Fabulous Disaster,Exodus,Fabulous Disaster,1989,295053,4,0.348,0.987,1,-5.8,1,0.141,0.000873,0.895,0.823,0.297,104.964,36
+Piranha,Exodus,Bonded by Blood,1989,226080,4,0.23,0.932,7,-5.262,1,0.186,0.0000288,0.00192,0.199,0.323,94.897,36
+Strike of the Beast,Exodus,Bonded by Blood,1985,237026,4,0.266,0.963,4,-5.366,0,0.164,0.0000736,0.000119,0.412,0.174,93.499,39
+The Last Act of Defiance,Exodus,Fabulous Disaster,2015,283453,4,0.491,0.984,9,-5.64,1,0.206,0.00447,0.18,0.121,0.358,108.109,28
+The Toxic Waltz,Exodus,Fabulous Disaster,1989,290280,4,0.262,0.988,11,-4.922,0,0.253,0.00655,0.897,0.132,0.227,91.319,49
+War Is My Shepherd,Exodus,Tempo of the Damned,2004,267200,4,0.548,0.972,10,-3.271,0,0.0491,0.0000138,0.34,0.325,0.429,103.996,46
+A Small Victory,Faith No More,Angel Dust (Deluxe Edition),1992,297133,4,0.494,0.947,9,-7.289,1,0.052,0.00148,0.0308,0.404,0.426,100.03,46
+Ashes to Ashes - 2016 Remaster,Faith No More,Album of the Year (2016 Remaster; Deluxe Edition),1997,216200,4,0.572,0.81,0,-7.407,1,0.0274,0.0000852,0.000138,0.0998,0.313,98.459,51
+Epic,Faith No More,The Real Thing,1989,293653,4,0.358,0.893,4,-7.486,0,0.12,0.0222,0.0524,0.126,0.262,174.238,65
+Evidence - 2016 Remaster,Faith No More,"King for a Day, Fool for a Lifetime (2016 Remaster; Deluxe Edition)",1995,293600,4,0.678,0.801,9,-6.367,0,0.031,0.046,0.00718,0.0765,0.627,98.008,48
+Falling to Pieces,Faith No More,The Real Thing,1995,313573,4,0.545,0.919,2,-7.679,1,0.0484,0.00272,0.00511,0.0977,0.387,104.366,52
+From Out of Nowhere,Faith No More,The Real Thing,2015,201133,4,0.276,0.989,0,-5.37,0,0.077,0.00102,0.006,0.264,0.0862,161.183,48
+King for a Day,Faith No More,"King for a Day, Fool for a Lifetime",1995,395093,4,0.421,0.871,11,-9.193,1,0.0351,0.00608,0.411,0.19,0.383,102.382,39
+Last Cup of Sorrow - 2016 Remaster,Faith No More,Album of the Year (2016 Remaster; Deluxe Edition),1997,257866,4,0.489,0.91,4,-6.746,0,0.0545,0.0000319,0.09,0.17,0.645,76.774,43
+Midlife Crisis,Faith No More,Angel Dust (Deluxe Edition),1992,259866,4,0.669,0.656,9,-10.549,1,0.0413,0.00113,0.000252,0.0989,0.464,108.098,56
+We Care a Lot,Faith No More,Introduce Yourself,1985,243600,4,0.799,0.887,2,-5.775,1,0.0411,0.08,0.0000958,0.0975,0.9,108.919,55
+Cars - Remix,Fear Factory,Obsolete (Special Edition),2001,218333,4,0.669,0.819,11,-4.948,0,0.0748,0.0057,0.0000157,0.149,0.539,127.984,44
+Demanufacture,Fear Factory,Demanufacture (Special Edition),1995,252853,4,0.547,0.981,1,-4.979,1,0.0934,0.0000429,0.000318,0.0737,0.185,96.035,43
+Edgecrusher,Fear Factory,Obsolete (Special Edition),1995,221400,4,0.654,0.794,9,-5.393,1,0.074,0.000203,0.000448,0.208,0.585,122.051,46
+Linchpin,Fear Factory,Digimortal,2000,204853,4,0.693,0.871,0,-3.389,1,0.0844,0.00358,0.0000201,0.11,0.533,111.989,55
+Replica,Fear Factory,Demanufacture (Special Edition),1995,237360,4,0.574,0.943,11,-5.238,1,0.0769,0.0000369,0.0317,0.366,0.72,112.009,53
+Resurrection,Fear Factory,Obsolete (Special Edition),2001,395840,4,0.187,0.903,0,-6.079,1,0.102,0.00119,0.000718,0.493,0.0714,141.019,34
+Shock,Fear Factory,Obsolete (Special Edition),1995,297453,4,0.438,0.94,11,-5.287,0,0.104,0.000118,0.0321,0.169,0.411,179.889,40
+Zero Signal,Fear Factory,Demanufacture (Special Edition),1995,358280,4,0.312,0.978,1,-5.813,0,0.228,0.00000517,0.0307,0.0895,0.0555,182.958,36
+Bad Company,Five Finger Death Punch,War Is the Answer,2009,262440,4,0.558,0.886,11,-4.196,0,0.0482,0.000595,0.0000991,0.0904,0.171,114.041,70
+Burn It Down,Five Finger Death Punch,War Is the Answer,2013,213440,4,0.561,0.979,11,-2.962,0,0.145,0.0000196,0.0038,0.0976,0.3,101.998,40
+Coming Down,Five Finger Death Punch,American Capitalist,2013,241226,4,0.305,0.991,1,-2.927,0,0.488,0.000619,0,0.11,0.187,76.374,57
+Far From Home,Five Finger Death Punch,War Is the Answer,2011,212493,4,0.467,0.688,11,-5.352,0,0.0298,0.00149,0.00000392,0.169,0.229,137.884,63
+House of the Rising Sun,Five Finger Death Punch,"The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 2",2009,247388,4,0.452,0.958,4,-3.382,0,0.0982,0.00182,0.00126,0.107,0.256,153.96,62
+Lift Me Up,Five Finger Death Punch,"The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 1",2011,246209,4,0.519,0.985,4,-4.157,1,0.138,0.0000966,0,0.208,0.151,75.01,60
+The Bleeding,Five Finger Death Punch,The Way of the Fist,2015,271346,4,0.328,0.824,0,-5.611,0,0.0486,0.00168,0,0.116,0.0885,160.025,55
+Under and Over It,Five Finger Death Punch,American Capitalist (Deluxe Edition),2011,218133,4,0.473,0.996,11,-3.027,0,0.173,0.0000141,0,0.26,0.0952,76.006,61
+Wash It All Away,Five Finger Death Punch,Got Your Six,2015,225705,4,0.488,0.984,4,-3.618,1,0.0715,0.0000228,0,0.28,0.277,123.633,65
+Wrong Side of Heaven,Five Finger Death Punch,"The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 1",2013,271000,4,0.483,0.926,4,-5.122,0,0.0667,0.00661,0,0.29,0.528,150.012,67
+Absolution,Ghost,Meliora,2015,290946,4,0.564,0.86,7,-5.46,1,0.0362,0.000438,0.0934,0.136,0.323,121.978,45
+Cirice,Ghost,Meliora,2015,362093,4,0.555,0.798,3,-5.658,1,0.0279,0.00254,0.0000159,0.171,0.284,89.99,58
+Dance Macabre,Ghost,Prequelle,2018,219720,4,0.619,0.696,7,-6.263,0,0.0315,0.0000193,0.00555,0.38,0.727,125.984,62
+From The Pinnacle To The Pit,Ghost,Meliora,2015,242640,4,0.47,0.929,2,-4.26,1,0.0565,0.0000844,0.152,0.0745,0.442,89.984,49
+He Is,Ghost,Meliora,2015,253173,4,0.496,0.725,7,-5.433,1,0.0284,0.00249,0.00751,0.0895,0.244,100.042,48
+Mummy Dust,Ghost,Meliora,2015,247373,4,0.505,0.949,0,-4.862,1,0.0504,0.000545,0.848,0.298,0.355,160.019,51
+Rats,Ghost,Prequelle,2019,261573,4,0.524,0.944,2,-5.73,0,0.0839,0.00000611,0.526,0.135,0.24,124.03,56
+SECULAR HAZE,Ghost,Infestissumam (Deluxe Version),2013,311333,3,0.443,0.746,10,-5.906,1,0.0302,0.0055,0.25,0.144,0.489,100.017,42
+Square Hammer,Ghost,Meliora (Deluxe Edition),2016,239293,4,0.53,0.903,2,-4.396,0,0.0483,0.0000331,0.182,0.259,0.747,129.983,63
+Year Zero,Ghost,Infestissumam (Deluxe Version),2015,350186,4,0.469,0.705,7,-5.134,1,0.0458,0.0304,0.0155,0.659,0.137,122.025,57
+Awake,Godsmack,Awake,2000,304373,4,0.395,0.756,7,-4.12,1,0.0544,0.0000174,0.00665,0.319,0.475,112.092,66
+Bad Religion,Godsmack,Godsmack,2003,193266,4,0.465,0.841,7,-5.657,1,0.113,0.00181,0.0000469,0.107,0.651,154.348,53
+Cryin' Like A Bitch!!,Godsmack,The Oracle (Deluxe Edition),2006,201666,4,0.543,0.808,10,-5.484,1,0.0407,0.0000719,0.00336,0.114,0.472,95.19,65
+I Stand Alone,Godsmack,Faceless,2003,246040,4,0.219,0.92,0,-4.479,1,0.0623,0.0000281,0,0.102,0.376,166.188,69
+Keep Away,Godsmack,Godsmack,1998,290066,4,0.363,0.921,2,-5.192,1,0.0726,0.0000387,0.00585,0.476,0.446,99.265,56
+Moon Baby,Godsmack,Godsmack,2003,263133,4,0.257,0.905,6,-6.844,0,0.115,0.0000483,0.00145,0.746,0.428,161.967,51
+Straight Out Of Line,Godsmack,Faceless,2003,259133,4,0.377,0.96,7,-4.719,1,0.146,0.000184,0.00274,0.0718,0.386,183.633,53
+Under Your Scars,Godsmack,When Legends Rise,2018,231118,4,0.24,0.762,11,-4.156,0,0.0407,0.0583,0.00000207,0.122,0.215,165.26,57
+Voodoo,Godsmack,Godsmack,1998,282653,4,0.778,0.614,10,-9.897,0,0.0487,0.17,0.00000261,0.102,0.853,120.005,63
+Whatever,Godsmack,Godsmack,2003,206200,4,0.544,0.882,5,-4.864,1,0.119,0.000169,0.0342,0.332,0.595,122.259,60
+Backbone,Gojira,From Mars to Sirius,2021,258265,4,0.311,0.993,2,-2.479,1,0.0727,0.0000141,0.00131,0.198,0.118,90.436,54
+Born in Winter,Gojira,L'Enfant Sauvage (Special Edition),2016,231000,4,0.59,0.654,5,-7.85,0,0.0265,0.0199,0.721,0.107,0.223,127.996,57
+Explosia,Gojira,L'Enfant Sauvage (Special Edition),2012,399320,4,0.265,0.97,5,-5.634,0,0.0892,0.00006,0.741,0.33,0.173,120.335,43
+Flying Whales,Gojira,From Mars to Sirius,2005,464453,4,0.266,0.925,7,-3.75,0,0.0834,0.000233,0.0379,0.19,0.2,95.438,63
+L'enfant sauvage,Gojira,L'Enfant Sauvage (Special Edition),2012,257733,3,0.143,0.995,8,-5.698,1,0.185,0.000146,0.438,0.364,0.079,87.803,61
+Ocean Planet,Gojira,From Mars to Sirius,2005,332760,3,0.316,0.917,4,-2.948,0,0.113,0.0000132,0.0053,0.154,0.183,112.035,50
+Silvera,Gojira,Magma,2016,212653,4,0.333,0.959,2,-4.348,1,0.072,0.00000319,0.0563,0.299,0.242,137.052,66
+Stranded,Gojira,Magma,2012,269533,4,0.513,0.88,7,-4.69,0,0.0309,0.0000959,0.00614,0.0824,0.495,92.358,70
+The Heaviest Matter of the Universe,Gojira,From Mars to Sirius,2005,237840,4,0.243,0.97,5,-2.518,0,0.0878,0.0000026,0.0415,0.284,0.243,102.729,61
+Toxic garbage island,Gojira,The way of all flesh,2008,246680,5,0.238,0.98,8,-3.855,1,0.165,0.000004,0.169,0.234,0.13,185.3,56
+Civil War,Guns N' Roses,Use Your Illusion II,1990,462093,4,0.33,0.787,10,-8.806,0,0.0732,0.0803,0.0632,0.32,0.382,139.918,67
+Estranged,Guns N' Roses,Use Your Illusion II,1991,563893,4,0.358,0.762,11,-8.323,1,0.0324,0.0105,0.282,0.368,0.168,89.246,63
+"Knockin' On Heaven's Door - Live At The Marquee Club, London / 1987",Guns N' Roses,Appetite For Destruction (Super Deluxe Edition),1987,299426,4,0.338,0.772,11,-8.499,1,0.0716,0.0533,0.219,0.658,0.347,144.328,30
+November Rain,Guns N' Roses,Use Your Illusion I,1991,536066,4,0.294,0.64,11,-9.316,1,0.0291,0.016,0.22,0.112,0.226,79.79,79
+Paradise City,Guns N' Roses,Appetite For Destruction,1987,405600,4,0.268,0.98,11,-5.959,1,0.101,0.019,0.00692,0.182,0.39,100.316,80
+Patience,Guns N' Roses,Appetite For Destruction (Super Deluxe Edition),1989,354880,4,0.457,0.296,6,-12.511,1,0.0306,0.683,0.000119,0.109,0.333,120.02,72
+Rocket Queen,Guns N' Roses,Appetite For Destruction,1987,373266,4,0.446,0.978,5,-5.275,0,0.0443,0.0305,0.162,0.0377,0.399,111.795,60
+Sweet Child O' Mine,Guns N' Roses,Appetite For Destruction,1987,356066,4,0.445,0.952,6,-5.321,1,0.0522,0.09,0.0843,0.112,0.624,125.304,86
+Welcome To The Jungle,Guns N' Roses,Appetite For Destruction,1987,273480,4,0.454,0.987,8,-4.485,1,0.0881,0.0195,0.279,0.268,0.316,123.61,82
+You Could Be Mine,Guns N' Roses,Use Your Illusion II,1991,343640,4,0.349,0.985,10,-5.676,0,0.122,0.00889,0.561,0.36,0.322,151.007,69
+Crucible (Remastered),Halford,Crucible (Remastered),2002,278240,4,0.478,0.878,0,-5.475,1,0.0398,0.00000864,0.0936,0.0778,0.173,89.988,8
+Made In Hell,Halford,Resurrection,2000,252066,4,0.493,0.979,7,-4.854,1,0.137,0.000194,0.00161,0.395,0.325,104.016,21
+Resurrection,Halford,Resurrection,2000,238000,4,0.444,0.97,2,-4.669,1,0.155,0.000466,0.0173,0.0888,0.0923,101.99,27
+The Hellion - Live Insurrection,Halford,Live Insurrection,2009,48106,4,0.151,0.687,9,-2.787,1,0.0464,0.067,0.941,0.849,0.227,87.424,7
+The One You Love to Hate,Halford,Resurrection,2000,191533,4,0.451,0.991,2,-3.257,1,0.0867,0.000941,0,0.128,0.366,91.672,25
+Atom and Evil,Heaven & Hell,The Devil You Know,2009,315160,4,0.426,0.781,3,-5.9,0,0.0382,0.00219,0.0000618,0.231,0.217,119.973,20
+Bible Black,Heaven & Hell,The Devil You Know,2009,386706,4,0.34,0.783,1,-6.235,1,0.0394,0.00457,0.000153,0.0812,0.312,81.932,30
+E5150 / After All (The Dead) - Live from Radio City Music Hall,Heaven & Hell,Live From Radio City Music Hall,2007,510733,4,0.119,0.721,10,-9.333,1,0.0497,0.00285,0.0534,0.462,0.186,70.069,12
+Falling off the Edge of the World - Live from Radio City Music Hall,Heaven & Hell,Live From Radio City Music Hall,2007,344946,4,0.219,0.857,2,-7.931,0,0.0669,0.00044,0.105,0.606,0.208,147.876,10
+Fear,Heaven & Hell,The Devil You Know,2009,286280,4,0.404,0.899,11,-5.456,1,0.0441,0.000491,0.0000433,0.458,0.321,77.993,20
+Rock and Roll Angel,Heaven & Hell,The Devil You Know,2009,362400,1,0.389,0.77,1,-5.773,0,0.0374,0.00473,0.000178,0.106,0.205,78.943,17
+The Devil Cried - Live from Radio City Music Hall,Heaven & Hell,Live From Radio City Music Hall,2007,689653,4,0.455,0.878,3,-8.411,0,0.102,0.000163,0.572,0.789,0.271,117.975,9
+The Sign of the Southern Cross - Live from Radio City Music Hall,Heaven & Hell,Live From Radio City Music Hall,2007,546906,4,0.346,0.758,7,-8.526,1,0.0471,0.027,0.00213,0.504,0.324,114.667,14
+A Tale That Wasn't Right - 2024 Remaster,Helloween,"Keeper of the Seven Keys, Pt. 1 (2024 Remaster)",1988,284526,4,0.307,0.562,9,-7.764,0,0.0339,0.107,0.00000323,0.313,0.224,118.611,48
+Dr. Stein - 2024 Remaster,Helloween,"Keeper of the Seven Keys, Pt. 2 (2024 Remaster)",1988,306000,4,0.422,0.869,0,-6.973,1,0.0717,0.000826,0,0.199,0.525,148.983,43
+Eagle Fly Free - 2024 Remaster,Helloween,"Keeper of the Seven Keys, Pt. 2 (2024 Remaster)",1988,310906,4,0.374,0.943,0,-6.703,1,0.0911,0.0000204,0.0000421,0.191,0.371,157.149,45
+Forever and One (Neverland),Helloween,The Time of the Oath,1996,234533,3,0.176,0.703,8,-7.097,0,0.0417,0.0697,0.00000499,0.247,0.404,185.878,52
+Halloween - 2024 Remaster,Helloween,"Keeper of the Seven Keys, Pt. 1 (2024 Remaster)",1987,798826,4,0.201,0.98,4,-6.446,0,0.174,0.000615,0.00131,0.0803,0.131,151.673,37
+I Want Out - 2024 Remaster,Helloween,"Keeper of the Seven Keys, Pt. 2 (2024 Remaster)",1988,281840,4,0.47,0.907,0,-6.423,1,0.0443,0.000294,0.000227,0.199,0.609,91.033,54
+If I Could Fly,Helloween,The Dark Ride,2000,249000,4,0.475,0.906,4,-4.995,0,0.0377,0.0048,0,0.0998,0.672,79.089,48
+Power,Helloween,The Time of the Oath,1985,208906,4,0.434,0.977,1,-6.204,0,0.124,0.00499,0.00000874,0.544,0.361,109.994,44
+Rise and Fall - 2024 Remaster,Helloween,"Keeper of the Seven Keys, Pt. 2 (2024 Remaster)",1988,263000,4,0.286,0.978,11,-6.829,0,0.127,0.00152,0,0.0947,0.369,150.465,31
+Cloud Connected,In Flames,Reroute To Remain,2002,220706,4,0.479,0.908,0,-5.466,0,0.0452,0.00000545,0.856,0.0932,0.313,95.088,57
+Dead End,In Flames,Come Clarity,2019,202600,4,0.247,0.982,1,-3.23,1,0.112,0.000139,0.0385,0.345,0.0822,178.199,32
+I Am Above,In Flames,"I, The Mask",2014,229816,4,0.544,0.98,10,-4.494,0,0.109,0.0000332,0.00000662,0.0689,0.193,120.026,48
+In Plain View,In Flames,Siren Charms,2011,245626,4,0.545,0.959,10,-4.874,0,0.0725,0.000306,0.00975,0.11,0.395,110.031,34
+Meet Your Maker,In Flames,Foregone,2011,237300,4,0.489,0.968,1,-4.41,1,0.108,0.0000466,0.00221,0.0904,0.184,95.065,59
+Only for the Weak,In Flames,Clayman,2002,294866,4,0.418,0.835,0,-4.824,0,0.0449,0.00000233,0.766,0.289,0.549,104.986,63
+Take This Life,In Flames,Come Clarity,2006,215200,4,0.452,0.993,10,-4.74,0,0.172,0.00000288,0.53,0.152,0.121,119.926,45
+The Mirror's Truth,In Flames,A Sense of Purpose (The Mirror's Truth Version),2008,179720,4,0.42,0.976,10,-3.285,0,0.0882,0.0000813,0.188,0.1,0.295,180.033,45
+The Quiet Place,In Flames,Soundtrack to Your Escape (The Quiet Place Version),2006,225026,4,0.517,0.961,10,-5.314,0,0.143,0.00033,0.321,0.698,0.159,104.747,51
+Trigger,In Flames,Reroute To Remain,2006,298693,4,0.446,0.966,8,-5.573,1,0.0823,0.00000731,0.869,0.307,0.255,92.426,50
+2 Minutes to Midnight,Iron Maiden,Powerslave,1984,363000,4,0.447,0.97,9,-5.004,0,0.0508,0.00753,0.000291,0.199,0.588,94.254,52
+Aces High,Iron Maiden,Powerslave,1984,271000,4,0.3,0.936,7,-5.398,1,0.0456,0.034,0.0209,0.158,0.757,133.115,50
+Fear of the Dark,Iron Maiden,Fear of the Dark,1982,438000,4,0.308,0.866,2,-5.671,0,0.0593,0.000738,0.00146,0.232,0.228,109.823,54
+Flight of Icarus (2015 Remaster),Iron Maiden,Piece of Mind (2015 Remaster),1983,230760,4,0.367,0.917,6,-4.829,0,0.0773,0.147,0.000121,0.169,0.343,110.455,48
+Hallowed Be Thy Name,Iron Maiden,The Number of the Beast,1982,431000,4,0.311,0.881,0,-6.215,1,0.0362,0.0336,0.344,0.45,0.302,104.235,53
+Phantom of the Opera,Iron Maiden,Iron Maiden,1980,441000,4,0.319,0.952,4,-5.315,0,0.0723,0.0000626,0.155,0.925,0.228,109.291,42
+Powerslave,Iron Maiden,Powerslave,1984,431000,4,0.301,0.974,11,-5.341,0,0.102,0.0282,0.0498,0.242,0.328,136.013,43
+Run to the Hills,Iron Maiden,The Number of the Beast,1982,233000,4,0.249,0.943,0,-5.188,1,0.0665,0.0286,0.00404,0.161,0.457,173.672,58
+The Number of the Beast,Iron Maiden,The Number of the Beast,1982,290000,4,0.409,0.887,2,-6.839,0,0.0578,0.0876,0.106,0.0935,0.289,100.494,54
+The Trooper,Iron Maiden,Piece of Miefdnd,1983,252000,4,0.286,0.907,4,-4.601,0,0.0702,0.0326,0.00837,0.311,0.662,159.756,61
+Wasted Years,Iron Maiden,Somewhere in Time,1986,309000,4,0.315,0.96,4,-4.657,0,0.0933,0.0259,0.000141,0.161,0.496,154.131,53
+Beyond the Realms of Death,Judas Priest,Stained Class,1978,409000,4,0.287,0.716,11,-5.653,0,0.0311,0.0381,0.0000324,0.164,0.544,172.123,51
+Breaking the Law,Judas Priest,British Steel,1980,153000,4,0.362,0.961,2,-5.664,1,0.0857,0.024,0.00000935,0.159,0.491,164.019,70
+Electric Eye,Judas Priest,Screaming For Vengeance,1982,218000,4,0.431,0.947,9,-6.011,1,0.0752,0.000779,0.000253,0.356,0.365,96.539,46
+Hell Bent for Leather,Judas Priest,Killing Machine,1978,160000,4,0.309,0.867,9,-6.43,1,0.192,0.00707,0.0000214,0.342,0.282,192.463,47
+Living Bad Dreams,Judas Priest,Painkiller,1990,321000,4,0.357,0.694,0,-5.951,1,0.0369,0.0398,0.000483,0.161,0.0688,114.021,36
+Painkiller,Judas Priest,Painkiller,1990,365826,4,0.435,0.987,1,-4.667,0,0.16,0.000195,0.0879,0.268,0.1,103.162,65
+Painkiller,Judas Priest,Painkiller,1990,365000,4,0.435,0.987,1,-4.667,0,0.16,0.000195,0.0879,0.268,0.1,103.162,66
+Rapid Fire,Judas Priest,British Steel,1981,248000,4,0.375,0.994,2,-5.829,1,0.0902,0.000267,0.00075,0.316,0.259,135.431,44
+The Hellion,Judas Priest,Screaming For Vengeance,1982,41000,5,0.154,0.432,9,-7.517,1,0.0333,0.00000501,0.901,0.254,0.335,134.744,37
+Turbo Lover - Remastered,Judas Priest,Turbo 30,1986,333999,4,0.551,0.876,9,-7.02,1,0.037,0.174,0.00000904,0.397,0.746,151.575,54
+Turbo Lover - Remastered,Judas Priest,Turbo 30,1986,334000,4,0.551,0.876,9,-7.02,1,0.037,0.174,0.00000904,0.397,0.746,151.575,55
+Victim Of Changes,Judas Priest,Sad Wings Of Destiny,1976,468000,4,0.291,0.326,2,-13.92,1,0.0336,0.000843,0.223,0.0864,0.264,74.263,39
+You've Got Another Thing Coming,Judas Priest,Screaming For Vengeance,1982,310000,4,0.511,0.82,6,-6.962,0,0.049,0.00467,0.00000607,0.104,0.543,138.2,47
+Always,Killswitch Engage,Disarm the Descent (Special Edition),2006,273053,4,0.535,0.936,7,-5.372,0,0.0377,0.000456,0.00359,0.356,0.316,115.005,48
+Fixation on the Darkness,Killswitch Engage,Alive or Just Breathing,2004,217973,4,0.535,0.978,2,-3.779,0,0.0856,0.0000249,0.0938,0.231,0.404,134.05,40
+Hate by Design,Killswitch Engage,Incarnate,2016,226786,4,0.384,0.979,2,-2.451,1,0.107,0.0000256,0.0000651,0.788,0.303,179.948,48
+Holy Diver,Killswitch Engage,Metal Covers,2004,250253,4,0.361,0.995,0,-2.584,0,0.132,0.0000784,0.00567,0.241,0.264,185.965,3
+In Due Time,Killswitch Engage,Disarm the Descent (Special Edition),2013,197573,4,0.486,0.959,0,-3.857,0,0.0485,0.000203,0.0259,0.173,0.527,84.997,56
+My Curse,Killswitch Engage,As Daylight Dies (Special Edition),2006,244773,3,0.197,0.956,10,-2.908,0,0.0663,0.0000761,0.00992,0.261,0.209,177.018,68
+Rose of Sharyn,Killswitch Engage,The End of Heartache (Special Edition),2004,216306,4,0.469,0.978,8,-4.399,1,0.0628,0.0000559,0.0168,0.294,0.413,90.994,51
+Take This Oath,Killswitch Engage,The End of Heartache (Special Edition),2006,226666,4,0.387,0.983,5,-4.063,0,0.16,0.0000403,0.0811,0.207,0.316,184.006,42
+The End of Heartache,Killswitch Engage,The End of Heartache (Special Edition),2004,298106,4,0.469,0.976,0,-3.569,0,0.111,0.000287,0.217,0.0636,0.222,124.001,64
+Abigail,King Diamond,Abigail,1987,290693,4,0.313,0.79,9,-12.718,1,0.0468,0.00285,0.77,0.328,0.587,146.645,42
+Funeral,King Diamond,Abigail,1998,90840,1,0.271,0.377,7,-20.491,1,0.0787,0.656,0.105,0.186,0.0398,104.469,28
+Mirror Mirror,King Diamond,Give Me Your Soul...Please,1986,299560,3,0.598,0.951,0,-5.84,1,0.0469,0.0019,0.00493,0.145,0.7,121.588,13
+No Presents for Christmas,King Diamond,The Dark Sides,1985,261665,4,0.376,0.926,4,-10.785,0,0.0755,0.00116,0.55,0.231,0.245,133.299,20
+Sleepless Nights,King Diamond,Conspiracy,1987,305933,4,0.387,0.662,9,-13.916,0,0.0399,0.0235,0.147,0.33,0.626,142.429,35
+The Family Ghost,King Diamond,Abigail,1989,245893,4,0.256,0.87,9,-11.187,1,0.102,0.00805,0.232,0.366,0.177,102.911,34
+The Invisible Guests,King Diamond,Them,1990,304400,4,0.337,0.972,9,-8.615,1,0.0947,0.00863,0.881,0.377,0.29,113.32,33
+Welcome Home,King Diamond,Them,1988,276400,4,0.429,0.959,11,-9.658,0,0.0743,0.00591,0.922,0.099,0.399,124.635,38
+Beth - 2012 Remix,Kiss,Destroyer (Resurrected),1976,166000,4,0.399,0.371,0,-11.378,1,0.0319,0.505,0.000589,0.209,0.317,116.032,32
+Christine Sixteen,Kiss,Love Gun,1977,194000,4,0.661,0.903,8,-7.25,1,0.0496,0.118,0.0000325,0.102,0.927,125.72,41
+Cold Gin,Kiss,Kiss,1974,262000,4,0.512,0.752,1,-7.753,1,0.11,0.0511,0.0429,0.0881,0.644,117.588,44
+Detroit Rock City - 2012 Remix,Kiss,Destroyer (Resurrected),1976,315000,4,0.426,0.957,0,-8.028,0,0.192,0.0159,0.0157,0.836,0.122,91.08,33
+God Of Thunder - 2012 Remix,Kiss,Destroyer (Resurrected),1976,253000,4,0.304,0.882,1,-6.132,0,0.0421,0.0045,0.0000534,0.426,0.591,99.334,35
+Heaven's On Fire,Kiss,Animalize,1984,201000,4,0.679,0.866,0,-6.053,1,0.0635,0.00376,0.000031,0.312,0.785,124.324,65
+I Was Made For Lovin' You,Kiss,Dynasty,1979,271000,4,0.768,0.852,4,-6.215,1,0.038,0.214,0.0000736,0.0723,0.867,128.373,82
+Love Gun,Kiss,Love Gun,1977,198000,4,0.409,0.868,3,-6.236,0,0.0368,0.0266,0.0357,0.276,0.704,147.211,60
+Rock And Roll All Nite,Kiss,Dressed To Kill,1975,168000,4,0.654,0.929,1,-5.906,1,0.0998,0.0474,0,0.0538,0.902,144.769,73
+Shout It Out Loud - 2012 Remix,Kiss,Destroyer (Resurrected),1976,168000,4,0.53,0.934,8,-4.315,1,0.0731,0.0751,0,0.456,0.731,135.654,32
+Betrayer,Kreator,Extreme Aggression,2012,239200,4,0.341,0.894,8,-12.604,0,0.0552,0.00553,0.0438,0.124,0.375,106.461,31
+Coma of Souls,Kreator,Coma of Souls,1990,258440,4,0.353,0.983,0,-9.017,1,0.0912,0.0000994,0.522,0.205,0.125,104.121,30
+Enemy of God,Kreator,Enemy of God,2005,343920,4,0.319,0.99,0,-5.133,0,0.124,0.000035,0.0357,0.254,0.206,105.551,44
+Extreme Aggression,Kreator,Extreme Aggression,1989,283466,4,0.292,0.951,0,-12.055,1,0.055,0.00918,0.133,0.104,0.169,109.151,38
+Flag of Hate,Kreator,Endless Pain (Expanded Edition),1986,282626,4,0.257,0.986,9,-6.583,1,0.198,0.00000211,0.0425,0.0959,0.0487,97.933,25
+Hordes of Chaos (A Necrologue for the Elite),Kreator,Hordes of Chaos,2009,304173,4,0.267,0.991,7,-4.608,1,0.159,0.0000197,0.00484,0.652,0.116,104.82,38
+Phantom Antichrist,Kreator,Phantom Antichrist,2012,270920,4,0.373,0.98,6,-4.945,0,0.103,0.00000598,0.3,0.277,0.111,102.842,40
+Pleasure to Kill,Kreator,Pleasure to Kill,1986,248766,4,0.264,0.941,7,-6.569,1,0.18,0.0000164,0.0342,0.313,0.331,126.847,41
+Terrible Certainty,Kreator,Terrible Certainty (Bonus Track Edition),1987,267000,4,0.335,0.965,7,-6.834,1,0.0961,0.0000975,0.176,0.179,0.18,113.407,23
+Violent Revolution,Kreator,Violent Revolution,2001,294800,4,0.506,0.994,7,-5.733,1,0.0935,0.000176,0.0152,0.155,0.205,144.04,48
+Contractor,Lamb of God,Wrath,2022,202040,4,0.336,0.997,0,-3.016,0,0.262,0.000539,0.0000104,0.372,0.141,121.469,33
+Ghost Walking,Lamb of God,Resolution,2012,270693,5,0.511,0.992,1,-3.359,1,0.163,0.000328,0.0000155,0.299,0.35,129.921,45
+Hourglass,Lamb of God,Ashes of the Wake (15th Anniversary),2004,240183,3,0.347,0.982,2,-3.399,1,0.128,0.00235,0.0237,0.375,0.146,115.64,54
+Laid to Rest,Lamb of God,Ashes of the Wake (15th Anniversary),2004,230127,3,0.366,0.956,10,-3.725,0,0.108,0.000293,0.00447,0.449,0.159,104.016,64
+Now You've Got Something to Die For - Live Album Version,Lamb of God,Killadelphia (Live),2004,218946,4,0.316,0.992,2,-3.212,1,0.148,0.000524,0.000928,0.832,0.297,94.577,27
+Omerta,Lamb of God,Ashes of the Wake (15th Anniversary),2004,285962,4,0.413,0.982,6,-4.079,0,0.201,0.00242,0.00112,0.323,0.155,118.504,58
+Redneck,Lamb of God,Sacrament (15th Anniversary Edition),2006,220880,4,0.513,0.995,6,-3.384,0,0.165,0.0000806,0.0000113,0.364,0.0401,130.97,63
+Ruin,Lamb of God,As The Palaces Burn,2009,234266,3,0.195,0.958,7,-4.391,1,0.194,0.0000519,0.128,0.371,0.11,198.151,52
+Set To Fail,Lamb of God,Wrath,2009,226493,4,0.494,0.995,8,-1.868,0,0.147,0.0000288,0.00701,0.147,0.288,112.717,37
+Walk with Me In Hell,Lamb of God,Sacrament (15th Anniversary Edition),2006,311266,4,0.272,0.984,0,-4.546,0,0.137,0.0000701,0.00345,0.345,0.0946,110.336,58
+Aesthetics Of Hate,Machine Head,The Blackening,2007,390296,4,0.287,0.984,6,-5.218,0,0.187,0.000184,0.125,0.624,0.0445,106.278,33
+Blood for Blood,Machine Head,Burn My Eyes,2002,220666,4,0.239,0.986,3,-6.005,1,0.214,0.0000815,0.131,0.146,0.173,126.413,34
+Davidian,Machine Head,Burn My Eyes,1994,296626,3,0.278,0.937,7,-6.952,1,0.168,0.000535,0.118,0.227,0.29,154.244,57
+From This Day,Machine Head,The Burning Red,2003,236493,4,0.366,0.987,1,-6.613,0,0.197,0.000476,0.00000591,0.374,0.118,111.089,45
+Hallowed Be Thy Name,Machine Head,The Blackening,1982,447760,4,0.319,0.964,11,-4.132,0,0.103,0.000415,0.126,0.215,0.146,105.603,42
+Halo,Machine Head,The Blackening,2003,543398,4,0.229,0.969,9,-4.729,1,0.252,0.000191,0.0425,0.431,0.0875,148.609,38
+Imperium,Machine Head,Through the Ashes of Empires,2003,401693,4,0.317,0.949,11,-5.705,0,0.106,0.000917,0.0006,0.0677,0.0944,124.119,37
+Locust,Machine Head,Unto The Locust,2011,456312,4,0.357,0.96,7,-3.608,1,0.145,0.0000724,0.0185,0.112,0.237,120.29,48
+Now We Die,Machine Head,Bloodstone & Diamonds,2014,430540,4,0.43,0.971,4,-4.742,0,0.149,0.00136,0.00000318,0.0777,0.0896,150.111,44
+Ten Ton Hammer,Machine Head,The More Things Change...,2001,254666,4,0.282,0.99,4,-5.031,0,0.19,0.000179,0.0186,0.333,0.185,84.787,45
+Battle Hymn,Manowar,Battle Hymns,1982,416693,3,0.315,0.822,4,-10.437,0,0.103,0.047,0.0077,0.274,0.164,150.499,49
+Blood of the Kings,Manowar,Kings of Metal,1982,449600,4,0.358,0.686,4,-12.542,1,0.0429,0.0000549,0.0311,0.097,0.361,148.406,39
+Brothers Of Metal (Part 1),Manowar,Louder Than Hell,1982,234640,3,0.566,0.917,4,-6.385,0,0.0615,0.0000554,0.0725,0.206,0.554,164.297,45
+Carry On,Manowar,Fighting the World,1982,252693,4,0.497,0.904,4,-9.442,1,0.067,0.000389,0.00122,0.0939,0.429,87.862,48
+Gods of War,Manowar,Gods of War,2007,446186,4,0.446,0.8,10,-5.444,0,0.0525,0.00641,0.0047,0.671,0.607,80.049,29
+Hail and Kill,Manowar,Kings of Metal,1988,357026,4,0.358,0.857,4,-12.569,0,0.0581,0.00478,0.000052,0.0586,0.2,93.156,51
+Kings of Metal,Manowar,Kings of Metal,1988,223866,4,0.575,0.881,9,-13.012,1,0.0357,0.000117,0.0000269,0.147,0.699,132.127,55
+Sign Of The Hammer,Manowar,Sign Of The Hammer,1984,258826,4,0.177,0.971,2,-9.702,1,0.134,0.00161,0.0667,0.0626,0.0397,162.986,28
+Warriors of the World United,Manowar,Warriors of the World,2002,351217,4,0.595,0.664,2,-7.575,0,0.0356,0.00234,0.0609,0.0652,0.188,87.03,58
+Coma White,Marilyn Manson,Mechanical Animals,2003,338200,4,0.347,0.741,9,-7.937,0,0.0324,0.00000673,0.115,0.267,0.0994,159.918,56
+Disposable Teens,Marilyn Manson,Holy Wood,2000,181506,4,0.518,0.956,10,-5.016,1,0.155,0.0000522,0.0183,0.533,0.283,134.019,59
+I Don't Like The Drugs (But The Drugs Like Me),Marilyn Manson,Mechanical Animals,1998,303466,4,0.564,0.834,2,-6.978,1,0.0384,0.00129,0,0.886,0.534,93.906,53
+Lunchbox,Marilyn Manson,Portrait Of An American Family,1996,272800,4,0.452,0.952,9,-6.499,1,0.218,0.00442,0.121,0.302,0.305,168.065,47
+Rock Is Dead,Marilyn Manson,Mechanical Animals,2000,189760,3,0.509,0.91,11,-6.531,0,0.038,0.00000878,0.102,0.404,0.358,101.174,58
+Tainted Love,Marilyn Manson,Lest We Forget - The Best Of,2003,200066,4,0.637,0.95,8,-4.4,1,0.109,0.00104,0.00000735,0.288,0.511,142.018,59
+The Beautiful People,Marilyn Manson,Antichrist Superstar,1996,218826,4,0.621,0.834,10,-10.068,0,0.0557,0.000779,0.456,0.0611,0.937,143.973,73
+This Is The New S**t,Marilyn Manson,The Golden Age Of Grotesque,2003,259666,4,0.566,0.869,2,-6.084,1,0.1,0.000916,0.00346,0.114,0.647,178.113,59
+Blood and Thunder,Mastodon,Leviathan,2004,228586,4,0.364,0.935,2,-6.548,1,0.0724,0.00000858,0.729,0.0317,0.478,92.717,61
+Colony of Birchmen,Mastodon,Blood Mountain,2006,259693,4,0.416,0.927,2,-3.257,1,0.0844,0.0000329,0.00872,0.0782,0.339,125.758,43
+Crack the Skye,Mastodon,Crack the Skye,2009,354306,4,0.312,0.976,0,-5.324,1,0.093,0.00000959,0.861,0.0945,0.0692,122.755,39
+Iron Tusk,Mastodon,Leviathan,2006,183013,4,0.468,0.982,2,-6.274,1,0.074,0.00000763,0.752,0.177,0.261,127.616,48
+March of the Fire Ants,Mastodon,Remission (Reissue),2002,265653,3,0.144,0.947,9,-3.255,1,0.0697,0.00000244,0.884,0.0711,0.275,156.15,35
+Oblivion,Mastodon,Crack the Skye,2009,346573,3,0.261,0.938,5,-5.125,0,0.086,0.0000992,0.0106,0.301,0.256,132.47,50
+Show Yourself,Mastodon,Emperor of Sand,2017,182893,4,0.468,0.977,8,-4.198,1,0.0645,0.00000499,0.0213,0.0543,0.493,134.996,50
+Sultan's Curse,Mastodon,Emperor of Sand,2017,249533,3,0.341,0.954,7,-4.745,0,0.082,0.0000124,0.0234,0.0308,0.23,161.858,43
+The Motherload,Mastodon,Once More 'Round the Sun,2014,299786,4,0.363,0.971,5,-2.974,0,0.0776,0.0000071,0.00358,0.0797,0.347,146.018,57
+A Tout Le Monde - Remastered 2004,Megadeth,Youthanasia (Expanded Edition - Remastered),1994,262133,4,0.272,0.747,5,-4.86,0,0.0401,0.000393,0.0000403,0.16,0.255,202.777,63
+Hangar 18,Megadeth,Rust In Peace,1990,314560,4,0.169,0.949,7,-10.595,1,0.114,0.000101,0.616,0.297,0.147,159.678,52
+Holy Wars...The Punishment Due,Megadeth,Rust In Peace,1990,396133,4,0.339,0.887,9,-12.179,1,0.0699,0.00291,0.316,0.296,0.317,125.086,52
+In My Darkest Hour - Remastered 2004,Megadeth,"So Far, So Good...So What! (Expanded Edition - Remastered)",1986,386600,4,0.322,0.978,9,-5.446,1,0.131,0.0000866,0.266,0.136,0.271,112.878,53
+Peace Sells,Megadeth,Greatest Hits: Back To The Start,1986,242533,4,0.307,0.905,11,-4.362,0,0.141,0.000624,0.424,0.545,0.716,138.333,36
+Sweating Bullets,Megadeth,Greatest Hits: Back To The Start,1992,326600,4,0.331,0.859,4,-5.55,0,0.166,0.000315,0.00815,0.48,0.684,77.451,36
+Symphony Of Destruction,Megadeth,Countdown To Extinction (Expanded Edition - Remastered),1992,246733,4,0.61,0.889,4,-5.452,0,0.0585,0.000794,0.0865,0.0657,0.506,139.903,66
+Tornado Of Souls,Megadeth,Rust In Peace,1990,322933,4,0.404,0.932,7,-11.151,1,0.102,0.0021,0.0313,0.072,0.399,194.505,57
+Trust,Megadeth,Greatest Hits: Back To The Start,2004,312333,4,0.595,0.803,5,-4.293,1,0.0533,0.00126,0.369,0.096,0.375,132.125,46
+Wake Up Dead - 2004 Remaster,Megadeth,Peace Sells...But Who's Buying? (Expanded Edition - Remastered),1986,217333,4,0.279,0.912,4,-4.608,1,0.126,0.0000267,0.737,0.0672,0.479,164.185,51
+A Dangerous Meeting,Mercyful Fate,Don't Break the Oath,1983,312760,4,0.271,0.927,4,-9.57,0,0.0683,0.00963,0.438,0.34,0.502,138.413,41
+Black Funeral,Mercyful Fate,Melissa,1983,169266,4,0.243,0.86,9,-11.046,1,0.0722,0.000129,0.0379,0.238,0.327,135.901,34
+Curse of the Pharaohs,Mercyful Fate,Melissa,1983,237106,4,0.32,0.798,4,-9.999,1,0.0777,0.000113,0.0779,0.132,0.544,137.591,40
+Evil,Mercyful Fate,Melissa,1983,284960,4,0.288,0.904,0,-9.455,1,0.114,0.000273,0.382,0.0894,0.556,133.838,44
+Into the Coven,Mercyful Fate,Melissa,1983,311626,4,0.221,0.814,7,-9.849,1,0.113,0.0311,0.558,0.184,0.336,145.12,34
+Melissa,Mercyful Fate,Melissa,1983,401506,4,0.24,0.56,9,-12.439,0,0.0453,0.00443,0.797,0.196,0.298,117.342,35
+Nuns Have No Fun,Mercyful Fate,The Beginning,1983,261825,4,0.339,0.657,4,-12.586,0,0.0347,0.0747,0.0925,0.124,0.842,141.885,24
+The Oath,Mercyful Fate,Don't Break the Oath,1987,454040,4,0.149,0.871,4,-10.296,0,0.128,0.000326,0.837,0.0707,0.149,169.472,32
+Bleed,Meshuggah,ObZen,2008,442733,4,0.242,0.998,11,-5.64,1,0.0894,0.00000812,0.88,0.284,0.18,114.642,58
+Clockworks,Meshuggah,The Violent Sleep of Reason,2016,435040,1,0.431,0.98,10,-5.313,0,0.107,0.00000201,0.831,0.289,0.366,129.935,41
+Combustion,Meshuggah,ObZen,2016,248933,4,0.457,0.997,1,-4.992,0,0.0634,0.00000836,0.899,0.138,0.53,110.021,49
+Demiurge,Meshuggah,Koloss,2012,372866,3,0.207,0.945,1,-5.277,1,0.0787,0.0000326,0.79,0.0947,0.0399,113.254,51
+Future Breed Machine,Meshuggah,Destroy Erase Improve (Reloaded),1995,348682,1,0.299,0.97,1,-6.865,1,0.157,0.000993,0.0953,0.304,0.154,175.353,44
+New Millennium Cyanide Christ,Meshuggah,Chaosphere (Reloaded),1998,335666,4,0.269,0.964,10,-5.182,0,0.143,0.000241,0.00211,0.131,0.159,149.86,43
+Rational Gaze,Meshuggah,Nothing,2002,304493,1,0.528,0.976,1,-5.157,1,0.0919,0.0000459,0.0828,0.0944,0.243,133.01,48
+Stengah,Meshuggah,Nothing,2008,336253,4,0.551,0.925,1,-5.246,1,0.147,0.0000908,0.685,0.156,0.386,120.031,34
+The Demon's Name Is Surveillance,Meshuggah,Koloss,2008,279333,3,0.347,0.924,8,-3.996,1,0.0735,0.000001,0.928,0.243,0.185,161.962,39
+Badlands,Metal Church,Blessing In Disguise,1989,444453,4,0.372,0.912,9,-8.832,0,0.0713,0.00163,0.0275,0.297,0.459,166.889,34
+Beyond the Black,Metal Church,Metal Church,1986,381480,4,0.323,0.921,8,-7.393,1,0.0758,0.00354,0.469,0.205,0.308,115.548,35
+Metal Church,Metal Church,Metal Church,1984,302360,4,0.428,0.947,10,-8.516,0,0.0751,0.000679,0.0563,0.262,0.223,102.335,44
+Start the Fire,Metal Church,The Dark,1985,225800,4,0.507,0.921,4,-10.351,1,0.044,0.000248,0.00261,0.364,0.475,148.757,39
+The Dark,Metal Church,The Dark,1986,252200,4,0.492,0.947,4,-9.013,1,0.0624,0.000207,0.00239,0.185,0.285,104.462,28
+The Human Factor,Metal Church,The Human Factor,1991,299466,4,0.506,0.971,0,-7.786,1,0.0607,0.00224,0.0000717,0.291,0.323,94.153,18
+Watch the Children Pray,Metal Church,The Dark,1984,357466,4,0.325,0.845,11,-10.193,0,0.0561,0.000209,0.000277,0.109,0.0982,112.632,41
+Battery,Metallica,Master of Puppets,1986,312000,4,0.48,0.923,11,-8.793,0,0.0682,0.000211,0.531,0.106,0.44,96.535,47
+Creeping Death,Metallica,Ride The Lightning,1984,395000,4,0.31,0.977,6,-5.478,0,0.164,0.000219,0.273,0.0785,0.179,100.626,48
+Enter Sandman,Metallica,Metallica,1991,331000,4,0.566,0.834,6,-8.412,0,0.0298,0.00277,0.008,0.0625,0.621,123.296,76
+Fade To Black,Metallica,Ride The Lightning,1984,417000,4,0.256,0.929,7,-6.667,1,0.113,0.00311,0.201,0.11,0.278,113.47,50
+For Whom The Bell Tolls,Metallica,Ride The Lightning,1984,309000,4,0.512,0.86,0,-6.145,1,0.0703,0.00631,0.00528,0.0652,0.258,117.909,52
+Master Of Puppets,Metallica,Master of Puppets,1986,515000,4,0.539,0.828,4,-9.108,0,0.035,0.00067,0.421,0.154,0.562,105.25,49
+Nothing Else Matters,Metallica,Metallica,1991,388000,3,0.547,0.394,4,-9.793,0,0.0262,0.0522,0.0000064,0.0795,0.17,142.37,70
+One,Metallica,...And Justice for All,1988,446000,3,0.438,0.687,7,-9.15,1,0.0619,0.000668,0.0801,0.42,0.426,103.01,49
+Sad But True,Metallica,Metallica,1991,324000,4,0.624,0.876,7,-6.005,1,0.0342,0.000926,0.00164,0.0561,0.453,89.24,66
+Seek & Destroy,Metallica,Kill 'Em All,1983,414000,4,0.439,0.963,9,-5.508,1,0.277,0.0364,0.00896,0.0784,0.435,140.805,64
+Astro Zombies,Misfits,Collection,1985,131333,4,0.468,0.846,0,-11.889,1,0.0484,0.608,0.468,0.214,0.476,110.761,50
+"Die, Die My Darling",Misfits,"Earth A.D. / Die, Die My Darling",1984,191733,4,0.313,0.876,11,-13.151,0,0.0386,0.436,0,0.0989,0.547,172.717,52
+Hybrid Moments - C.I. Recording 1978,Misfits,The Misfits Box Set,1978,102266,4,0.17,0.81,2,-9.339,1,0.0521,0.27,0.0445,0.104,0.547,193.791,63
+Last Caress - C.I. Recording 1978,Misfits,The Misfits Box Set,1983,117080,4,0.33,0.906,0,-9.607,1,0.0513,0.533,0.0208,0.15,0.418,91.186,59
+London Dungeon,Misfits,Collection,1983,154400,4,0.344,0.912,0,-11.219,1,0.164,0.109,0.0973,0.19,0.273,170.842,53
+She - Reel Platinum 1985,Misfits,The Misfits Box Set,1985,82666,4,0.147,0.972,2,-7.005,1,0.0655,0.0000108,0.886,0.24,0.27,187.038,46
+Teenagers From Mars,Misfits,Static Age,1984,170706,4,0.347,0.945,4,-9.165,1,0.0469,0.274,0.648,0.168,0.462,164.606,40
+Where Eagles Dare,Misfits,Collection,1980,128426,4,0.282,0.943,2,-7.746,1,0.121,0.741,0.414,0.178,0.15,182.381,60
+Dr. Feelgood,Motley Crue,Dr. Feelgood (Deluxe Version),1989,289000,4,0.53,0.968,2,-3.941,1,0.0753,0.000702,0.0118,0.228,0.338,110.974,70
+"Girls, Girls, Girls",Motley Crue,"Girls, Girls, Girls (Deluxe Version)",1987,270000,4,0.599,0.922,7,-4.887,1,0.0739,0.025,0.0000582,0.356,0.514,140.098,70
+Home Sweet Home,Motley Crue,Theatre of Pain,1985,239000,4,0.397,0.776,5,-6.339,1,0.0381,0.0983,0.00000409,0.189,0.127,76.301,68
+Kickstart My Heart,Motley Crue,Dr. Feelgood (Deluxe Version),1989,282000,4,0.363,0.982,7,-3.621,0,0.3,0.00123,0.00218,0.284,0.275,179.23,78
+Live Wire,Motley Crue,Too Fast For Love,1981,194000,4,0.411,0.904,7,-6.652,0,0.063,0.0000937,0.00000757,0.565,0.679,112.24,64
+Same Ol' Situation (S.O.S.),Motley Crue,Dr. Feelgood (Deluxe Version),1989,252000,4,0.495,0.986,2,-3.109,1,0.133,0.0312,0.0000207,0.431,0.246,139.677,60
+Shout At The Devil '97,Motley Crue,Generation Swine,1997,222000,4,0.52,0.99,2,-4.616,1,0.0529,0.00116,0.292,0.61,0.391,103.697,29
+Too Fast for Love,Motley Crue,Too Fast For Love,1981,201000,4,0.402,0.873,7,-5.238,1,0.062,0.0000818,0.0000218,0.335,0.822,150.3,53
+Wild Side,Motley Crue,"Girls, Girls, Girls (Deluxe Version)",1987,283000,4,0.602,0.874,0,-5.613,1,0.037,0.0074,0.0011,0.303,0.456,115.094,65
+Looks That Kill,Motley Crue,Shout At The Devil,1983,247840,4,0.485,0.949,0,-5.79,1,0.0404,0.00327,0.00631,0.115,0.742,135.972,62
+(We Are) The Road Crew (Live at Hammersmith),Motörhead,Better Motörhead Than Dead (Live at Hammersmith),2005,194853,4,0.233,0.996,3,-4.836,0,0.363,0.0327,0.211,0.706,0.04,146.359,7
+Ace of Spades,Motörhead,Ace of Spades (Expanded Edition),1980,168320,4,0.322,0.991,6,-4.453,1,0.213,0.00313,0.0035,0.0708,0.198,140.221,72
+Bomber,Motörhead,Bomber,1979,220800,4,0.376,0.997,8,-5.717,1,0.112,0.103,0.0814,0.792,0.139,105.931,49
+Damage Case,Motörhead,Overkill (Expanded Edition),1979,182133,4,0.27,0.922,3,-6.987,0,0.109,0.00488,0.00000735,0.854,0.515,161.803,47
+Iron Fist,Motörhead,Iron Fist,1982,171906,4,0.304,0.947,1,-5.302,1,0.0917,0.000431,0.00192,0.156,0.427,145.324,45
+Killed by Death,Motörhead,All the Aces,1984,278373,4,0.388,0.956,6,-6.037,0,0.0471,0.00115,0.000573,0.464,0.24,134.589,53
+Orgasmatron,Motörhead,Orgasmatron,1986,324506,4,0.415,0.956,3,-9.054,1,0.0426,0.0424,0.0595,0.352,0.183,127.842,45
+Overkill,Motörhead,Overkill (Expanded Edition),1979,313520,4,0.27,0.886,11,-6.9,1,0.117,0.00000762,0.0258,0.0899,0.19,119.283,57
+Death Blooms,Mudvayne,L.D. 50,2002,291933,4,0.275,0.974,6,-4.624,0,0.192,0.000355,0.0024,0.158,0.237,174.095,52
+Determined,Mudvayne,Lost and Found,2005,159253,4,0.4,0.991,8,-2.043,1,0.152,0.0000429,0.0000066,0.28,0.45,129.519,55
+Dig,Mudvayne,L.D. 50,2005,162293,4,0.623,0.983,11,-3.548,0,0.151,0.0000962,0.0617,0.261,0.271,134.975,62
+Forget to Remember - From Saw II - Original Soundtrack,Mudvayne,Lost and Found,2005,215306,4,0.453,0.965,8,-3.388,1,0.141,0.000857,0.00275,0.0741,0.743,188.155,56
+Happy?,Mudvayne,Lost and Found,2005,216426,4,0.546,0.97,5,-2.661,0,0.097,0.000823,0.0000208,0.275,0.383,100.065,67
+Not Falling,Mudvayne,The End Of All Things To Come,2002,243933,4,0.438,0.984,8,-5.012,1,0.143,0.0000297,0.0758,0.0572,0.32,129.921,44
+Silenced,Mudvayne,The End Of All Things To Come,2005,181093,4,0.643,0.986,4,-5.067,0,0.139,0.000154,0.266,0.0721,0.331,111.113,41
+Bad Bad Boy,Nazareth,Razamanaz,1973,237000,4,0.621,0.916,2,-4.926,1,0.0348,0.00192,0.0000115,0.275,0.877,127.616,32
+Beggars Day,Nazareth,Hair Of The Dog,1975,225000,4,0.436,0.873,10,-10.988,1,0.0743,0.00127,0.624,0.298,0.427,119.308,29
+Broken Down Angel,Nazareth,Razamanaz,1973,224000,4,0.646,0.642,1,-7.48,0,0.0375,0.0545,0.0162,0.144,0.553,124.592,32
+Changin' Times,Nazareth,Hair Of The Dog,1975,363000,4,0.278,0.811,9,-10.518,1,0.0416,0.00267,0.0302,0.161,0.653,172.317,30
+Expect No Mercy,Nazareth,Expect No Mercy,1977,205000,4,0.496,0.903,7,-7.866,1,0.0441,0.0405,0.93,0.291,0.681,133.351,21
+Hair Of The Dog,Nazareth,Hair Of The Dog,1975,249000,4,0.688,0.745,4,-10.323,1,0.0519,0.00285,0.238,0.114,0.688,128.556,57
+Holiday,Nazareth,Malice In Wonderland,1980,216000,4,0.615,0.834,7,-5.726,1,0.0318,0.0311,0.00000294,0.143,0.688,131.606,31
+Love Hurts,Nazareth,Hair Of The Dog,1975,233000,4,0.485,0.328,7,-11.853,1,0.0254,0.00596,0.0032,0.325,0.138,79.766,58
+This Flight Tonight - 1991 Version,Nazareth,No Jive,1991,216000,4,0.626,0.892,7,-6.908,1,0.0452,0.000863,0.0000391,0.0855,0.38,127.21,13
+Amaranth,Nightwish,Dark Passion Play,2007,231444,4,0.558,0.859,2,-3.992,0,0.0421,0.00469,0.00196,0.0831,0.31,127.98,61
+Elvenpath - Remastered,Nightwish,Angels Fall First,1997,277866,4,0.428,0.93,9,-4.054,1,0.117,0.00033,0.279,0.142,0.138,145.481,34
+Ghost Love Score,Nightwish,Once,2004,602080,3,0.442,0.779,5,-5.392,0,0.0394,0.00969,0.000539,0.113,0.203,100.969,50
+Nemo,Nightwish,Once,2004,276200,4,0.494,0.735,0,-6.326,0,0.0348,0.000185,0.0000838,0.086,0.359,125.042,64
+Over The Hills And Far Away,Nightwish,Over The Hills And Far Away,2007,302266,4,0.238,0.915,4,-3.297,0,0.0725,0.000305,0.000281,0.0916,0.375,135.453,52
+Planet Hell,Nightwish,Once,2004,278760,4,0.476,0.862,10,-5.936,0,0.0544,0.0000244,0.0288,0.121,0.39,145.975,48
+Sleeping Sun,Nightwish,Oceanborn,1999,245000,4,0.336,0.573,2,-6.454,0,0.0303,0.0089,0,0.102,0.0735,110.336,53
+Storytime,Nightwish,Imaginaerum,2011,322280,4,0.465,0.971,5,-3.466,0,0.0749,0.00366,0.00375,0.326,0.483,156.171,58
+The Phantom Of The Opera,Nightwish,Century Child,2001,248706,4,0.428,0.835,5,-7.7,0,0.0508,0.00000693,0.0309,0.0727,0.305,131.892,58
+Wish I Had an Angel,Nightwish,Once,2004,245973,4,0.44,0.942,4,-5.998,0,0.0554,0.0000091,0.0531,0.321,0.584,79.508,62
+Blackwater Park,Opeth,Blackwater Park,2001,731306,4,0.109,0.854,2,-6.758,1,0.0871,0.000381,0.228,0.197,0.134,79.958,43
+Bleak,Opeth,Blackwater Park,2001,555933,4,0.247,0.868,0,-4.902,1,0.0762,0.0000819,0.663,0.594,0.261,97.527,45
+Deliverance,Opeth,Deliverance,2002,816720,4,0.283,0.973,4,-4.006,0,0.0459,0.000281,0.706,0.192,0.275,97.303,44
+Demon Of The Fall,Opeth,"My Arms, Your Hearse",1996,373386,3,0.348,0.955,2,-5.767,0,0.117,0.0000231,0.8,0.0947,0.126,102.879,40
+Ghost of Perdition,Opeth,Ghost Reveries,2005,629480,3,0.292,0.818,9,-6.227,0,0.0413,0.000697,0.00192,0.0544,0.19,93.924,52
+Harvest,Opeth,Blackwater Park,2001,361466,4,0.501,0.686,4,-6.457,0,0.0246,0.0405,0.014,0.0846,0.218,62.509,49
+In Mist She Was Standing,Opeth,Orchid,2005,849506,4,0.188,0.961,9,-6.597,0,0.206,0.000133,0.22,0.308,0.0523,141.084,32
+The Drapery Falls,Opeth,Blackwater Park,2001,652040,3,0.103,0.859,7,-6.107,1,0.0803,0.000339,0.168,0.0974,0.306,186.415,42
+The Moor (Remastered),Opeth,Still Life (Remastered),1999,686786,4,0.303,0.859,5,-6.106,1,0.0819,0.00133,0.379,0.243,0.103,126.083,41
+Windowpane,Opeth,Damnation,2005,464280,4,0.328,0.553,6,-6.252,1,0.0267,0.156,0.412,0.0985,0.322,159.959,54
+Coma,Overkill,Horrorscope,1989,322266,4,0.29,0.917,8,-12.687,1,0.101,0.000188,0.659,0.0814,0.148,93.009,34
+Deny the Cross,Overkill,Taking Over,2003,282880,4,0.257,0.917,6,-10.764,0,0.0782,0.0000414,0.00167,0.0422,0.112,148.14,26
+Elimination,Overkill,The Years of Decay,1989,275386,4,0.302,0.805,6,-11.395,0,0.0967,0.000849,0.00000419,0.151,0.578,112.766,45
+Fear His Name,Overkill,Taking Over,2003,324480,3,0.211,0.823,4,-11.145,0,0.0596,0.000139,0.0802,0.122,0.543,175.386,21
+Feel the Fire,Overkill,Feel the Fire,1985,352560,4,0.249,0.895,1,-9.727,0,0.0755,0.00527,0.594,0.185,0.445,152.977,22
+Hello from the Gutter,Overkill,Under the Influence,1988,253933,4,0.328,0.916,2,-9.807,0,0.0713,0.00386,0.168,0.117,0.363,113.57,34
+Horrorscope,Overkill,Horrorscope,1991,349173,4,0.351,0.508,9,-11.425,0,0.028,0.000313,0.772,0.0986,0.626,96.226,30
+In Union We Stand,Overkill,Taking Over,1987,265840,4,0.434,0.814,4,-10.124,0,0.0469,0.0000667,0.0000154,0.105,0.491,86.281,25
+Ironbound,Overkill,Ironbound,2010,397053,4,0.245,0.968,4,-5.353,0,0.141,0.000126,0.856,0.0662,0.157,95.808,24
+Powersurge,Overkill,Taking Over,1987,276466,4,0.464,0.886,4,-11.546,0,0.0615,0.0000652,0.000277,0.0785,0.574,144.483,23
+Rotten to the Core,Overkill,Feel the Fire,1987,299893,4,0.294,0.955,9,-9.485,1,0.0686,0.0412,0.621,0.198,0.275,102.299,26
+The Years of Decay,Overkill,The Years of Decay,1989,480426,4,0.319,0.372,4,-16.307,0,0.0356,0.0422,0.00563,0.0682,0.236,109.606,30
+Wrecking Crew,Overkill,Taking Over,2005,272333,4,0.318,0.939,0,-8.662,1,0.0581,0.0000291,0.198,0.202,0.382,150.401,31
+Bark at the Moon,Ozzy Osbourne,Bark At The Moon,1983,257000,4,0.303,0.961,9,-5.333,0,0.243,0.00253,0.000062,0.132,0.305,146.591,63
+Crazy Train,Ozzy Osbourne,Blizzard Of Ozz (40th Anniversary Expanded Edition),1980,293183,4,0.454,0.913,9,-4.008,1,0.107,0.408,0.000271,0.248,0.521,137.688,77
+"Mama, I'm Coming Home",Ozzy Osbourne,No More Tears,1991,251000,4,0.282,0.656,8,-6.557,1,0.0302,0.0105,0,0.0892,0.242,139.352,66
+Mr. Crowley,Ozzy Osbourne,Blizzard Of Ozz (40th Anniversary Expanded Edition),1980,302647,4,0.307,0.748,2,-6.514,0,0.0568,0.212,0.000153,0.368,0.347,108.227,62
+No More Tears,Ozzy Osbourne,No More Tears,1991,443000,4,0.346,0.749,6,-6.506,1,0.035,0.00167,0.0000886,0.648,0.315,102.591,71
+Suicide Solution,Ozzy Osbourne,Blizzard Of Ozz (40th Anniversary Expanded Edition),1980,258078,4,0.435,0.869,2,-4.545,1,0.0421,0.141,0.0000158,0.231,0.534,107.649,48
+5 Minutes Alone,Pantera,Far Beyond Driven,1994,347440,4,0.504,0.856,7,-6.271,1,0.0423,0.000748,0.359,0.114,0.585,95.402,61
+A New Level,Pantera,Vulgar Display of Power,1992,237466,4,0.302,0.868,9,-9.349,1,0.0688,0.0000568,0.185,0.0888,0.454,136.572,57
+Cemetery Gates,Pantera,Cowboys from Hell,1992,422933,4,0.274,0.726,9,-11.541,1,0.0449,0.000212,0.0113,0.0993,0.426,146.449,66
+Cowboys from Hell,Pantera,Cowboys from Hell,1990,243533,4,0.415,0.908,2,-9.701,1,0.0765,0.00437,0.0345,0.082,0.437,114.816,71
+Domination,Pantera,Cowboys from Hell,1992,305293,4,0.372,0.888,2,-5.88,1,0.0943,0.000211,0.00442,0.115,0.555,141.374,65
+I'm Broken,Pantera,Far Beyond Driven,1994,264800,4,0.419,0.878,7,-6.352,1,0.0553,0.000594,0.559,0.139,0.666,147.385,67
+Mouth for War,Pantera,Vulgar Display of Power,1992,237346,4,0.329,0.954,8,-7.006,0,0.0722,0.0000042,0.000614,0.051,0.627,156.899,63
+Revolution Is My Name,Pantera,Reinventing the Steel,2003,316493,4,0.243,0.988,8,-3.485,1,0.197,0.0000617,0.12,0.341,0.277,89.905,55
+This Love,Pantera,Vulgar Display of Power,2003,393706,4,0.402,0.73,6,-9.327,1,0.0455,0.000312,0.323,0.103,0.296,104.527,63
+Walk,Pantera,Vulgar Display of Power,1992,315120,4,0.43,0.704,1,-8.008,0,0.0804,0.000155,0.00221,0.0933,0.703,118.242,75
+Best I Can,Queensryche,Empire,1990,334000,4,0.602,0.92,2,-4.396,1,0.0499,0.00297,0.000153,0.325,0.29,132.273,23
+Empire,Queensryche,Empire,1990,324000,4,0.318,0.89,2,-4.542,1,0.089,0.00207,0.0000147,0.0395,0.413,78.76,24
+Empire,Queensryche,,1990,347000,4,0.467,0.628,7,-5.645,1,0.0269,0.0583,0.000379,0.12,0.105,140.214,32
+I Don't Believe In Love,Queensryche,Operation: Mindcrime,1988,263000,4,0.551,0.991,2,-2.642,0,0.0962,0.0338,0.0000206,0.429,0.259,117.98,38
+Jet City Woman,Queensryche,Empire,1990,321000,4,0.501,0.932,8,-3.679,0,0.0896,0.0608,0.00000225,0.703,0.347,110.075,26
+Operation Mindcrime,Queensryche,Operation: Mindcrime,1988,285000,4,0.536,0.981,9,-3.469,1,0.189,0.0907,0.000063,0.62,0.212,110.029,32
+Silent Lucidity,Queensryche,Eyes Of A Stranger,1988,413000,4,0.486,0.973,9,-2.984,1,0.0937,0.0366,0.0000427,0.337,0.101,105.041,25
+Take Hold Of The Flame,Queensryche,The Warning,1986,297000,4,0.338,0.627,9,-11.378,0,0.0351,0.0271,0.00000582,0.127,0.179,110.692,25
+The Needle Lies,Queensryche,Operation: Mindcrime,1988,188000,4,0.537,0.988,0,-2.758,1,0.121,0.0551,0.000406,0.199,0.257,118.016,28
+Queen Of The Reich - Remastered 2003,Queensryche,Queensryche (Remasterd) [Expanded Edition],1983,265266,4,0.275,0.978,0,-5.442,1,0.0995,0.000105,0.00798,0.246,0.345,152.506,42
+Condition Critical,Quiet Riot,Condition Critical,1984,301000,4,0.4,0.52,7,-14.296,1,0.0446,0.0171,0.000707,0.131,0.505,138.622,29
+Cum On Feel the Noize - Re-Recorded,Quiet Riot,Alive and Well (Deluxe Edition),1999,280000,4,0.404,0.92,2,-4.931,1,0.118,0.000807,0,0.0266,0.45,144.971,6
+Don't Wanna Let You Go,Quiet Riot,Metal Health,1983,281000,4,0.649,0.842,11,-5.661,0,0.0618,0.0927,0.0834,0.142,0.866,108.269,28
+Mama Weer All Crazee Now,Quiet Riot,Condition Critical,1984,216000,4,0.433,0.785,7,-13.527,1,0.0503,0.00726,0.0126,0.0889,0.421,136.484,46
+Metal Health (Bang Your Head),Quiet Riot,Metal Health,1983,316000,4,0.504,0.95,2,-5.121,1,0.0846,0.00886,0.0931,0.141,0.632,121.442,32
+Party All Night,Quiet Riot,Condition Critical,1984,212000,4,0.523,0.804,6,-13.661,0,0.043,0.00658,0.00353,0.62,0.689,137.446,31
+Sign of the Times - Re-Recorded,Quiet Riot,Alive and Well (Deluxe Edition),1999,292000,4,0.44,0.939,4,-5.005,1,0.108,0.0149,0.0000272,0.343,0.366,137.047,5
+Slick Black Cadillac,Quiet Riot,Metal Health,1983,254000,4,0.347,0.935,11,-4.817,0,0.114,0.00883,0.00112,0.125,0.622,161.638,28
+The Wild And The Young,Quiet Riot,Qr III,1986,216000,4,0.517,0.678,7,-11.496,1,0.0508,0.00768,0.00014,0.0598,0.655,109.267,42
+Thunderbird,Quiet Riot,Metal Health,1983,283000,4,0.369,0.752,0,-6.715,1,0.0443,0.192,0.0000087,0.0877,0.293,139.359,24
+All Night Long,Rainbow,Down To Earth,1983,230533,4,0.571,0.945,7,-6.346,0,0.0461,0.0518,0.0000775,0.793,0.772,128.166,46
+I Surrender,Rainbow,Difficult To Cure,1981,241893,4,0.49,0.86,7,-5.284,0,0.0573,0.132,0,0.215,0.795,132.673,53
+Kill The King,Rainbow,Long Live Rock 'n' Roll,1981,270506,4,0.42,0.938,0,-7.882,1,0.0664,0.00136,0.00329,0.173,0.697,119.449,38
+Long Live Rock N Roll,Rainbow,Long Live Rock 'n' Roll,1978,264960,4,0.405,0.964,0,-7.456,1,0.0573,0.13,0.000224,0.18,0.378,143.099,40
+Man On The Silver Mountain,Rainbow,Ritchie Blackmore's Rainbow,1975,277226,4,0.594,0.77,7,-8.267,0,0.032,0.276,0.0176,0.0575,0.827,107.484,55
+Since You Been Gone,Rainbow,Down To Earth,1979,197160,4,0.733,0.726,7,-6.514,1,0.0371,0.379,0.00000258,0.471,0.915,120.814,67
+Stargazer,Rainbow,Rising,1976,506160,4,0.166,0.948,11,-8.503,0,0.0631,0.00374,0.0131,0.769,0.476,177.495,54
+Street Of Dreams,Rainbow,Bent Out Of Shape,1988,265506,4,0.555,0.648,6,-8.791,0,0.0286,0.00199,0.00000383,0.0597,0.659,119.848,48
+The Temple Of The King,Rainbow,Ritchie Blackmore's Rainbow,1978,282013,4,0.486,0.487,9,-11.633,0,0.0341,0.445,0.0000144,0.0648,0.373,81.972,59
+Back for More,Ratt,The Essentials: Ratt,1985,227066,4,0.625,0.793,8,-8.176,0,0.0432,0.000308,0.00000513,0.0979,0.462,120.92,47
+Body Talk,Ratt,The Essentials: Ratt,1990,228666,4,0.567,0.962,8,-9.004,1,0.0428,0.000107,0.148,0.162,0.146,104.092,40
+Dance,Ratt,The Essentials: Ratt,1990,261053,4,0.565,0.934,8,-7.372,1,0.0459,0.00372,0.0466,0.155,0.711,128.931,40
+I Want a Woman,Ratt,Reach for the Sky,1988,238866,4,0.616,0.967,4,-6.916,0,0.0432,0.00182,0.0114,0.088,0.685,127.216,41
+Lay It Down,Ratt,The Essentials: Ratt,1985,205466,4,0.607,0.86,7,-8.994,1,0.0335,0.000354,0.0232,0.263,0.34,99.072,62
+Round and Round,Ratt,The Essentials: Ratt,1984,265893,4,0.628,0.934,11,-6.026,1,0.0527,0.00682,0.0000111,0.0853,0.491,126.539,68
+Slip of the Lip,Ratt,Dancin' Undercover,1988,196040,4,0.593,0.754,8,-12.852,1,0.0324,0.00149,0.013,0.379,0.366,95.174,43
+Wanted Man,Ratt,The Essentials: Ratt,1985,222506,4,0.609,0.869,4,-7.31,1,0.0509,0.00069,0.0000078,0.0443,0.535,113.125,49
+You're in Love,Ratt,The Essentials: Ratt,1985,194840,4,0.568,0.939,7,-7.127,1,0.0466,0.00267,0.0464,0.0863,0.498,145.999,55
+Light Comes Out Of Black,Rob Halford,Buffy The Vampire Slayer,2002,298560,4,0.512,0.965,9,-9.107,1,0.0777,0.00000336,0.00144,0.226,0.178,135.838,20
+War of Words,Rob Halford,War Of Words,1992,269360,4,0.654,0.802,2,-6.571,1,0.0349,0.00573,0.374,0.121,0.299,104.984,21
+Demon Speeding,Rob Zombie,The Sinister Urge,2001,224306,4,0.549,0.81,11,-4.001,0,0.0328,0.000298,0.00000289,0.156,0.41,133.985,59
+Dragula,Rob Zombie,Hellbilly Deluxe,1998,222826,4,0.59,0.963,0,-6.489,0,0.0676,0.0000875,0.000105,0.0781,0.586,125.033,78
+Feel So Numb,Rob Zombie,The Sinister Urge,2001,233666,4,0.566,0.889,8,-5.22,1,0.0426,0.000043,0.00907,0.292,0.141,127.045,63
+"Foxy, Foxy",Rob Zombie,Educated Horses,2006,208946,4,0.627,0.847,2,-4.497,1,0.0415,0.0117,0,0.317,0.62,110.123,42
+House Of 1000 Corpses,Rob Zombie,The Sinister Urge,2001,566826,4,0.36,0.793,0,-9.169,1,0.275,0.0113,0.871,0.0915,0.168,112.91,45
+Living Dead Girl,Rob Zombie,Hellbilly Deluxe,1998,201400,4,0.518,0.948,6,-5.579,0,0.0676,0.00512,0.0996,0.228,0.548,103.025,70
+More Human Than Human - Live,Rob Zombie,Spookshow International Live,1995,266946,4,0.504,0.979,6,-4.593,1,0.238,0.00266,0.00015,0.996,0.138,101.061,22
+"Never Gonna Stop (The Red, Red Kroovy)",Rob Zombie,The Sinister Urge,2001,189133,4,0.617,0.85,0,-4.543,1,0.0325,0.0000639,0.0000293,0.481,0.589,125.03,57
+Superbeast,Rob Zombie,Hellbilly Deluxe,1998,220266,4,0.52,0.975,11,-4.421,0,0.0583,0.000137,0.826,0.42,0.329,154.058,65
+The Devil's Rejects,Rob Zombie,Educated Horses,2005,234240,4,0.521,0.689,6,-4.797,1,0.0383,0.00764,0.000209,0.164,0.094,105.024,41
+40:1,Sabaton,The Art of War (Re-Armed),2008,250813,4,0.462,0.941,6,-4.34,0,0.0868,0.0000697,0.000605,0.151,0.539,130.119,52
+Bismarck,Sabaton,Bismarck,2015,313984,4,0.505,0.859,6,-5.546,0,0.0431,0.00346,0.0012,0.263,0.434,95.036,62
+Carolus Rex - English Version,Sabaton,Carolus Rex (English),2012,293826,4,0.442,0.846,10,-5.545,0,0.0499,0.000594,0.0000926,0.101,0.241,176.138,54
+Ghost Division,Sabaton,The Art of War (Re-Armed),2008,231186,4,0.343,0.945,4,-3.259,1,0.0555,0.000101,0.00000962,0.346,0.539,176.135,61
+Metal Crüe,Sabaton,Attero Dominatus (Re-Armed),2019,222506,4,0.338,0.767,7,-4.601,1,0.0338,0.0000246,0.00000132,0.176,0.308,93.861,39
+No Bullets Fly,Sabaton,Heroes,2014,217520,4,0.458,0.925,4,-4.82,0,0.103,0.00015,0.00162,0.225,0.344,76.994,54
+Primo Victoria,Sabaton,Primo Victoria (Re-Armed),2005,250720,4,0.436,0.748,6,-6.349,0,0.031,0.000676,0.00000301,0.221,0.589,62.11,64
+Swedish Pagans,Sabaton,The Art of War (Re-Armed),2008,253226,4,0.257,0.979,7,-4.079,1,0.121,0.0883,0.0452,0.545,0.17,135.067,53
+The Final Solution,Sabaton,Coat of Arms,2014,296773,4,0.491,0.965,9,-3.378,0,0.0679,0.012,0.000216,0.0955,0.54,93.074,52
+The Last Stand,Sabaton,The Last Stand,2016,235840,4,0.519,0.935,7,-5.656,0,0.0423,0.00454,0,0.0661,0.498,104.044,69
+To Hell and Back,Sabaton,Heroes,2014,206546,4,0.536,0.849,0,-4.702,1,0.0616,0.00318,0.00197,0.104,0.305,127.002,67
+Believe,Savatage,Streets - A Rock Opera,1993,342160,4,0.303,0.495,0,-9.591,1,0.0348,0.0368,0.000412,0.0857,0.136,59.59,24
+Christmas Eve (Sarajevo 12/24),Savatage,Dead Winter Dead,1995,204306,3,0.198,0.632,4,-6.434,0,0.0326,0.21,0.926,0.119,0.144,186.576,23
+Edge of Thorns,Savatage,Edge Of Thorns,1993,355893,4,0.312,0.675,7,-10.077,1,0.0436,0.00294,0.000147,0.249,0.258,93.153,29
+Gutter Ballet,Savatage,Gutter Ballet,1989,381400,4,0.313,0.791,0,-6.629,1,0.0514,0.228,0.0758,0.134,0.184,101.328,27
+Hall of the Mountain King,Savatage,Hall Of The Mountain King,1987,333813,4,0.355,0.922,0,-7.331,0,0.103,0.136,0.0138,0.265,0.276,126.937,38
+Power of the Night,Savatage,Power Of The Night,1987,314080,4,0.411,0.896,5,-13.76,1,0.0803,0.0203,0.162,0.135,0.172,87.421,17
+Sirens,Savatage,Sirens,1985,215706,4,0.383,0.694,7,-10.729,1,0.0569,0.000168,0.0537,0.0997,0.275,130.289,21
+The Wake of Magellan,Savatage,The Wake Of Magellan,1994,370400,4,0.424,0.735,2,-8.327,1,0.0357,0.0699,0,0.202,0.494,99.372,15
+When the Crowds Are Gone,Savatage,Gutter Ballet,1991,346333,4,0.355,0.447,7,-11.647,0,0.0385,0.409,0.0015,0.0761,0.315,127.691,27
+747 (Strangers In the Night) (1997 - Remaster),Saxon,Wheels of Steel / Strong Arm of the Law,1980,298640,4,0.475,0.87,0,-8.878,0,0.0762,0.00926,0.000369,0.764,0.318,131.499,41
+And the Bands Played on,Saxon,Denim and Leather,1990,168400,4,0.397,0.897,1,-4.54,0,0.0875,0.0144,0.00504,0.26,0.777,131.906,47
+Crusader,Saxon,Crusader,1984,394666,4,0.433,0.644,9,-8.054,0,0.0381,0.000374,0.000357,0.117,0.323,91.773,44
+Heavy Metal Thunder (2009 Remaster),Saxon,Strong Arm of the Law (2009 Remaster),1980,263840,4,0.312,0.965,1,-6.477,1,0.2,0.00248,0.199,0.572,0.327,107.338,30
+Power and the Glory - 1999 Remaster,Saxon,Power & The Glory (1999 Remaster),1983,355400,4,0.362,0.906,2,-11.932,1,0.0411,0.000139,0.00115,0.0977,0.407,95.884,35
+Princess of the Night,Saxon,Denim and Leather,1981,242453,4,0.33,0.841,1,-5.303,1,0.0562,0.000292,0.000262,0.061,0.672,106.807,52
+Strong Arm of the Law (2009 Remaster),Saxon,Strong Arm of the Law (2009 Remaster),1980,277456,4,0.467,0.848,1,-8.032,1,0.0491,0.00156,0.446,0.104,0.43,133.399,36
+Wheels of Steel (1997 - Remaster),Saxon,Wheels of Steel / Strong Arm of the Law,1980,358626,4,0.546,0.778,8,-8.262,1,0.0606,0.00659,0.538,0.28,0.184,131.336,48
+Big City Nights,Scorpions,Love At First Sting,1984,249000,4,0.532,0.723,9,-11.779,0,0.0333,0.00152,0.00425,0.078,0.866,137.662,56
+Blackout,Scorpions,Blackout,1982,228000,4,0.263,0.84,9,-9.757,1,0.0527,0.00676,0.356,0.7,0.714,89.368,49
+Lovedrive,Scorpions,Lovedrive,1979,292000,4,0.299,0.663,2,-8.658,1,0.0349,0.00238,0.159,0.0787,0.347,141.21,31
+Make It Real,Scorpions,Animal Magnetism,1980,229000,4,0.587,0.734,10,-8.774,1,0.0602,0.0411,0.00307,0.358,0.697,121.715,35
+No One Like You,Scorpions,Blackout,1982,237000,4,0.505,0.631,9,-10.433,0,0.038,0.0203,0.0000221,0.141,0.835,118.178,68
+Rock You Like A Hurricane,Scorpions,Love At First Sting,1984,252000,4,0.482,0.617,4,-12.931,0,0.0458,0.00543,0.000146,0.284,0.718,125.697,71
+Send Me An Angel,Scorpions,Crazy World,1990,273000,3,0.153,0.417,1,-11.587,1,0.0318,0.434,0.000622,0.211,0.166,80.87,70
+Still Loving You,Scorpions,Love At First Sting,1984,387000,4,0.273,0.39,8,-12.384,0,0.0317,0.134,0.00174,0.183,0.0851,103.955,65
+The Zoo,Scorpions,Animal Magnetism,1980,330000,4,0.462,0.704,0,-10.177,1,0.0763,0.056,0.184,0.371,0.221,103.004,54
+Wind Of Change,Scorpions,Crazy World,1990,312000,4,0.452,0.524,0,-10.108,1,0.0351,0.315,0,0.103,0.246,151.505,79
+Attitude,Sepultura,Roots,1996,255400,4,0.475,0.942,1,-4.287,0,0.139,0.00141,0.0797,0.0939,0.178,80.356,52
+Beneath the Remains,Sepultura,Beneath the Remains,1989,314160,4,0.31,0.998,9,-5.236,0,0.132,0.000087,0.00973,0.417,0.0398,118.933,42
+Inner Self,Sepultura,Beneath the Remains,1996,309253,4,0.275,0.997,4,-5.216,1,0.0772,0.000164,0.0711,0.0737,0.0838,160.914,49
+Kaiowas,Sepultura,Chaos A.D.,1991,223586,4,0.466,0.495,2,-13.905,1,0.126,0.11,0.706,0.399,0.269,91.572,39
+Ratamahatta,Sepultura,Roots,1996,270640,4,0.53,0.95,10,-5.402,0,0.0959,0.00801,0.205,0.33,0.411,112.627,57
+Refuse / Resist,Sepultura,Chaos A.D.,1993,199226,4,0.475,0.953,2,-6.951,1,0.15,0.000291,0.00338,0.104,0.232,118.033,58
+Roots Bloody Roots,Sepultura,Roots,1996,212253,4,0.428,0.874,4,-6.664,0,0.128,0.000337,0.0419,0.311,0.261,119.708,63
+Sepulnation,Sepultura,Nation,1996,260360,4,0.468,0.888,2,-6.113,1,0.0561,0.00000705,0.0405,0.158,0.372,113.166,36
+Slave New World,Sepultura,Chaos A.D.,1996,175520,4,0.345,0.973,10,-6.181,1,0.104,0.0000626,0.00697,0.0297,0.193,97.706,48
+Territory,Sepultura,Chaos A.D.,1993,287480,4,0.332,0.946,2,-6.233,1,0.127,0.000275,0.0304,0.136,0.303,153.091,58
+45,Shinedown,Leave a Whisper (Deluxe Edition),2003,250093,3,0.446,0.657,7,-4.494,1,0.0262,0.0022,0,0.189,0.215,152.132,66
+Bully,Shinedown,Amaryllis,2003,242746,4,0.519,0.969,6,-2.34,0,0.0662,0.0000903,0,0.111,0.48,77.011,56
+Cut the Cord,Shinedown,Threat to Survival,2015,224596,4,0.447,0.966,7,-2.966,1,0.089,0.00349,0.000198,0.312,0.533,178.105,70
+GET UP,Shinedown,ATTENTION ATTENTION,2008,245786,4,0.552,0.935,0,-4.096,1,0.0623,0.0174,0.00000198,0.116,0.38,74.954,57
+How Did You Love,Shinedown,Threat to Survival,2018,187626,4,0.331,0.75,5,-5.202,1,0.0436,0.0000686,0.00000121,0.0945,0.26,185.97,57
+If You Only Knew,Shinedown,The Sound of Madness,2008,226640,4,0.449,0.956,9,-4.011,0,0.0398,0.000347,0,0.325,0.321,97.011,54
+Planet Zero,Shinedown,Planet Zero,2022,222738,4,0.416,0.964,9,-2.967,1,0.112,0.0000235,0.000875,0.473,0.212,157.925,55
+Second Chance,Shinedown,The Sound of Madness,2008,222066,4,0.46,0.796,0,-4.501,0,0.0333,0.00107,0,0.106,0.182,100.011,69
+Simple Man - Rock Version,Shinedown,Leave a Whisper (Deluxe Edition),2008,265800,4,0.532,0.625,7,-4.95,1,0.0293,0.064,0,0.223,0.225,120.853,60
+Sound of Madness,Shinedown,The Sound of Madness,2008,233986,4,0.328,0.939,2,-1.654,0,0.0423,0.0000493,0.0065,0.337,0.329,185.971,70
+18 and Life,Skid Row,Skid Row,1989,229960,4,0.303,0.648,1,-11.101,0,0.0347,0.00226,0.0000149,0.112,0.305,180.898,73
+Beggar's Day,Skid Row,Slave to the Grind,1991,242666,4,0.437,0.928,0,-6.763,1,0.0524,0.000252,0.00993,0.112,0.267,96.845,31
+I Remember You,Skid Row,Skid Row,1989,313693,4,0.482,0.528,0,-12.708,1,0.0267,0.00658,0.00000722,0.14,0.489,88.156,69
+In a Darkened Room,Skid Row,Slave to the Grind,1991,235066,4,0.348,0.668,4,-8.97,0,0.0313,0.00275,0.00000105,0.192,0.364,62.919,62
+Monkey Business,Skid Row,Slave to the Grind,1991,258265,4,0.497,0.901,6,-6.724,0,0.0511,0.00102,0.000688,0.104,0.571,96.922,59
+Piece of Me,Skid Row,Skid Row,1991,166693,4,0.487,0.871,4,-10.67,1,0.0476,0.00721,0.0035,0.508,0.835,142.532,55
+Slave to the Grind,Skid Row,Slave to the Grind,1991,208666,4,0.486,0.977,7,-7.566,1,0.105,0.0000068,0.355,0.242,0.307,133.173,58
+The Threat,Skid Row,Slave to the Grind,1991,229466,4,0.528,0.959,7,-5.538,1,0.0658,0.0007,0.0000917,0.392,0.421,114.726,47
+Wasted Time,Skid Row,Slave to the Grind,1989,348760,4,0.368,0.877,0,-6.816,0,0.0466,0.0102,0,0.0754,0.29,84.573,57
+Youth Gone Wild,Skid Row,Skid Row,1989,198906,4,0.535,0.718,7,-11.276,0,0.044,0.00203,0.000119,0.356,0.628,117.369,68
+Before I Forget,Slipknot,Vol. 3: The Subliminal Verses,2004,278600,4,0.291,0.974,6,-2.997,0,0.171,0.0177,0.00000544,0.886,0.348,134.724,77
+Duality,Slipknot,Vol. 3: The Subliminal Verses,2004,252613,4,0.354,0.982,4,-3.026,0,0.168,0.000237,0.000294,0.204,0.194,143.772,80
+Left Behind,Slipknot,Iowa,2001,241466,4,0.229,0.994,6,-3.431,1,0.22,0.0000703,0.00548,0.318,0.115,156.623,65
+Psychosocial,Slipknot,All Hope Is Gone,2008,283400,4,0.576,0.989,2,-1.909,1,0.112,0.00252,0.0032,0.0243,0.352,135.093,62
+Snuff,Slipknot,All Hope Is Gone,2008,276146,4,0.544,0.69,6,-5.723,0,0.0425,0.012,0.0095,0.0615,0.219,123.962,67
+Spit It Out,Slipknot,Slipknot (10th Anniversary Edition),2001,159773,4,0.331,0.946,7,-4.599,1,0.0775,0.0309,0.00000562,0.254,0.534,139.965,63
+Sulfur,Slipknot,All Hope Is Gone,2008,277800,4,0.278,0.985,11,-1.934,1,0.129,0.000234,0.000235,0.104,0.342,104.803,56
+The Heretic Anthem,Slipknot,Iowa,2001,254000,4,0.451,0.993,1,-4.143,1,0.185,0.000562,0.00479,0.152,0.14,100.827,63
+Vermilion,Slipknot,Vol. 3: The Subliminal Verses,2004,316666,3,0.219,0.989,11,-2.962,0,0.16,0.00421,0.0156,0.375,0.149,168.069,64
+Wait and Bleed,Slipknot,Slipknot (10th Anniversary Edition),1999,147840,4,0.382,0.996,7,-4.119,1,0.104,0.00208,0,0.417,0.327,93.345,68
+30/30-150,Stone Sour,Come What(ever) May [10th Anniversary Edition],2006,258066,4,0.512,0.919,4,-4.581,1,0.0894,0.0000403,0.000629,0.0899,0.602,163.035,51
+Absolute Zero,Stone Sour,"House of Gold & Bones, Part 1",2012,229840,4,0.552,0.988,1,-2.555,0,0.0787,0.000108,0.309,0.846,0.619,139.941,65
+Bother,Stone Sour,Stone Sour,2002,240400,4,0.272,0.281,1,-7.634,1,0.0287,0.388,0.0000229,0.158,0.141,89.914,62
+Get Inside,Stone Sour,Stone Sour,2002,193533,4,0.265,0.957,11,-3.415,1,0.0995,0.0000223,0.0291,0.105,0.396,151.61,47
+Made of Scars,Stone Sour,Come What(ever) May [10th Anniversary Edition],2008,203680,4,0.529,0.841,1,-4.025,1,0.0428,0.00000516,0.000846,0.0404,0.283,101.695,44
+Say You'll Haunt Me,Stone Sour,Audio Secrecy,2010,264373,4,0.559,0.868,11,-4.738,0,0.0475,0.000012,0.00394,0.0418,0.684,140.021,56
+sillyworld,Stone Sour,Come What(ever) May [10th Anniversary Edition],2006,250160,4,0.36,0.782,1,-4.561,1,0.0452,0.000144,0.00000884,0.102,0.306,159.985,35
+Through Glass,Stone Sour,Come What(ever) May [10th Anniversary Edition],2006,282946,4,0.545,0.753,3,-4.618,0,0.036,0.0417,0,0.389,0.434,105.754,69
+Big Empty,Stone Temple Pilots,Thank You,1994,293986,4,0.335,0.716,7,-7.023,1,0.0406,0.0346,0,0.107,0.3,121.791,42
+Creep,Stone Temple Pilots,Thank You,1992,332626,4,0.659,0.563,4,-6.32,0,0.0287,0.00431,0.0155,0.11,0.161,107.745,57
+Dead & Bloated - 2017 Remaster,Stone Temple Pilots,Core (Super Deluxe Edition),1992,310080,4,0.574,0.862,7,-6.449,1,0.0601,0.000971,0,0.0923,0.594,122.993,54
+Interstate Love Song,Stone Temple Pilots,Thank You,1994,193613,4,0.214,0.947,4,-5.053,1,0.0509,0.000553,0.00322,0.238,0.484,170.748,53
+Lady Picture Show,Stone Temple Pilots,Tiny Music...Songs from the Vatican Gift Shop,1996,246306,4,0.343,0.936,4,-4.897,1,0.0386,0.0148,0.0000337,0.113,0.522,156.905,49
+Plush,Stone Temple Pilots,Thank You,1992,310400,4,0.417,0.913,7,-6.049,0,0.0441,0.00248,0.00000109,0.166,0.439,144.591,57
+Sour Girl,Stone Temple Pilots,No. 4,1999,256253,4,0.394,0.663,0,-6.619,1,0.0295,0.0769,0.00644,0.239,0.737,207.575,54
+Trippin' on a Hole in a Paper Heart,Stone Temple Pilots,Tiny Music...Songs from the Vatican Gift Shop,1996,175920,4,0.47,0.989,7,-3.857,1,0.0632,0.000386,0.00161,0.157,0.446,106.479,61
+Vasoline,Stone Temple Pilots,Thank You,1994,174760,4,0.296,0.989,10,-4.945,1,0.111,0.00141,0.000167,0.0911,0.324,168.894,43
+Cyco Vision,Suicidal Tendencies,Freedumb,1990,109306,4,0.282,0.996,9,-3.991,1,0.274,0.00668,0,0.0674,0.323,185.423,58
+How Will I Laugh Tomorrow,Suicidal Tendencies,How Will I Laugh Tomorrow When I Can't Even Smile Today,1988,403400,4,0.251,0.803,9,-12.197,0,0.0423,0.0131,0.0000529,0.163,0.544,100.454,39
+I Saw Your Mommy...,Suicidal Tendencies,Suicidal Tendencies,1988,292800,4,0.32,0.715,4,-8.86,1,0.0536,0.00704,0,0.338,0.771,95.547,40
+Institutionalized,Suicidal Tendencies,Suicidal Tendencies,1983,229960,3,0.358,0.804,0,-8.534,1,0.302,0.0404,0,0.111,0.625,91.842,56
+Join The Army,Suicidal Tendencies,Join The Army,1987,217466,4,0.413,0.799,6,-9.409,0,0.0758,0.00409,0,0.05,0.736,89.147,37
+Pledge Your Allegiance,Suicidal Tendencies,How Will I Laugh Tomorrow When I Can't Even Smile Today,1988,270693,4,0.424,0.711,9,-12.811,1,0.0352,0.0236,0.000324,0.133,0.441,92.493,34
+Possessed To Skate,Suicidal Tendencies,Join The Army,1988,154133,4,0.161,0.902,2,-10.844,1,0.0662,0.000157,0.0438,0.348,0.437,185.65,40
+Trip at the Brain,Suicidal Tendencies,How Will I Laugh Tomorrow When I Can't Even Smile Today,1988,271373,4,0.299,0.914,4,-12.181,0,0.048,0.00106,0.0119,0.102,0.637,103.469,42
+War Inside My Head,Suicidal Tendencies,Join The Army,1987,230640,4,0.356,0.943,2,-9.191,1,0.0887,0.00901,0,0.372,0.317,89.789,47
+You Can't Bring Me Down,Suicidal Tendencies,Lights...Camera...Revolution,1988,348093,4,0.272,0.958,0,-10.797,1,0.381,0.00195,0.0000463,0.0915,0.0382,136.867,52
+Aerials,System Of A Down,Toxicity,2001,235053,4,0.364,0.922,0,-4.217,0,0.0567,0.000915,0.0346,0.0697,0.227,79.342,79
+B.Y.O.B.,System Of A Down,Mezmerize,2005,255466,4,0.538,0.981,1,-2.688,0,0.14,0.00662,0,0.219,0.711,101.414,76
+Bounce,System Of A Down,Toxicity,2005,114226,4,0.46,0.977,0,-3.853,0,0.0394,0.000245,0.201,0.283,0.89,92.666,60
+Chop Suey!,System Of A Down,Toxicity,2001,210240,4,0.417,0.934,7,-3.908,0,0.119,0.000278,0.0015,0.132,0.287,127.066,84
+Hypnotize,System Of A Down,Hypnotize,2005,189440,4,0.274,0.92,6,-4.096,1,0.0489,0.0303,0.000412,0.115,0.0397,154.016,69
+Prison Song,System Of A Down,Toxicity,2001,201160,4,0.493,0.974,1,-3.252,1,0.135,0.0202,0.0000831,0.182,0.354,99.647,67
+Science,System Of A Down,Toxicity,2001,162666,4,0.504,0.849,0,-3.606,1,0.0329,0.000497,0.185,0.11,0.513,89.295,57
+Spiders,System Of A Down,System Of A Down,2001,215440,4,0.46,0.54,5,-5.132,1,0.0381,0.0324,0.0168,0.326,0.0506,137.855,68
+Suite-Pee,System Of A Down,System Of A Down,1998,151733,4,0.263,0.89,0,-2.913,1,0.177,0.0022,0.00348,0.306,0.286,190.389,64
+Toxicity,System Of A Down,Toxicity,2001,218933,3,0.413,0.873,8,-4.151,1,0.0536,0.000264,0.00249,0.204,0.48,116.68,83
+Edison's Medicine,Tesla,Psychotic Supper,1994,286905,4,0.482,0.928,7,-7.387,1,0.048,0.000682,0.00126,0.375,0.363,129.431,39
+Hang Tough,Tesla,The Great Radio Controversy,1989,262493,4,0.375,0.856,11,-8.334,0,0.0614,0.041,0.00000144,0.0949,0.205,91.049,42
+Heaven's Trail (No Way Out),Tesla,The Great Radio Controversy,1989,283840,4,0.488,0.862,2,-8.06,1,0.0464,0.0604,0.0000115,0.0926,0.302,109.682,41
+Into the Now,Tesla,Into the Now,2004,265493,1,0.528,0.936,8,-5.061,1,0.0422,0.0000106,0.0601,0.0613,0.583,100.028,21
+Little Suzi,Tesla,Mechanical Resonance,1986,297000,4,0.55,0.719,2,-9.809,1,0.0387,0.0315,0.00000253,0.115,0.358,89.975,47
+Love Song,Tesla,The Great Radio Controversy,1989,323360,4,0.354,0.318,2,-9.974,1,0.034,0.343,0.0389,0.113,0.281,81.854,52
+Modern Day Cowboy,Tesla,Mechanical Resonance,1986,318226,4,0.445,0.768,4,-8.836,1,0.0347,0.0127,0.00000258,0.0925,0.32,112.796,54
+Signs - Live At The Trocadero / 1990,Tesla,Five Man Acoustical Jam,1990,194933,4,0.333,0.74,7,-10.479,1,0.0459,0.161,0,0.982,0.481,162.042,44
+The Way It Is,Tesla,The Great Radio Controversy,1994,308866,4,0.327,0.823,7,-7.122,1,0.0394,0.019,0.000082,0.124,0.489,94.023,39
+What You Give,Tesla,Psychotic Supper,1990,435226,4,0.434,0.579,0,-8.603,1,0.0295,0.123,0.0000291,0.0857,0.369,134.477,50
+Disciples of the Watch,Testament,The New Order,1988,305666,4,0.324,0.871,9,-11.059,0,0.0471,0.000136,0.679,0.342,0.447,99.381,29
+Electric Crown,Testament,The Ritual,1991,330226,4,0.357,0.905,1,-7.787,1,0.0523,0.00395,0.000417,0.375,0.546,81.294,45
+Into the Pit,Testament,The New Order,1988,166240,4,0.372,0.839,6,-9.914,1,0.0405,0.0000185,0.0258,0.142,0.671,103.061,40
+Low,Testament,Low,1994,213706,4,0.371,0.887,6,-9.101,1,0.0483,0.0000611,0.0321,0.0742,0.728,162.355,35
+More Than Meets the Eye,Testament,The Formation of Damnation,2012,273226,4,0.458,0.984,11,-4.294,1,0.15,0.00000644,0.515,0.0678,0.381,155.055,53
+Over the Wall,Testament,The Legacy,1987,246066,4,0.212,0.687,0,-15.09,1,0.0677,0.00000745,0.0693,0.0972,0.308,103.188,39
+Practice What You Preach,Testament,Practice What you Preach,1989,294600,4,0.235,0.976,11,-10.458,0,0.0516,0.000395,0.0544,0.117,0.289,188.058,35
+Souls of Black,Testament,Souls of Black,1990,202493,4,0.404,0.891,11,-11.498,1,0.0547,0.000083,0.209,0.0859,0.516,128.929,47
+The New Order,Testament,The New Order,1988,266573,4,0.382,0.837,11,-10.775,1,0.0403,0.0000149,0.201,0.0554,0.58,96.933,29
+The Preacher,Testament,The New Order,1989,218533,4,0.308,0.833,0,-10.005,1,0.0497,0.000112,0.0231,0.095,0.594,96.506,23
+Edie (Ciao Baby),The Cult,Sonic Temple,1989,286533,4,0.478,0.808,7,-9.159,1,0.0459,0.0766,0.0011,0.209,0.29,102.109,49
+Fire Woman,The Cult,Sonic Temple,1989,307960,4,0.49,0.854,7,-7.489,1,0.0407,0.000258,0.000735,0.299,0.443,132.032,59
+Lil' Devil,The Cult,Electric,1987,166040,4,0.567,0.863,7,-8.155,1,0.0328,0.00277,0.00468,0.346,0.492,130.004,49
+Love Removal Machine,The Cult,Electric,1987,258906,4,0.323,0.857,7,-6.972,1,0.109,0.00217,0.000502,0.0567,0.64,137.537,53
+Rain,The Cult,Love,1991,236466,4,0.561,0.845,0,-6.981,1,0.0328,0.000648,0.823,0.347,0.605,122.731,56
+She Sells Sanctuary,The Cult,Love,1985,252533,4,0.55,0.765,7,-8.684,1,0.0287,0.00000476,0.873,0.132,0.419,139.46,67
+Spiritwalker,The Cult,Pure Cult,1985,193200,4,0.359,0.878,0,-7.678,1,0.0657,0.0000656,0.116,0.326,0.54,164.291,34
+Sweet Soul Sister,The Cult,Sonic Temple,1989,308266,4,0.442,0.866,5,-9.245,1,0.0614,0.124,0.0103,0.159,0.151,93.012,49
+The Witch - Edit,The Cult,Pure Cult,1985,259493,4,0.636,0.876,2,-8.502,1,0.0942,0.000133,0.0585,0.125,0.568,101.45,40
+Wild Flower,The Cult,Electric,1985,217466,4,0.532,0.699,4,-9.496,1,0.0618,0.00674,0.000269,0.0925,0.837,135.425,51
+Cowboy Song,Thin Lizzy,Jailbreak (Deluxe Edition),1976,314440,4,0.531,0.668,8,-9.494,1,0.115,0.218,0.00404,0.307,0.434,134.446,51
+Dancing In The Moonlight (It's Caught Me In It's Spotlight),Thin Lizzy,Bad Reputation (Expanded Edition),1977,204653,4,0.671,0.461,4,-13.874,0,0.13,0.00755,0,0.103,0.784,145.187,59
+Emerald - Alternate Version,Thin Lizzy,1976,1976,245506,3,0.251,0.877,1,-6.969,1,0.123,0.0488,0.0129,0.0548,0.58,179.275,22
+Jailbreak,Thin Lizzy,Jailbreak (Deluxe Edition),1976,240600,4,0.616,0.761,3,-9.199,1,0.126,0.196,0.0025,0.374,0.708,145.074,57
+My Sarah,Thin Lizzy,Black Rose: A Rock Legend,1980,212466,4,0.714,0.562,2,-11.811,1,0.0397,0.472,0.000318,0.0799,0.778,125.309,26
+Rosalie,Thin Lizzy,Fighting,1975,176600,4,0.539,0.811,1,-11.224,0,0.0886,0.0616,0.000899,0.0644,0.553,133.829,44
+Still In Love With You,Thin Lizzy,Nightlife (Deluxe Edition),1974,340040,4,0.584,0.407,0,-11.945,1,0.059,0.0412,0.0368,0.125,0.594,88.94,39
+The Boys Are Back In Town,Thin Lizzy,Jailbreak (Deluxe Edition),1976,266720,4,0.445,0.706,8,-9.803,1,0.0461,0.234,0.000252,0.205,0.768,80.823,72
+Deified,Tony Iommi,Deified,2000,236521,4,0.419,0.918,3,-7.931,1,0.052,0.000272,0.844,0.0736,0.178,138.041,38
+Scent of Dark,Tony Iommi,Scent of Dark,2000,225944,4,0.281,0.701,10,-8.798,0,0.0331,0.0000349,0.767,0.0916,0.202,108.752,30
+Ænema,TOOL,Ænima,1996,399266,3,0.335,0.849,0,-6.927,1,0.321,0.00193,0.254,0.0928,0.256,181.716,61
+Forty Six & 2,TOOL,Ænima,2001,363066,4,0.375,0.682,0,-6.898,0,0.0364,0.00152,0.598,0.0897,0.396,159.23,68
+Jambi,TOOL,"10,000 Days",2006,448613,3,0.475,0.831,9,-7.419,0,0.0505,0.000145,0.854,0.346,0.521,110.42,62
+Lateralus,TOOL,Lateralus,2001,562706,3,0.387,0.677,0,-8.399,1,0.084,0.00108,0.871,0.101,0.371,172.812,61
+Parabola,TOOL,Lateralus,2001,363680,4,0.314,0.929,9,-6.238,1,0.105,0.0000203,0.516,0.139,0.285,100.935,63
+Schism,TOOL,Lateralus,2001,403533,3,0.567,0.714,9,-8.512,0,0.0302,0.0012,0.417,0.186,0.191,107.441,69
+Sober,TOOL,Undertow,1993,306853,4,0.385,0.673,2,-8.182,1,0.0329,0.000183,0.149,0.0721,0.187,149.271,68
+Stinkfist,TOOL,Ænima,1999,312120,4,0.286,0.728,0,-6.608,1,0.0616,0.000174,0.836,0.133,0.467,171.441,67
+The Pot,TOOL,"10,000 Days",2006,381946,4,0.469,0.79,7,-6.889,1,0.0391,0.000148,0.372,0.282,0.466,107.45,68
+Vicarious,TOOL,"10,000 Days",2006,426680,5,0.506,0.877,0,-5.73,1,0.032,0.0000516,0.776,0.0712,0.302,114.589,63
+A Gunshot to the Head of Trepidation,Trivium,Ascendancy,2005,355320,4,0.254,0.952,2,-3.472,0,0.0497,0.0000268,0.000391,0.209,0.481,145.024,46
+Betrayer,Trivium,The Sin and the Sentence,2011,327026,4,0.462,0.976,1,-3.569,1,0.093,0.000258,0.0012,0.334,0.4,96.992,38
+Down from the Sky,Trivium,Shogun (Special Edition),2008,334440,4,0.453,0.987,11,-2.298,0,0.0903,0.0000373,0.00000225,0.0576,0.336,160.035,51
+In Waves,Trivium,In Waves (Special Edition),2011,302466,4,0.477,0.94,9,-3.435,1,0.103,0.000211,0.0518,0.346,0.338,76.517,56
+Like Light to the Flies,Trivium,Ascendancy,2006,340626,4,0.512,0.952,2,-3.903,0,0.0424,0.0000213,0.00232,0.346,0.453,106.028,47
+Pull Harder on the Strings of Your Martyr,Trivium,Ascendancy,2005,291213,4,0.229,0.988,10,-3.475,1,0.116,0.0000151,0.000272,0.0949,0.359,144.96,51
+Shogun,Trivium,Shogun (Special Edition),2008,714986,4,0.227,0.964,11,-4.329,0,0.0549,0.0000204,0.00557,0.296,0.206,139.959,40
+Strife,Trivium,Vengeance Falls (Special Edition),2004,269266,4,0.461,0.987,1,-1.711,0,0.108,0.0000358,0.0000848,0.359,0.309,142.031,56
+The Heart from Your Hate,Trivium,The Sin and the Sentence,2017,243853,4,0.582,0.928,10,-4.659,0,0.0635,0.00876,0.00000503,0.297,0.565,113.043,63
+Until the World Goes Cold,Trivium,Silence in the Snow (Special Edition),2015,321161,4,0.517,0.887,10,-7.637,0,0.0732,0.000244,0.00258,0.151,0.531,166.008,55
+Burn in Hell,Twisted Sister,Stay Hungry,1984,283000,4,0.357,0.828,4,-12.136,0,0.0482,0.00151,0.000527,0.345,0.624,107.126,48
+I Am (I'm Me),Twisted Sister,You Can't Stop Rock 'N' Roll,1983,215000,3,0.375,0.639,11,-11.314,1,0.0331,0.00148,0,0.0718,0.587,138.208,33
+I Wanna Rock,Twisted Sister,Stay Hungry,1984,179000,4,0.504,0.911,2,-2.97,1,0.0738,0.00512,0.0123,0.355,0.671,106.244,70
+Leader of the Pack,Twisted Sister,Come Out and Play,1985,225000,4,0.604,0.592,8,-13.002,1,0.0347,0.0108,0.00000108,0.194,0.376,127.905,38
+S.M.F.,Twisted Sister,Stay Hungry,1984,180000,4,0.406,0.744,9,-11.444,1,0.0399,0.0171,0.000156,0.118,0.389,140.612,31
+Shoot 'Em Down,Twisted Sister,Under the Blade,1982,234000,4,0.514,0.934,9,-5.03,1,0.0839,0.0212,0,0.672,0.551,140.963,13
+Stay Hungry,Twisted Sister,Stay Hungry,1984,183000,4,0.355,0.991,2,-3.055,1,0.162,0.0000223,0.0000954,0.122,0.273,131.478,44
+The Price,Twisted Sister,Stay Hungry,1984,229000,4,0.503,0.56,5,-12.044,1,0.03,0.0382,0,0.059,0.548,77.865,56
+We're Not Gonna Take It,Twisted Sister,Stay Hungry,1984,219000,4,0.502,0.924,4,-6.299,1,0.0503,0.0127,0,0.162,0.922,149.186,72
+You Can't Stop Rock 'N' Roll,Twisted Sister,You Can't Stop Rock 'N' Roll,1983,282000,4,0.24,0.979,2,-3.06,1,0.118,0.000544,0.0000121,0.178,0.308,192.099,42
+Cherry - 2008 Remaster,UFO,Obsession (2008 Remaster),1977,214093,4,0.617,0.544,7,-10.902,1,0.0378,0.0665,0.00042,0.0956,0.153,132.137,23
+Doctor Doctor - 2007 Remaster,UFO,Phenomenon (2007 Remaster),1974,252453,4,0.361,0.799,2,-6.962,0,0.0392,0.000173,0.0000913,0.496,0.576,143.077,60
+Lights Out - 2008 Remaster,UFO,Lights Out (2008 Remaster),1977,275226,4,0.304,0.919,11,-6.071,0,0.119,0.00000325,0.74,0.332,0.536,153.833,48
+Love to Love - 2008 Remaster,UFO,Lights Out (2008 Remaster),1977,436786,3,0.358,0.652,4,-8.206,0,0.0317,0.0017,0.0218,0.123,0.0625,129.864,39
+Only You Can Rock Me - 2008 Remaster,UFO,Obsession (2008 Remaster),2008,248520,4,0.361,0.795,6,-7.927,0,0.0401,0.000428,0.00133,0.0775,0.517,126.568,39
+Rock Bottom - 2007 Remaster,UFO,Phenomenon (2007 Remaster),1974,389333,4,0.256,0.863,5,-6.582,1,0.106,0.0000349,0.00408,0.364,0.519,158.936,52
+Shoot Shoot - 2007 Remaster,UFO,Force It (2007 Remaster),1978,219893,4,0.475,0.912,2,-7.023,1,0.058,0.0000378,0.0000225,0.0806,0.592,137.805,29
+Space Child - 2007 Remaster,UFO,Phenomenon (2007 Remaster),1977,241533,3,0.436,0.494,2,-7.012,1,0.0366,0.0164,0.0177,0.0726,0.624,127.618,50
+Too Hot to Handle - 2008 Remaster,UFO,Lights Out (2008 Remaster),1977,217866,4,0.499,0.896,9,-6.675,1,0.0442,0.00214,0.00699,0.178,0.829,128.426,45
+Ain't Talkin' 'Bout Love,Van Halen,Van Halen,1978,227000,4,0.518,0.938,8,-5.964,0,0.0416,0.021,0.000305,0.288,0.71,139.138,67
+Dance the Night Away,Van Halen,Van Halen II,1979,188000,4,0.548,0.843,8,-7.32,1,0.0597,0.0373,0.00000126,0.0536,0.719,129.661,64
+Eruption,Van Halen,Van Halen,1978,102000,4,0.225,0.689,8,-9.12,1,0.0555,0.469,0.813,0.337,0.5,93.798,64
+Hot for Teacher,Van Halen,1984,1984,282000,4,0.552,0.947,2,-4.671,1,0.15,0.000652,0.00025,0.0637,0.465,127.631,65
+I'll Wait,Van Halen,1984,1984,280000,4,0.626,0.852,2,-4.575,0,0.036,0.232,0.00000417,0.501,0.864,115.401,54
+Jump,Van Halen,1984,1984,241000,4,0.572,0.835,0,-6.219,1,0.0317,0.171,0.000377,0.0702,0.795,129.981,76
+Panama,Van Halen,1984,1984,210000,4,0.526,0.978,8,-5.436,1,0.108,0.00122,0.0000475,0.0744,0.451,141.167,73
+Runnin' with the Devil,Van Halen,Van Halen,1978,214000,4,0.472,0.9,8,-6.406,0,0.0582,0.148,0.000297,0.34,0.42,95.826,69
+Unchained,Van Halen,Fair Warning,1981,209000,4,0.528,0.875,1,-5.912,1,0.0436,0.0145,0,0.138,0.479,136.83,57
+Why Can't This Be Love,Van Halen,5150,1986,227000,4,0.547,0.671,0,-11.274,1,0.054,0.0486,0,0.0875,0.636,88.445,38
+Black Metal,Venom,In League With Satan,1982,224160,4,0.265,0.756,1,-12.136,1,0.0571,0.000939,0.0000132,0.201,0.444,80.076,44
+"Bloodlust (7"" Version)",Venom,Welcome to Hell,1982,179066,4,0.0742,0.897,8,-8.852,0,0.0702,0.000379,0.127,0.0938,0.207,200.479,24
+Countess Bathory,Venom,In League With Satan,1985,228200,4,0.308,0.821,1,-11.326,1,0.0411,0.0000103,0.000145,0.376,0.234,68.605,38
+"In League with Satan (7"" Version)",Venom,Welcome to Hell,1982,211333,4,0.48,0.828,1,-13.317,1,0.0601,0.0921,0.00229,0.831,0.212,105.554,38
+Possessed,Venom,In League With Satan,1985,291733,4,0.202,0.831,7,-9.98,1,0.106,0.00243,0.00906,0.0543,0.0916,117.144,13
+Prime Evil,Venom,Prime Evil,1989,281160,4,0.437,0.731,4,-12.401,0,0.0487,0.0000118,0.908,0.343,0.34,110.743,18
+Welcome to Hell,Venom,Welcome to Hell,1981,193200,4,0.16,0.976,6,-9.157,1,0.0569,0.00132,0.172,0.276,0.095,177.111,41
+Witching Hour,Venom,Welcome to Hell,1984,220026,4,0.131,0.916,1,-10.552,1,0.0761,0.00276,0.286,0.173,0.0349,145.95,34
+A Warrior's Call,Volbeat,Beyond Hell / Above Heaven,2010,263080,3,0.373,0.903,10,-4.49,1,0.083,0.00077,0.00000586,0.244,0.43,109.121,66
+Cape Of Our Hero,Volbeat,Outlaw Gentlemen & Shady Ladies,2013,229093,4,0.515,0.954,0,-4.76,1,0.0444,0.000114,0.0000327,0.111,0.534,104.28,39
+Fallen,Volbeat,Beyond Hell / Above Heaven,2016,300093,4,0.315,0.744,2,-4.609,1,0.059,0.000219,0.000433,0.106,0.532,72.55,59
+For Evigt,Volbeat,Seal The Deal & Let's Boogie (Deluxe),2013,283366,4,0.506,0.893,2,-3.896,1,0.046,0.000309,0,0.118,0.415,146.971,50
+Heaven Nor Hell,Volbeat,Beyond Hell / Above Heaven,2013,322613,4,0.411,0.767,3,-4.211,1,0.056,0.000621,0.00842,0.134,0.659,134.408,58
+Lola Montez,Volbeat,Outlaw Gentlemen & Shady Ladies,2010,267680,4,0.513,0.875,2,-4.819,1,0.0336,0.000139,0.0000328,0.0715,0.677,151.986,56
+Still Counting,Volbeat,Guitar Gangsters & Cadillac Blood,2008,261812,4,0.309,0.919,2,-3.131,1,0.0609,0.00039,0.000225,0.424,0.322,103.89,72
+The Devil's Bleeding Crown,Volbeat,Seal The Deal & Let's Boogie,2016,238653,3,0.32,0.909,7,-4.612,1,0.0412,0.0000162,0.139,0.0443,0.21,109.649,60
+Blind In Texas,W.A.S.P.,The Last Command,1985,261239,4,0.197,0.857,1,-6.986,1,0.0441,0.0114,0.000482,0.0758,0.699,172.564,43
+Chainsaw Charlie(Murders In The New Morgue),W.A.S.P.,The Crimson Idol,1992,523346,4,0.232,0.961,5,-7.454,0,0.161,0.0000353,0.158,0.157,0.297,154.418,38
+Heaven's Hung in Black,W.A.S.P.,Dominator,1992,434240,4,0.144,0.864,10,-4.006,0,0.0951,0.0116,0.000266,0.118,0.0657,188.151,39
+I Wanna Be Somebody,W.A.S.P.,W.A.S.P.,1984,223533,4,0.285,0.825,1,-7.049,0,0.0466,0.000826,0,0.268,0.516,164.611,56
+Mean Man,W.A.S.P.,The Headless Children,1989,287764,4,0.297,0.987,0,-5.533,1,0.0495,0.000581,0.892,0.473,0.653,168.139,44
+Scream Until You Like It - Live,W.A.S.P.,Live... In the Raw,1986,203893,4,0.492,0.955,10,-4.499,0,0.0505,0.000468,0.0000051,0.234,0.602,142.385,28
+Wild Child,W.A.S.P.,The Last Command,1985,312400,4,0.372,0.857,5,-7.816,0,0.0461,0.0604,0.0000942,0.187,0.389,146.084,55
+Black Sunshine,White Zombie,La Sexorcisto: Devil Music Volume 1,1992,289000,4,0.526,0.918,9,-10.879,1,0.0722,0.00213,0.0751,0.25,0.318,166.669,51
+"Electric Head, Part 1 (The Agony)",White Zombie,"Astro Creep: 2000 Songs Of Love, Destruction And Other Synthetic Delusions Of The Electric Head",1992,294626,4,0.535,0.964,1,-5.488,1,0.201,0.000123,0.659,0.622,0.0668,139.73,46
+"Electric Head, Part 2 (The Ecstasy)",White Zombie,"Astro Creep: 2000 Songs Of Love, Destruction And Other Synthetic Delusions Of The Electric Head",1992,233720,4,0.552,0.973,3,-6.091,0,0.0646,0.00000727,0.498,0.099,0.455,120.306,44
+Feed The Gods,White Zombie,"Past, Present & Future",1995,270000,4,0.339,0.957,1,-4.163,1,0.117,0.0000324,0.775,0.303,0.211,125.848,43
+I'm Your Boogieman,White Zombie,"Past, Present & Future",1985,267573,4,0.645,0.985,1,-3.715,1,0.111,0.00113,0.0102,0.223,0.446,113.934,38
+More Human Than Human,White Zombie,"Astro Creep: 2000 Songs Of Love, Destruction And Other Synthetic Delusions Of The Electric Head",1995,268760,4,0.673,0.911,1,-6.725,1,0.0707,0.000367,0.628,0.101,0.54,101.467,59
+Super Charger Heaven,White Zombie,"Astro Creep: 2000 Songs Of Love, Destruction And Other Synthetic Delusions Of The Electric Head",1995,217533,4,0.411,0.954,1,-5.08,1,0.113,0.0000261,0.33,0.104,0.54,183.958,52
+Thunder Kiss '65,White Zombie,La Sexorcisto: Devil Music Volume 1,1992,234080,4,0.684,0.851,9,-9.792,1,0.0407,0.000613,0.0029,0.535,0.512,112.662,64
+Crying in the Rain - 1987 Version; 2018 Remaster,Whitesnake,Whitesnake (2018 Remaster),1987,337000,3,0.319,0.905,4,-7.232,0,0.099,0.000509,0.0000288,0.358,0.234,128.241,35
+Fool for Your Loving - 2019 Remaster,Whitesnake,Slip of the Tongue (2019 Remaster),1989,250000,4,0.489,0.897,9,-6.871,0,0.0412,0.00096,0.0000597,0.166,0.418,125.683,26
+Give Me All Your Love - 2018 Remaster,Whitesnake,Whitesnake (2018 Remaster),1987,208000,1,0.196,0.936,9,-6.401,0,0.113,0.000895,0.000109,0.0827,0.152,102.731,37
+Here I Go Again,Whitesnake,Saints & Sinners,1982,308000,4,0.234,0.75,4,-7.034,0,0.0738,0.369,0.000805,0.139,0.316,173.81,54
+Is This Love - 2018 Remaster,Whitesnake,Whitesnake (2018 Remaster),1987,284000,4,0.263,0.759,0,-7.288,1,0.0431,0.0555,0,0.231,0.429,179.904,57
+Love Ain't No Stranger,Whitesnake,Slide It In,1984,253000,4,0.371,0.557,11,-14.184,0,0.0502,0.0981,0.000318,0.115,0.281,125.823,37
+Slide It In,Whitesnake,Slide It In,1984,200000,4,0.578,0.871,2,-12.511,1,0.0447,0.00492,0.00209,0.105,0.479,130.203,38
+Slow an' Easy,Whitesnake,Slide It In,1984,369000,4,0.63,0.546,0,-14.802,1,0.0443,0.21,0.00969,0.0632,0.258,106.215,42
+Still of the Night - 2018 Remaster,Whitesnake,Whitesnake (2018 Remaster),1987,397000,4,0.334,0.854,4,-7.531,0,0.0494,0.00235,0.00114,0.158,0.284,100.175,55
+The Deeper the Love - 2019 Remaster,Whitesnake,Slip of the Tongue (2019 Remaster),1989,259000,4,0.537,0.662,9,-7.52,1,0.0286,0.000611,0.00000143,0.0863,0.471,104.977,47
+Black Star,Yngwie Malmsteen,The Yngwie Malmsteen Collection,1984,291133,4,0.316,0.732,11,-14.023,1,0.0477,0.00271,0.166,0.0749,0.471,146.072,43
+Dreaming (Tell Me),Yngwie Malmsteen,Odyssey,1985,319906,4,0.331,0.474,1,-11.602,0,0.0324,0.363,0.000952,0.0434,0.338,118.001,38
+Facing The Animal,Yngwie Malmsteen,Facing The Animal,1999,277400,4,0.282,0.912,8,-6.945,1,0.166,0.000601,0.272,0.072,0.526,203.639,23
+Far Beyond The Sun,Yngwie Malmsteen,The Yngwie Malmsteen Collection,1998,350026,4,0.152,0.762,5,-13.985,0,0.0956,0.0061,0.823,0.244,0.481,84.048,43
+Heaven Tonight,Yngwie Malmsteen,Odyssey,1984,246066,4,0.433,0.888,5,-9.37,0,0.102,0.358,0,0.313,0.358,126.919,39
+Rising Force,Yngwie Malmsteen,Odyssey,1984,264066,4,0.321,0.958,8,-10.495,1,0.0872,0.103,0.0000743,0.0994,0.106,117.875,46
+Trilogy Suite Op: 5,Yngwie Malmsteen,Trilogy,1995,437000,4,0.272,0.724,1,-15.163,1,0.0842,0.00136,0.855,0.396,0.152,130.205,37
+"You Don't Remember, I'll Never Forget",Yngwie Malmsteen,Trilogy,1995,269733,4,0.461,0.785,8,-12.12,0,0.0567,0.000957,0.648,0.612,0.424,107.01,43

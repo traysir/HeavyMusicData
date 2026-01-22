@@ -1,0 +1,1041 @@
+{
+  "summary": {
+    "total_bands": 183397,
+    "total_countries": 157,
+    "total_genres": 14,
+    "top_country": "United States",
+    "top_genre": "Black Metal"
+  },
+  "countries": [
+    {
+      "Country": "United States",
+      "Band_Count": 41386,
+      "Dominant_Genre": "Death Metal",
+      "Percentage": 22.57,
+      "lat": 39.8,
+      "lon": -98.5
+    },
+    {
+      "Country": "Germany",
+      "Band_Count": 13840,
+      "Dominant_Genre": "Black Metal",
+      "Percentage": 7.55,
+      "lat": 51.2,
+      "lon": 10.4
+    },
+    {
+      "Country": "Brazil",
+      "Band_Count": 8408,
+      "Dominant_Genre": "Black Metal",
+      "Percentage": 4.58,
+      "lat": -14.2,
+      "lon": -51.9
+    },
+    {
+      "Country": "Italy",
+      "Band_Count": 8100,
+      "Dominant_Genre": "Black Metal",
+      "Percentage": 4.42,
+      "lat": 41.9,
+      "lon": 12.6
+    },
+    {
+      "Country": "United Kingdom",
+      "Band_Count": 7513,
+      "Dominant_Genre": "Black Metal",
+      "Percentage": 4.1,
+      "lat": 55.4,
+      "lon": -3.4
+    },
+    {
+      "Country": "France",
+      "Band_Count": 6749,
+      "Dominant_Genre": "Black Metal",
+      "Percentage": 3.68,
+      "lat": 46.2,
+      "lon": 2.2
+    },
+    {
+      "Country": "Canada",
+      "Band_Count": 6354,
+      "Dominant_Genre": "Black Metal",
+      "Percentage": 3.46,
+      "lat": 56.1,
+      "lon": -106.3
+    },
+    {
+      "Country": "Russia",
+      "Band_Count": 6237,
+      "Dominant_Genre": "Black Metal",
+      "Percentage": 3.4,
+      "lat": 61.5,
+      "lon": 105.3
+    },
+    {
+      "Country": "Sweden",
+      "Band_Count": 5966,
+      "Dominant_Genre": "Death Metal",
+      "Percentage": 3.25,
+      "lat": 60.1,
+      "lon": 18.6
+    },
+    {
+      "Country": "Finland",
+      "Band_Count": 5469,
+      "Dominant_Genre": "Black Metal",
+      "Percentage": 2.98,
+      "lat": 61.9,
+      "lon": 25.7
+    },
+    {
+      "Country": "Spain",
+      "Band_Count": 5245,
+      "Dominant_Genre": "Death Metal",
+      "Percentage": 2.86,
+      "lat": 40.5,
+      "lon": -3.7
+    },
+    {
+      "Country": "Poland",
+      "Band_Count": 4429,
+      "Dominant_Genre": "Black Metal",
+      "Percentage": 2.41,
+      "lat": 51.9,
+      "lon": 19.1
+    },
+    {
+      "Country": "Mexico",
+      "Band_Count": 4414,
+      "Dominant_Genre": "Death Metal",
+      "Percentage": 2.41,
+      "lat": 23.6,
+      "lon": -102.6
+    },
+    {
+      "Country": "Australia",
+      "Band_Count": 3745,
+      "Dominant_Genre": "Death Metal",
+      "Percentage": 2.04,
+      "lat": -25.3,
+      "lon": 133.8
+    },
+    {
+      "Country": "Argentina",
+      "Band_Count": 3543,
+      "Dominant_Genre": "Heavy Metal",
+      "Percentage": 1.93,
+      "lat": -38.4,
+      "lon": -63.6
+    },
+    {
+      "Country": "Chile",
+      "Band_Count": 3488,
+      "Dominant_Genre": "Death Metal",
+      "Percentage": 1.9,
+      "lat": -35.7,
+      "lon": -71.5
+    },
+    {
+      "Country": "Netherlands",
+      "Band_Count": 3090,
+      "Dominant_Genre": "Black Metal",
+      "Percentage": 1.68,
+      "lat": 52.1,
+      "lon": 5.3
+    },
+    {
+      "Country": "Japan",
+      "Band_Count": 3066,
+      "Dominant_Genre": "Heavy Metal",
+      "Percentage": 1.67,
+      "lat": 36.2,
+      "lon": 138.3
+    },
+    {
+      "Country": "Greece",
+      "Band_Count": 2665,
+      "Dominant_Genre": "Black Metal",
+      "Percentage": 1.45,
+      "lat": 39.1,
+      "lon": 21.8
+    },
+    {
+      "Country": "Indonesia",
+      "Band_Count": 2650,
+      "Dominant_Genre": "Death Metal",
+      "Percentage": 1.44,
+      "lat": -0.8,
+      "lon": 113.9
+    },
+    {
+      "Country": "Norway",
+      "Band_Count": 2396,
+      "Dominant_Genre": "Black Metal",
+      "Percentage": 1.31,
+      "lat": 60.5,
+      "lon": 8.5
+    },
+    {
+      "Country": "Colombia",
+      "Band_Count": 2388,
+      "Dominant_Genre": "Black Metal",
+      "Percentage": 1.3,
+      "lat": 4.6,
+      "lon": -74.3
+    },
+    {
+      "Country": "Czechia",
+      "Band_Count": 1881,
+      "Dominant_Genre": "Death Metal",
+      "Percentage": 1.03,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "Country": "International",
+      "Band_Count": 1880,
+      "Dominant_Genre": "Black Metal",
+      "Percentage": 1.03,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "Country": "Portugal",
+      "Band_Count": 1686,
+      "Dominant_Genre": "Black Metal",
+      "Percentage": 0.92,
+      "lat": 39.4,
+      "lon": -8.2
+    },
+    {
+      "Country": "Belgium",
+      "Band_Count": 1673,
+      "Dominant_Genre": "Black Metal",
+      "Percentage": 0.91,
+      "lat": 50.5,
+      "lon": 4.5
+    },
+    {
+      "Country": "Austria",
+      "Band_Count": 1585,
+      "Dominant_Genre": "Death Metal",
+      "Percentage": 0.86,
+      "lat": 47.5,
+      "lon": 14.6
+    },
+    {
+      "Country": "Ukraine",
+      "Band_Count": 1535,
+      "Dominant_Genre": "Black Metal",
+      "Percentage": 0.84,
+      "lat": 48.4,
+      "lon": 31.2
+    },
+    {
+      "Country": "Hungary",
+      "Band_Count": 1447,
+      "Dominant_Genre": "Black Metal",
+      "Percentage": 0.79,
+      "lat": 47.2,
+      "lon": 19.5
+    },
+    {
+      "Country": "Switzerland",
+      "Band_Count": 1383,
+      "Dominant_Genre": "Death Metal",
+      "Percentage": 0.75,
+      "lat": 46.8,
+      "lon": 8.2
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Black Metal",
+      "count": 46249
+    },
+    {
+      "genre": "Death Metal",
+      "count": 45172
+    },
+    {
+      "genre": "Thrash Metal",
+      "count": 21045
+    },
+    {
+      "genre": "Heavy Metal",
+      "count": 16304
+    },
+    {
+      "genre": "Other",
+      "count": 14559
+    },
+    {
+      "genre": "Doom/Stoner",
+      "count": 13314
+    },
+    {
+      "genre": "Power/Symphonic",
+      "count": 7281
+    },
+    {
+      "genre": "Progressive",
+      "count": 7130
+    },
+    {
+      "genre": "Groove Metal",
+      "count": 3789
+    },
+    {
+      "genre": "Grindcore",
+      "count": 2561
+    },
+    {
+      "genre": "Core",
+      "count": 2422
+    },
+    {
+      "genre": "Folk/Viking",
+      "count": 1816
+    },
+    {
+      "genre": "Speed Metal",
+      "count": 1228
+    },
+    {
+      "genre": "Industrial",
+      "count": 527
+    }
+  ],
+  "regions": [
+    {
+      "Region": "Scandinavia",
+      "Total_Bands": 15384,
+      "Top_Genre": "Black Metal",
+      "Top_Genre_Pct": 30.0,
+      "Genre_Distribution": {
+        "Black Metal": 4621,
+        "Death Metal": 3960,
+        "Heavy Metal": 1395,
+        "Thrash Metal": 1252,
+        "Doom/Stoner": 1163
+      }
+    },
+    {
+      "Region": "Western Europe",
+      "Total_Bands": 35833,
+      "Top_Genre": "Black Metal",
+      "Top_Genre_Pct": 26.7,
+      "Genre_Distribution": {
+        "Black Metal": 9554,
+        "Death Metal": 8447,
+        "Thrash Metal": 3775,
+        "Heavy Metal": 3594,
+        "Other": 2673
+      }
+    },
+    {
+      "Region": "Southern Europe",
+      "Total_Bands": 17696,
+      "Top_Genre": "Black Metal",
+      "Top_Genre_Pct": 22.9,
+      "Genre_Distribution": {
+        "Black Metal": 4054,
+        "Death Metal": 3418,
+        "Thrash Metal": 2155,
+        "Heavy Metal": 2053,
+        "Other": 1738
+      }
+    },
+    {
+      "Region": "Eastern Europe",
+      "Total_Bands": 14229,
+      "Top_Genre": "Black Metal",
+      "Top_Genre_Pct": 31.3,
+      "Genre_Distribution": {
+        "Black Metal": 4453,
+        "Death Metal": 3313,
+        "Other": 1318,
+        "Thrash Metal": 1294,
+        "Doom/Stoner": 991
+      }
+    },
+    {
+      "Region": "North America",
+      "Total_Bands": 47740,
+      "Top_Genre": "Death Metal",
+      "Top_Genre_Pct": 25.7,
+      "Genre_Distribution": {
+        "Death Metal": 12264,
+        "Black Metal": 10607,
+        "Thrash Metal": 5926,
+        "Doom/Stoner": 4798,
+        "Other": 3783
+      }
+    },
+    {
+      "Region": "South America",
+      "Total_Bands": 22241,
+      "Top_Genre": "Death Metal",
+      "Top_Genre_Pct": 24.5,
+      "Genre_Distribution": {
+        "Death Metal": 5454,
+        "Black Metal": 5382,
+        "Thrash Metal": 3404,
+        "Heavy Metal": 2372,
+        "Other": 1686
+      }
+    },
+    {
+      "Region": "Asia",
+      "Total_Bands": 7063,
+      "Top_Genre": "Death Metal",
+      "Top_Genre_Pct": 31.9,
+      "Genre_Distribution": {
+        "Death Metal": 2253,
+        "Black Metal": 1127,
+        "Heavy Metal": 770,
+        "Thrash Metal": 713,
+        "Power/Symphonic": 689
+      }
+    },
+    {
+      "Region": "Oceania",
+      "Total_Bands": 4349,
+      "Top_Genre": "Death Metal",
+      "Top_Genre_Pct": 29.0,
+      "Genre_Distribution": {
+        "Death Metal": 1263,
+        "Black Metal": 1063,
+        "Thrash Metal": 460,
+        "Doom/Stoner": 424,
+        "Other": 292
+      }
+    }
+  ],
+  "genre_by_country": {
+    "Argentina": {
+      "Black Metal": 12.9,
+      "Core": 0.8,
+      "Death Metal": 16.9,
+      "Doom/Stoner": 4.7,
+      "Folk/Viking": 0.6,
+      "Grindcore": 0.8,
+      "Groove Metal": 3.2,
+      "Heavy Metal": 22.0,
+      "Industrial": 0.0,
+      "Other": 11.7,
+      "Power/Symphonic": 7.3,
+      "Progressive": 2.7,
+      "Speed Metal": 0.6,
+      "Thrash Metal": 15.6
+    },
+    "Australia": {
+      "Black Metal": 24.4,
+      "Core": 2.1,
+      "Death Metal": 29.1,
+      "Doom/Stoner": 9.2,
+      "Folk/Viking": 0.4,
+      "Grindcore": 2.6,
+      "Groove Metal": 3.4,
+      "Heavy Metal": 4.5,
+      "Industrial": 0.3,
+      "Other": 6.6,
+      "Power/Symphonic": 1.9,
+      "Progressive": 4.3,
+      "Speed Metal": 0.3,
+      "Thrash Metal": 10.8
+    },
+    "Brazil": {
+      "Black Metal": 26.5,
+      "Core": 0.6,
+      "Death Metal": 22.6,
+      "Doom/Stoner": 4.3,
+      "Folk/Viking": 0.6,
+      "Grindcore": 1.7,
+      "Groove Metal": 1.4,
+      "Heavy Metal": 10.0,
+      "Industrial": 0.1,
+      "Other": 6.5,
+      "Power/Symphonic": 4.6,
+      "Progressive": 3.1,
+      "Speed Metal": 1.0,
+      "Thrash Metal": 17.0
+    },
+    "Canada": {
+      "Black Metal": 26.5,
+      "Core": 2.0,
+      "Death Metal": 26.0,
+      "Doom/Stoner": 7.8,
+      "Folk/Viking": 1.0,
+      "Grindcore": 1.6,
+      "Groove Metal": 1.9,
+      "Heavy Metal": 5.9,
+      "Industrial": 0.3,
+      "Other": 6.9,
+      "Power/Symphonic": 3.1,
+      "Progressive": 4.8,
+      "Speed Metal": 0.7,
+      "Thrash Metal": 11.5
+    },
+    "Finland": {
+      "Black Metal": 29.1,
+      "Core": 0.7,
+      "Death Metal": 27.2,
+      "Doom/Stoner": 7.4,
+      "Folk/Viking": 1.3,
+      "Grindcore": 1.0,
+      "Groove Metal": 2.2,
+      "Heavy Metal": 7.7,
+      "Industrial": 0.3,
+      "Other": 7.4,
+      "Power/Symphonic": 4.2,
+      "Progressive": 3.5,
+      "Speed Metal": 0.7,
+      "Thrash Metal": 7.4
+    },
+    "France": {
+      "Black Metal": 33.6,
+      "Core": 1.2,
+      "Death Metal": 22.6,
+      "Doom/Stoner": 6.5,
+      "Folk/Viking": 1.0,
+      "Grindcore": 0.9,
+      "Groove Metal": 1.7,
+      "Heavy Metal": 7.3,
+      "Industrial": 0.5,
+      "Other": 7.2,
+      "Power/Symphonic": 3.5,
+      "Progressive": 4.8,
+      "Speed Metal": 0.7,
+      "Thrash Metal": 8.6
+    },
+    "Germany": {
+      "Black Metal": 26.5,
+      "Core": 1.8,
+      "Death Metal": 24.5,
+      "Doom/Stoner": 5.0,
+      "Folk/Viking": 1.4,
+      "Grindcore": 0.9,
+      "Groove Metal": 1.5,
+      "Heavy Metal": 10.2,
+      "Industrial": 0.2,
+      "Other": 8.0,
+      "Power/Symphonic": 4.2,
+      "Progressive": 3.8,
+      "Speed Metal": 0.9,
+      "Thrash Metal": 11.1
+    },
+    "Italy": {
+      "Black Metal": 23.8,
+      "Core": 0.7,
+      "Death Metal": 18.9,
+      "Doom/Stoner": 6.5,
+      "Folk/Viking": 1.2,
+      "Grindcore": 1.2,
+      "Groove Metal": 1.9,
+      "Heavy Metal": 9.9,
+      "Industrial": 0.4,
+      "Other": 9.3,
+      "Power/Symphonic": 6.5,
+      "Progressive": 6.7,
+      "Speed Metal": 0.8,
+      "Thrash Metal": 12.3
+    },
+    "Mexico": {
+      "Black Metal": 24.4,
+      "Core": 0.8,
+      "Death Metal": 29.3,
+      "Doom/Stoner": 4.9,
+      "Folk/Viking": 1.0,
+      "Grindcore": 1.7,
+      "Groove Metal": 1.6,
+      "Heavy Metal": 8.0,
+      "Industrial": 0.1,
+      "Other": 8.4,
+      "Power/Symphonic": 5.1,
+      "Progressive": 2.8,
+      "Speed Metal": 0.9,
+      "Thrash Metal": 11.0
+    },
+    "Poland": {
+      "Black Metal": 30.8,
+      "Core": 0.7,
+      "Death Metal": 27.9,
+      "Doom/Stoner": 6.4,
+      "Folk/Viking": 1.4,
+      "Grindcore": 1.5,
+      "Groove Metal": 2.0,
+      "Heavy Metal": 4.9,
+      "Industrial": 0.5,
+      "Other": 7.4,
+      "Power/Symphonic": 1.6,
+      "Progressive": 2.7,
+      "Speed Metal": 0.5,
+      "Thrash Metal": 11.8
+    },
+    "Russia": {
+      "Black Metal": 32.6,
+      "Core": 0.9,
+      "Death Metal": 20.7,
+      "Doom/Stoner": 7.5,
+      "Folk/Viking": 3.3,
+      "Grindcore": 0.9,
+      "Groove Metal": 1.8,
+      "Heavy Metal": 7.0,
+      "Industrial": 0.5,
+      "Other": 10.1,
+      "Power/Symphonic": 4.8,
+      "Progressive": 2.4,
+      "Speed Metal": 0.3,
+      "Thrash Metal": 7.1
+    },
+    "Spain": {
+      "Black Metal": 16.1,
+      "Core": 1.2,
+      "Death Metal": 19.4,
+      "Doom/Stoner": 6.3,
+      "Folk/Viking": 1.3,
+      "Grindcore": 1.7,
+      "Groove Metal": 2.7,
+      "Heavy Metal": 17.3,
+      "Industrial": 0.3,
+      "Other": 10.2,
+      "Power/Symphonic": 6.9,
+      "Progressive": 3.5,
+      "Speed Metal": 0.5,
+      "Thrash Metal": 12.7
+    },
+    "Sweden": {
+      "Black Metal": 25.0,
+      "Core": 0.4,
+      "Death Metal": 28.6,
+      "Doom/Stoner": 7.7,
+      "Folk/Viking": 1.1,
+      "Grindcore": 0.7,
+      "Groove Metal": 1.3,
+      "Heavy Metal": 11.6,
+      "Industrial": 0.3,
+      "Other": 6.9,
+      "Power/Symphonic": 4.4,
+      "Progressive": 2.8,
+      "Speed Metal": 0.5,
+      "Thrash Metal": 8.7
+    },
+    "United Kingdom": {
+      "Black Metal": 21.0,
+      "Core": 2.1,
+      "Death Metal": 20.7,
+      "Doom/Stoner": 12.7,
+      "Folk/Viking": 0.8,
+      "Grindcore": 1.1,
+      "Groove Metal": 2.8,
+      "Heavy Metal": 13.6,
+      "Industrial": 0.4,
+      "Other": 7.4,
+      "Power/Symphonic": 2.5,
+      "Progressive": 3.5,
+      "Speed Metal": 0.3,
+      "Thrash Metal": 11.1
+    },
+    "United States": {
+      "Black Metal": 21.6,
+      "Core": 1.6,
+      "Death Metal": 25.6,
+      "Doom/Stoner": 10.4,
+      "Folk/Viking": 0.3,
+      "Grindcore": 1.6,
+      "Groove Metal": 2.6,
+      "Heavy Metal": 7.7,
+      "Industrial": 0.3,
+      "Other": 8.1,
+      "Power/Symphonic": 2.4,
+      "Progressive": 4.6,
+      "Speed Metal": 0.7,
+      "Thrash Metal": 12.5
+    }
+  },
+  "spotify": {
+    "top_artists": [
+      {
+        "Artist": "Bring Me The Horizon",
+        "Popularity": 78,
+        "Genre": "Metalcore",
+        "Subgenre": "Post-Hardcore",
+        "Monthly_Listeners": 18500000,
+        "Track_Count": 15
+      },
+      {
+        "Artist": "Slipknot",
+        "Popularity": 75,
+        "Genre": "Nu Metal",
+        "Subgenre": "Heavy Metal",
+        "Monthly_Listeners": 15200000,
+        "Track_Count": 12
+      },
+      {
+        "Artist": "Sleep Token",
+        "Popularity": 70,
+        "Genre": "Progressive Metal",
+        "Subgenre": "Alternative Metal",
+        "Monthly_Listeners": 8500000,
+        "Track_Count": 6
+      },
+      {
+        "Artist": "Gojira",
+        "Popularity": 68,
+        "Genre": "Death Metal",
+        "Subgenre": "Progressive Death",
+        "Monthly_Listeners": 5800000,
+        "Track_Count": 10
+      },
+      {
+        "Artist": "Lamb of God",
+        "Popularity": 65,
+        "Genre": "Groove Metal",
+        "Subgenre": "Thrash Metal",
+        "Monthly_Listeners": 4200000,
+        "Track_Count": 10
+      },
+      {
+        "Artist": "Turnstile",
+        "Popularity": 65,
+        "Genre": "Hardcore",
+        "Subgenre": "Post-Hardcore",
+        "Monthly_Listeners": 3200000,
+        "Track_Count": 8
+      },
+      {
+        "Artist": "Architects",
+        "Popularity": 64,
+        "Genre": "Metalcore",
+        "Subgenre": "Djent",
+        "Monthly_Listeners": 4500000,
+        "Track_Count": 12
+      },
+      {
+        "Artist": "Bad Omens",
+        "Popularity": 63,
+        "Genre": "Metalcore",
+        "Subgenre": "Alternative Metal",
+        "Monthly_Listeners": 3800000,
+        "Track_Count": 8
+      },
+      {
+        "Artist": "Knocked Loose",
+        "Popularity": 62,
+        "Genre": "Hardcore",
+        "Subgenre": "Metalcore",
+        "Monthly_Listeners": 1800000,
+        "Track_Count": 8
+      },
+      {
+        "Artist": "Parkway Drive",
+        "Popularity": 61,
+        "Genre": "Metalcore",
+        "Subgenre": "Heavy Metal",
+        "Monthly_Listeners": 3200000,
+        "Track_Count": 10
+      },
+      {
+        "Artist": "Spiritbox",
+        "Popularity": 60,
+        "Genre": "Progressive Metal",
+        "Subgenre": "Djent",
+        "Monthly_Listeners": 2800000,
+        "Track_Count": 8
+      },
+      {
+        "Artist": "Lorna Shore",
+        "Popularity": 58,
+        "Genre": "Deathcore",
+        "Subgenre": "Symphonic Deathcore",
+        "Monthly_Listeners": 2200000,
+        "Track_Count": 6
+      },
+      {
+        "Artist": "August Burns Red",
+        "Popularity": 58,
+        "Genre": "Metalcore",
+        "Subgenre": "Progressive Metal",
+        "Monthly_Listeners": 2100000,
+        "Track_Count": 10
+      },
+      {
+        "Artist": "Wage War",
+        "Popularity": 56,
+        "Genre": "Metalcore",
+        "Subgenre": "Heavy Metal",
+        "Monthly_Listeners": 1800000,
+        "Track_Count": 8
+      },
+      {
+        "Artist": "Meshuggah",
+        "Popularity": 56,
+        "Genre": "Djent",
+        "Subgenre": "Progressive Metal",
+        "Monthly_Listeners": 1900000,
+        "Track_Count": 10
+      },
+      {
+        "Artist": "Fit For a King",
+        "Popularity": 55,
+        "Genre": "Metalcore",
+        "Subgenre": "Heavy Metal",
+        "Monthly_Listeners": 1500000,
+        "Track_Count": 8
+      },
+      {
+        "Artist": "Polaris",
+        "Popularity": 54,
+        "Genre": "Metalcore",
+        "Subgenre": "Progressive Metal",
+        "Monthly_Listeners": 1400000,
+        "Track_Count": 8
+      },
+      {
+        "Artist": "Power Trip",
+        "Popularity": 54,
+        "Genre": "Crossover Thrash",
+        "Subgenre": "Hardcore",
+        "Monthly_Listeners": 980000,
+        "Track_Count": 6
+      },
+      {
+        "Artist": "Code Orange",
+        "Popularity": 52,
+        "Genre": "Hardcore",
+        "Subgenre": "Industrial Metal",
+        "Monthly_Listeners": 850000,
+        "Track_Count": 8
+      },
+      {
+        "Artist": "Currents",
+        "Popularity": 52,
+        "Genre": "Metalcore",
+        "Subgenre": "Progressive Metal",
+        "Monthly_Listeners": 1100000,
+        "Track_Count": 6
+      },
+      {
+        "Artist": "Every Time I Die",
+        "Popularity": 51,
+        "Genre": "Metalcore",
+        "Subgenre": "Hardcore",
+        "Monthly_Listeners": 920000,
+        "Track_Count": 10
+      },
+      {
+        "Artist": "Malevolence",
+        "Popularity": 51,
+        "Genre": "Metalcore",
+        "Subgenre": "Groove Metal",
+        "Monthly_Listeners": 720000,
+        "Track_Count": 6
+      },
+      {
+        "Artist": "Kublai Khan TX",
+        "Popularity": 50,
+        "Genre": "Hardcore",
+        "Subgenre": "Metalcore",
+        "Monthly_Listeners": 680000,
+        "Track_Count": 6
+      },
+      {
+        "Artist": "Gatecreeper",
+        "Popularity": 50,
+        "Genre": "Death Metal",
+        "Subgenre": "Crust Punk",
+        "Monthly_Listeners": 580000,
+        "Track_Count": 6
+      },
+      {
+        "Artist": "Undeath",
+        "Popularity": 49,
+        "Genre": "Death Metal",
+        "Subgenre": "Old School Death",
+        "Monthly_Listeners": 520000,
+        "Track_Count": 4
+      }
+    ],
+    "top_tracks": [
+      {
+        "Track": "Top Track",
+        "Artist": "Bring Me The Horizon",
+        "Album": "Post-Hardcore",
+        "Year": 2024,
+        "Popularity": 78,
+        "Monthly_Listeners": 18500000,
+        "Genre": "Metalcore"
+      },
+      {
+        "Track": "Top Track",
+        "Artist": "Slipknot",
+        "Album": "Heavy Metal",
+        "Year": 2024,
+        "Popularity": 75,
+        "Monthly_Listeners": 15200000,
+        "Genre": "Nu Metal"
+      },
+      {
+        "Track": "Top Track",
+        "Artist": "Sleep Token",
+        "Album": "Alternative Metal",
+        "Year": 2024,
+        "Popularity": 70,
+        "Monthly_Listeners": 8500000,
+        "Genre": "Progressive Metal"
+      },
+      {
+        "Track": "Top Track",
+        "Artist": "Gojira",
+        "Album": "Progressive Death",
+        "Year": 2024,
+        "Popularity": 68,
+        "Monthly_Listeners": 5800000,
+        "Genre": "Death Metal"
+      },
+      {
+        "Track": "Top Track",
+        "Artist": "Lamb of God",
+        "Album": "Thrash Metal",
+        "Year": 2024,
+        "Popularity": 65,
+        "Monthly_Listeners": 4200000,
+        "Genre": "Groove Metal"
+      },
+      {
+        "Track": "Top Track",
+        "Artist": "Turnstile",
+        "Album": "Post-Hardcore",
+        "Year": 2024,
+        "Popularity": 65,
+        "Monthly_Listeners": 3200000,
+        "Genre": "Hardcore"
+      },
+      {
+        "Track": "Top Track",
+        "Artist": "Architects",
+        "Album": "Djent",
+        "Year": 2024,
+        "Popularity": 64,
+        "Monthly_Listeners": 4500000,
+        "Genre": "Metalcore"
+      },
+      {
+        "Track": "Top Track",
+        "Artist": "Bad Omens",
+        "Album": "Alternative Metal",
+        "Year": 2024,
+        "Popularity": 63,
+        "Monthly_Listeners": 3800000,
+        "Genre": "Metalcore"
+      },
+      {
+        "Track": "Top Track",
+        "Artist": "Knocked Loose",
+        "Album": "Metalcore",
+        "Year": 2024,
+        "Popularity": 62,
+        "Monthly_Listeners": 1800000,
+        "Genre": "Hardcore"
+      },
+      {
+        "Track": "Top Track",
+        "Artist": "Parkway Drive",
+        "Album": "Heavy Metal",
+        "Year": 2024,
+        "Popularity": 61,
+        "Monthly_Listeners": 3200000,
+        "Genre": "Metalcore"
+      }
+    ],
+    "tier_stats": [
+      {
+        "Popularity_Tier": "Underground",
+        "Avg_Listeners": 278824
+      },
+      {
+        "Popularity_Tier": "Cult",
+        "Avg_Listeners": 777647
+      },
+      {
+        "Popularity_Tier": "Mainstream",
+        "Avg_Listeners": 2863636
+      },
+      {
+        "Popularity_Tier": "Top Tier",
+        "Avg_Listeners": 12000000
+      }
+    ],
+    "genre_breakdown": [
+      {
+        "Genre": "Crossover Thrash",
+        "Popularity": 47.2,
+        "Band_Count": 4,
+        "Monthly_Listeners": 2010000
+      },
+      {
+        "Genre": "Death Metal",
+        "Popularity": 48.9,
+        "Band_Count": 8,
+        "Monthly_Listeners": 8540000
+      },
+      {
+        "Genre": "Deathcore",
+        "Popularity": 53.0,
+        "Band_Count": 2,
+        "Monthly_Listeners": 2950000
+      },
+      {
+        "Genre": "Djent",
+        "Popularity": 56.0,
+        "Band_Count": 1,
+        "Monthly_Listeners": 1900000
+      },
+      {
+        "Genre": "Groove Metal",
+        "Popularity": 65.0,
+        "Band_Count": 1,
+        "Monthly_Listeners": 4200000
+      },
+      {
+        "Genre": "Hardcore",
+        "Popularity": 46.5,
+        "Band_Count": 13,
+        "Monthly_Listeners": 9380000
+      },
+      {
+        "Genre": "Melodic Hardcore",
+        "Popularity": 45.0,
+        "Band_Count": 2,
+        "Monthly_Listeners": 1100000
+      },
+      {
+        "Genre": "Metalcore",
+        "Popularity": 54.6,
+        "Band_Count": 14,
+        "Monthly_Listeners": 40200000
+      },
+      {
+        "Genre": "Nu Metal",
+        "Popularity": 75.0,
+        "Band_Count": 1,
+        "Monthly_Listeners": 15200000
+      },
+      {
+        "Genre": "Progressive Metal",
+        "Popularity": 65.0,
+        "Band_Count": 2,
+        "Monthly_Listeners": 11300000
+      },
+      {
+        "Genre": "Progressive Metalcore",
+        "Popularity": 48.0,
+        "Band_Count": 1,
+        "Monthly_Listeners": 680000
+      }
+    ],
+    "total_tracks": 49,
+    "total_artists": 49
+  }
+}
